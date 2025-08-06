@@ -1,0 +1,13 @@
+{
+  "name": "react-b4n-after",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Before and After puzzle game app",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Justin Mager",
+  "license": "ISC"
+}

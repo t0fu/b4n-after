@@ -1,0 +1,2266 @@
+Before & After	Number of Words	Total Number of Letters	First Word Letters
+'tis The Season Tickets	4	19	3
+A Beautiful Life Jacket	4	20	1
+A Blast From The Past Present And Future	8	33	1
+A Breath Of Fresh Air Fryer	6	22	1
+A Chip Off The Old Block And Tackle	8	28	1
+A Chip Off The Old Block Party	7	24	1
+A Christmas Story For The Ages	6	25	1
+A Cure For The Common Cold Cuts	7	25	1
+A Cut Above The Rest Is History	7	25	1
+A Dream Come True Detective	5	23	1
+A Glass Of Water Buffalo	5	20	1
+A Hard Act To Follow The Leader	7	25	1
+A Hole In One-Way Ticket	5	19	1
+A Hop Skip And A Jump	6	16	1
+A House Is Not A Home On The Range	9	26	1
+A Long Shot In The Dark	6	18	1
+A Man On A Mission Statement	6	23	1
+A Nose For News Director	5	20	1
+A No-Win Situation Comedy	4	21	1
+A Quick Bite To Eat My Words	7	22	1
+A Red-Letter Day By Day	5	18	1
+A Sheepish Grin And Bear It	6	22	1
+A Shiny New Penny Marshall	5	22	1
+A Tough Act To Follow The Leader	7	26	1
+A Trip To Boston Baked Beans	6	23	1
+A Trip To Boston Cream Pie	6	21	1
+A Visit To The Pet Shop Boys	7	22	1
+Abbey Road To Perdition	4	20	5
+Abraham Lincoln Nebraska	3	22	7
+Abraham Lincoln Tunnel	3	20	7
+Absent Without Leave It To Beaver	6	28	6
+Absolute Truth Is Stranger Than Fiction	6	34	8
+Accept The Fact Or Fiction	5	22	6
+Accept The Fact Or Fiction?	5	22	6
+Achievable Goal Line	3	18	10
+Acid Test Tube	3	12	4
+Act Natural Beauty	3	16	3
+Act Your Age Before Beauty	5	22	3
+Act Your Age Of Innocence	5	21	3
+Active Duty Calls	3	15	6
+Active Military Museum	3	20	6
+Adam's Apple Of My Eye	5	17	5
+Adam's Apple Pie	3	13	5
+Adam's Apple Pie A La Mode	6	20	5
+Adam's Apple Turnover	3	18	5
+Add Fuel To The Fire Extinguisher	6	28	3
+Add Volcanic Rock The Casbah	5	24	3
+Agatha Christie Brinkley	3	22	6
+Age Before Beauty Secrets	4	22	3
+Ageless Beauty Mark	3	17	7
+Aiming High Cheekbones	3	20	6
+Air Force One In A Million	6	21	3
+Air Space Station	3	15	3
+Airport Bar Of Soap	4	16	7
+Airport Runway Model	3	18	7
+Al Green Bay	3	10	2
+Al Green Onion	3	12	2
+Al Green Turtle	3	13	2
+Alan Jackson Hole Wyoming	4	22	4
+Alexander Graham Bell Ringer	4	25	9
+Alexander The Great Balls Of Fire	6	28	9
+Alexander The Great Britain	4	24	9
+Alexander The Great Dane	4	21	9
+Alexander The Great Minds Think Alike	6	32	9
+Alexander The Great Smoky Mountains	5	31	9
+Alive And Kicking Back	4	19	5
+All For One And One For All In The Family	10	32	3
+All Hands On Deck Chairs	5	20	3
+All Rise For The Queen Bee	6	21	3
+All Roads Lead To Rome Wasn't Built In A Day	10	34	3
+All Sales Are Final Exam	5	20	3
+All The Time Zone	4	14	3
+All The World's A Stage Fright	6	24	3
+Allied Forces Beyond Our Control	5	28	6
+Almond Joy Behar	3	14	6
+Almond Joy To The World	5	19	6
+Alter Ego Trip	3	12	5
+Alton Brown And Serve Rolls	5	23	5
+Always Be Polite To A Lady Antebellum	7	31	6
+Amazing Bookstores	2	17	7
+Amazing Trick Knee	3	16	7
+Amazon Jungle Gym	3	15	6
+America The Beautiful Model	4	24	7
+America's Final Season Premiere	4	27	8
+America's Game Of Thrones	4	21	8
+American Buffalo Wings	3	20	8
+American Express Yourself	3	23	8
+American Graffiti Artist	3	22	8
+American Pie Plate	3	16	8
+American Pie Tin	3	14	8
+American Red Cross Your Heart	5	25	8
+America's Next Top Model Train Set	6	28	8
+Amusement Park Ranger	3	19	9
+Amy Grant Permission	3	18	3
+An American Werewolf In London Calling	6	33	2
+Ancient Stone Temple Pilots	4	24	7
+Ancient Times Square	3	18	7
+Andrew Dice Clay Aiken	4	19	6
+Andrew Jackson Hole Wyoming	4	24	6
+Angry Birds Of A Feather	5	20	5
+Any Given Sunday Driver	4	20	3
+Apartment Complex Carbohydrates	3	29	9
+Apocalypse Now And Again	4	21	10
+Apple Watch Very Carefully	4	23	5
+April Shower Cap	3	14	5
+Arctic Circle Of Friends	4	21	6
+Are You Ready Cash	4	15	3
+Army Major Stumbling Block	4	23	4
+Artichoke Heart Of Darkness	4	24	9
+Artichoke Heart Of The Matter	5	25	9
+Artichoke Heart Surgeon	3	21	9
+Artist's Board Of Directors	4	23	7
+Asparagus Tip Of The Iceberg	5	24	9
+Assume Identity Crisis	3	20	6
+Assumed Identity Crisis	3	21	7
+Athlete's Foot Massage	3	19	8
+Athlete's Foot Soldier	3	19	8
+Atomic Mass Audience	3	18	6
+Audio Clip Art	3	12	5
+Austin Powers That Be	4	18	6
+Authorized Signature Song	3	23	10
+Baby Blue River	3	13	4
+Baby On Board Of Directors	5	22	4
+Baby We Were Born To Run Out Of Gas	9	27	4
+Back To Square One In A Million	7	25	4
+Back To The Future Plans	5	20	4
+Backroom Deal Me In	4	16	8
+Backward Pass The Ketchup	4	22	8
+Bacon Slice Of Pie	4	15	5
+Bad Hair Day Care Center	5	20	3
+Baking & Blasting Powder	3	20	6
+Baking From Scratch ‘N' Sniff	5	24	6
+Baking From Scratch “N” Sniff	5	25	6
+Baking From Scratch 'N' Sniff	5	23	6
+Baking Powder Puff	3	16	6
+Baking Soda Fountain	3	18	6
+Baking Soda Pop	3	13	6
+Balance Beam Of Light	4	18	7
+Balance Of Power Mower	4	19	7
+Bald Eagle Scout	3	14	4
+Ballot Box Of Candy	4	16	6
+Bamboo Shoot The Breeze	4	20	6
+Banana Split Decision	3	19	6
+Banana Split Ends	3	15	6
+Banana Split Infinitive	3	21	6
+Banana Split Personality	3	22	6
+Banana Split Second	3	17	6
+Banana Split The Difference	4	24	6
+Bank Holiday Party	3	16	4
+Banquet Hall Of Fame	4	17	7
+Baseball Diamond Earrings	3	23	8
+Baseball Diamond In The Rough	5	25	8
+Baseball Diamond Ring	3	19	8
+Baseball Park Your Car	4	19	8
+Basketball Court Of Law	4	20	10
+Basketball Hoop Skirt	3	19	10
+Basketball Player Piano	3	21	10
+Basset Hounds Of Baskerville	4	25	6
+Batman & Robin Thicke	3	17	6
+Batman And Robin Thicke	4	20	6
+Batman Villain Scarecrow	3	22	6
+Batting Cage Match	3	16	7
+Batting Practice Makes Perfect	4	27	7
+Be My Little Baby Corn	5	18	2
+Beaming With Pride Of The Irish	6	26	7
+Beat Around The Bush Administration	5	31	4
+Beautiful Maiden Voyage	3	21	9
+Beauty And The Beast Mode	5	21	6
+Beauty And The Beast Of Burden	6	25	6
+Beauty Mark My Words	4	17	6
+Beauty Mark Of Zorro	4	17	6
+Beauty Shop Online	3	16	6
+Beauty Tip Of The Iceberg	5	21	6
+Beef Stock Market	3	15	4
+Beer Nuts & Bolts	3	13	4
+Beer Nuts And Bolts	4	16	4
+Beer Tap Dancing	3	14	4
+Beginning Middle & End Zone	4	22	9
+Behind The Eight Ball Of Yarn	6	24	6
+Bellamy Young At Heart	4	19	7
+Bench Press Your Luck	4	18	5
+Bending My Knee Pads	4	17	7
+Bengal Tiger Woods	3	16	6
+Best Friends With Benefits	4	23	4
+Betty White Rice Bowl	4	18	5
+Betty White Sandy Beaches	4	22	5
+Beverly Hills & Top Cop	4	18	7
+Beyond Belief System	3	18	6
+Big Bear Lake Cabin	4	16	3
+Big Ben Affleck	3	13	3
+Big Ben Stiller	3	13	3
+Bill Thomas Cheetah	3	17	4
+Billy Crystal Ball	3	16	5
+Billy Crystal Candy Dish	4	21	5
+Billy Crystal Vase	3	16	5
+Billy The Kid Gloves	4	17	5
+Birthday Wish You Were Here	5	23	8
+Birthstone Ring Around The Collar	5	29	10
+Birthstone Ring Of Fire	4	20	10
+Bite Mark Ruffalo	3	15	4
+Black Cape Cod	3	12	5
+Black Hole In One	4	14	5
+Black Hole-In-One	2	14	5
+Blair House Of Cards	4	17	5
+Blank Check Mark	3	14	5
+Blend In With The Wallpaper Hanger	6	29	5
+Blessed Event Planner	3	19	7
+Blood Pressure Points	3	19	5
+Blow Off A Little Steam Engine	6	25	4
+Blue Jay Gatsby	3	13	4
+Blue Jay Leno	3	11	4
+Blue Spruce Up Your Everyday Style	6	29	4
+Blue-Plate Special Relativity	3	26	9
+Blushing Bride Of Frankenstein	4	27	8
+Board Game Changer	3	16	5
+Board Game Of Thrones	4	18	5
+Boarding Pass With Flying Colors	5	28	8
+Bob Denver Omelet	3	15	3
+Body And Soul Man	4	14	4
+Bone Dry Dock	3	11	4
+Bone-Dry Dock	2	11	7
+Boom Box Of Chocolates	4	19	4
+Bottled Water Polo	3	16	7
+Bow Tie Score	3	11	3
+Bowling Alley Cat	3	15	7
+Boxing & Mix And Match	4	17	6
+Boxing Match Point	3	16	6
+Boxing Ring Toss	3	14	6
+Boxing Ring-Around-A-Rosy	2	21	6
+Branch Library Of Congress	4	23	6
+Brass Button Your Lip	4	18	5
+Break Even Steven	3	15	5
+Break Even-Steven	2	15	5
+Break Your Old Routines	4	20	5
+Breaking Point Of No Return	5	23	8
+Brick House Of Cards	4	17	5
+Brick Red Square	3	14	5
+Brick Wall Art	3	12	5
+Bridal Party Like A Rock Star	6	24	6
+Bridge The Gap Band	4	16	6
+Brigham Young At Heart	4	19	7
+Bright Object Of My Affection	5	25	6
+Bright Sun Hat	3	12	6
+Bright Sun Kwon	3	13	6
+Bring Up The Rear Admiral	5	21	5
+Brisk Walk Don't Run	4	16	5
+Broadway Musical Chairs	3	21	8
+Broken Heart Of Glass	4	18	6
+Broken Heart Of Gold	4	17	6
+Brokerage Firm Grip	3	17	9
+Bruce Wayne Brady	3	15	5
+Bruno Mars Attacks!	3	16	5
+Bubble Bath Bombs	3	15	6
+Buddy System Of A Down	5	18	5
+Buffalo Bill Of Rights	4	19	7
+Bugle Call Of The Wild	5	18	5
+Built On Solid Ground Beef	5	22	5
+Bull In A China Shop 'til You Drop	8	26	4
+Bulletin Board Game	3	17	8
+Bumper-To Bumper Crop	3	18	8
+Bumpy Road Construction	3	21	5
+Bundle Of Joy To The World	6	21	6
+Bungee Jumping For Joy	4	19	6
+Bungee Jumping To Conclusions	4	26	6
+Burger King Of The Hill	5	19	6
+Burn Rubber Stamp	3	15	4
+Burrito Supreme Court	3	19	7
+Burrito Supreme Court Decision	4	27	7
+Burt Reynolds Wrap	3	16	4
+Bus Stop In The Name Of Love	7	22	3
+Business Suit In Amour	4	19	8
+Business Suit In Armor	4	19	8
+Business Suit Of Armor	4	19	8
+Butcher Block Party	3	17	7
+Butterfly Stroke Of Genius	4	23	9
+Buy One Get One Free Kick	6	20	3
+Buying A New House Of Cards	6	22	6
+By The Book Depository	4	19	2
+Cabin Pressure Cooker	3	19	5
+Cabin Pressure Gauge	3	18	5
+Cabin Pressure Point	3	18	5
+Cadbury Eggs Benedict	3	19	7
+Caesar Salad Dressing For Success	5	29	6
+Cafe Terrace At Night Of The Living Dead	8	33	4
+Cake Batter Up!	3	12	4
+California Gold Rush Hour	4	22	10
+California Here I Come And Get It	7	27	10
+California Here I Come And Get Me	7	27	10
+Call Me Back And Forth	5	18	4
+Call Waiting In Line	4	17	4
+Call Waiting To Exhale	4	19	4
+Calm Down The Hatch	4	16	4
+Camera Flash Cards	3	16	6
+Camera Flash Flood	3	16	6
+Campaign & Hiking Trail	3	19	8
+Campaign Event Of The Season	5	24	8
+Can You Keep A Secret Formula	6	24	3
+Candy Bar Of Soap	4	14	5
+Candy Cane Sugar	3	14	5
+Candy Corn On The Cob	5	17	5
+Candy Heart Of Darkness	4	20	5
+Canopy Bed Of Kelp	4	15	6
+Cape Cod Liver Oil	4	15	4
+Cape Fear The Worst	4	16	4
+Cape Porcupine	2	13	4
+Captain Cold Weather	3	18	7
+Captain Hook Line And Sinker	5	24	7
+Car Key To The City	5	15	3
+Caramel Apple Juice	3	17	7
+Cardboard Box Your Ears	4	20	9
+Cardiac Arrest Warrant	3	20	7
+Cargo Deck Of Cards	4	16	5
+Cargo Hold My Hand	4	15	5
+Cargo Hold That Tiger	4	18	5
+Carnian Age Before Beauty	4	22	7
+Carrying A Heavy Pack Rat	5	21	8
+Cartoon Character Trait	3	21	7
+Cash Register To Vote	4	18	4
+Cash Register To Win	4	17	4
+Casper The Friendly Ghost Pepper	5	28	6
+Casper The Friendly Ghost Peppers	5	29	6
+Casting Call Me Sometime	4	21	7
+Casual Dress Shop	3	15	6
+Cat Food For Thought	4	17	3
+Cattle Drive Safely	3	17	6
+Caught Off-Guard Shack	3	19	6
+Cautionary Tale Of Two Cities	5	25	10
+Cbs Television City Council	4	24	3
+Ceiling Fan Club	3	14	7
+Celestial Bodies Of Water	4	22	9
+Celestial Body Of Work	4	19	9
+Celine Dion & The Belmonts	4	21	6
+Center Stage Door	3	15	6
+Certified Check This Out	4	21	9
+Chairman Of The Board Games	5	23	8
+Champagne Glass Menagerie	3	23	9
+Change Of Heart Emoji	4	18	6
+Change Your Mind Over Matter	5	24	6
+Channel Surfing Lesson	3	20	7
+Channing Tatum O'Neal	3	18	8
+Charcuterie Board Game	3	20	11
+Charcuterie Board Of Education	4	27	11
+Chariots Of Fire Hose	4	18	8
+Charleston Chew Toy	3	17	10
+Charlie Brown Paper Bag	4	20	7
+Charlotte Square Root	3	19	9
+Charlotte's Web Of Deceit	4	21	10
+Cheap Labor Of Love	4	16	5
+Cheap Labour Of Love	4	17	5
+Cherry Pie In The Sky	5	17	6
+Cherry Red Square	3	15	6
+Cherry Soda Pop Of Color	5	20	6
+Chicago & Black Bears	3	17	7
+Chicken Fingers & Toes	3	18	7
+Chicken Little Dipper	3	19	7
+Chicken Little Richard	3	20	7
+Chicken Scratch My Back	4	20	7
+Chicken Stock Exchange	3	20	7
+Chicken Stock Future	3	18	7
+Chicken Stock Futures	3	19	7
+Chill Out And Stay Out	5	18	5
+Chimney Stack Of Newspapers	4	24	7
+Chips & Dip In The Road	5	17	5
+Chocolate Bar Of Soap	4	18	9
+Chris Brown Sugar	3	15	5
+Chris Paul Mccartney	3	18	5
+Chris Rock Climbers	3	17	5
+Christmas Carol Burnett	3	21	9
+Christopher Columbus Ohio	3	23	11
+Christopher Robin Redbreast	3	25	11
+Cinco De Mayo Clinic	4	17	5
+Cinnamon Heart Of Dark	4	19	8
+Cinnamon Heart Of Darkness	4	23	8
+Cinnamon Roll Call	3	16	8
+Circular Motion Picture	3	21	8
+Circus Clown Fish	3	15	6
+City Block And Tackle	4	18	4
+Civic Duty Calls	3	14	5
+Class Act Accordingly	3	19	5
+Class Act Normal	3	14	5
+Class Clown Nose	3	14	5
+Clean As A Whistle Stop	5	19	5
+Clean As A Whistle While You Work	7	27	5
+Clean Bill Of Health Craze	5	22	5
+Clean Your Room Temperature	4	24	5
+Climate Change Your Mind	4	21	7
+Clint Black Stallion	3	18	5
+Clip Joint Chiefs Of Staff	5	22	4
+Closed Set Of Earrings	4	19	6
+Closet Space Invaders	3	19	6
+Closet Space Travel	3	17	6
+Closing Time And Time Again	5	23	7
+Closing Time Of Your Life	5	21	7
+Clove Of Garlic Bread	4	18	5
+Clove Of Garlic Breath	4	19	5
+Coat Of Arms & Legs	4	14	4
+Coat Of Arms And Legs	5	17	4
+Coaxial Cable Stitch	3	18	7
+Coconut Water Fountain	3	20	7
+Coffee Bean Sprouts	3	17	6
+Coffee Break A Leg	4	15	6
+Coffee Grounds For Suspicion	4	25	6
+Coffee Press Credentials	3	22	6
+Coffee Press Release	3	18	6
+Coffee Table Tennis	3	17	6
+Coffee-Table Book Club	3	19	11
+Cold As Ice Bucket	4	15	4
+Coleslaw Dressing Room	3	20	8
+Colon Jogging Path To Success	5	25	5
+Color Blind Date	3	14	5
+Color Me America The Beautiful	5	26	5
+Color Wheel Of Fortune	4	19	5
+Colors That Pop Quiz	4	17	6
+Comedy Film Industry	3	18	6
+Comedy Routine Maintenance	3	24	6
+Comedy Team Player	3	16	6
+Comic Strip Of Bacon	4	17	5
+Commencement Address Unknown	3	26	12
+Common Knowledge Is Power	4	22	6
+Common Sense Of Danger	4	19	6
+Common Sense Of Smell	4	18	6
+Completely Miss The Mark Buffalo	5	28	10
+Computer Mouse Trap	3	17	8
+Concert Hall Of Justice	4	20	7
+Concert Hall Of Records	4	20	7
+Concession Stand And Deliver	4	25	10
+Concession Stand By Me	4	19	10
+Concession Stand Up Straight	4	25	10
+Conference Call Forward	3	21	10
+Confirmation Letter Opener	3	24	12
+Conga Line Of Fire	4	15	5
+Congressional Hearing Aid	3	23	13
+Constitutional Law & Order	3	22	14
+Continental Breakfast Burrito	3	27	11
+Conveyor Belt Buckle	3	18	8
+Cooking Pot Of Gold	4	16	7
+Cool Hand Luke Evans	4	17	4
+Corned Beef Hash It Out	5	19	6
+Corner Pocket Protector	3	21	6
+Corporate Tax Rate Of Return	5	24	9
+Correct Answer The Question Please	5	30	7
+Cosmic Dust Bunnies	3	17	6
+Couch Potato Chips	3	16	5
+Couch Potato Pancake	3	18	5
+Couch Potato Peeler	3	17	5
+Couch Potato Salad	3	16	5
+County And Child's Car Seat	5	22	6
+Cover Charge By The Hour	5	20	5
+Cowboy Boot Camp	3	14	6
+Crawl Space Station	3	17	5
+Cream Of The Crop-Duster	4	20	5
+Creamed Corn Tortillas	3	20	7
+Cream-Filled Center Of The Universe	5	30	11
+Crime Doesn't Pay With Cash Or Credit Card	8	34	5
+Criminal Law Of Averages	4	21	8
+Critical Mass Audience	3	20	8
+Crocodile Rock The Boat	4	20	9
+Cruise Line Judge	3	15	6
+Cry Foul Ball	3	11	3
+Cup Of Java Sparrow	4	16	3
+Curiosity Killed The Cat Burglar	5	28	9
+Curiosity Killed The Cat On A Hot Tin Roof	9	34	9
+Curling Iron Man	3	14	7
+Currency Exchange Phone Numbers	4	28	8
+Curtain Call Me We'll Do Lunch	6	24	7
+Curtain Call Of The Wild	5	20	7
+Curtain Call Your Mother	4	21	7
+Custer's Last Stand By Me	5	20	7
+Custer's Last Stand By Your Man	6	25	7
+Customer Service Charge	3	21	8
+Cutting Back To The Basics	5	22	7
+Cyrus The Great Dane	4	17	5
+Daffy Duck Duck Goose	4	18	5
+Daffy Duck Pond	3	13	5
+Dairy Queen Victoria	3	18	5
+Dancing Queen Latifah	3	19	7
+Dancing Queen Of England	4	21	7
+Date Of Birth Keepsakes	4	20	4
+David Letterman Jacket	3	20	5
+David Letterman Sweater	3	21	5
+David Price Tag	3	13	5
+Dead Wrong Way	3	12	4
+Deal Of A Lifetime Warranty	5	23	4
+Death Valley Girl	3	15	5
+Debbie Reynolds Wrap	3	18	6
+Deck The Halls Of Justice	5	21	4
+Deep Space Heater	3	15	4
+Defensive & Scratch My Back	4	22	9
+Defensive End Of The Line	5	21	9
+Defensive Team Effort	3	19	9
+Demanding Job Offer	3	17	9
+Den Mother Nature	3	15	3
+Denzel Washington Monument	3	24	6
+Deodorant Stick-In-The-Mud	2	22	9
+Department Head Of Cattle	4	22	10
+Department Heads Of State	4	22	10
+Department Of The Interior Decorator	5	32	10
+Deposit Slip And Fall	4	18	7
+Deposit Slip Of The Tongue	5	22	7
+Deveined Shrimp Cocktail	3	22	8
+Dialog Box Seats	3	14	6
+Diamond Head Of The Class	5	21	7
+Diamond In The Rough Draft	5	22	7
+Diamond Ring Around The Collar	5	26	7
+Diana Ross Geller	3	15	5
+Diaper Bag Of Tricks	4	17	6
+Different As Night And Day Shift	6	27	9
+Dining Table Tennis	3	17	6
+Dinner For Five O'Clock	4	19	6
+Dinner Table Of Contents	4	21	6
+Dinner Table Saw	3	14	6
+Dirt Poor Excuse	3	14	4
+Dirt Road Map	3	11	4
+Dirt-Poor Excuse	2	14	8
+Dirty Harry Potter	3	16	5
+Disc Jockey Shorts	3	16	4
+District Of Columbia University	4	28	8
+Divine Providence Rhode Island	4	27	6
+Diving Bell Curve	3	15	6
+Diving Bell Pepper	3	16	6
+Diving Bell Tower	3	15	6
+Division Sign Language	3	20	8
+Do The Funky Chicken Noodle Soup	6	27	2
+Doctor Strange Story	3	18	6
+Dog Days Of Thunder	4	16	3
+Dog Pound Cake	3	12	3
+Doggie Bag Of Tricks	4	17	6
+Dogwood Tree Of Life	4	17	7
+Dollar Bill Gates	3	15	6
+Don't Assume Anything Goes	4	22	4
+Don't Be A Square Root	5	17	4
+Don't Cry Over Spilled Milk Toast	6	27	4
+Don't Cry Over Spilt Milk Carton	6	26	4
+Don't Get Mad Money	4	15	4
+Don't Give Up Your Day Job Search	7	26	4
+Don't Go To Bed Angry Birds	6	21	4
+Don't Judge A Book By Its Cover Charge	8	30	4
+Don't Make Me Nervous Energy	5	23	4
+Don't Press Your Luck Of The Draw	7	26	4
+Donald Duck Duck Goose	4	19	6
+Donald Duck For Cover	4	18	6
+Donald Duck Pond	3	14	6
+Don't Touch That Dial The Wrong Number	7	31	4
+Doris Day School	3	14	5
+Down But Not Out To Lunch	6	20	4
+Down For The Count Dracula	5	22	4
+Down On My Luck Of The Draw	7	21	4
+Down Under The Weather	4	19	4
+Down-And-Out Of My League	4	20	10
+Down-Home Folk Dancers	3	19	8
+Downward Spiral Pasta	3	19	8
+Draft Board Of Education	4	21	5
+Drama Queen Of Hearts	4	18	5
+Drawing Barrel Of Fun	4	18	7
+Dream Bubble Gum	3	14	5
+Dream Job Interview	3	17	5
+Drinking Water Polo	3	17	8
+Driving Test Kitchen	3	18	7
+Drop Kick Up Your Heels	5	19	4
+Dry Sherry Darling	3	16	3
+Dude Ranch Dressing	3	17	4
+Dunk Shot In The Dark	5	17	4
+Dutch Treat Yourself	3	18	5
+Ear Of Corn Dogs	4	13	3
+Early Snow Goose	3	14	5
+Early Snow Shovel	3	15	5
+Earth Mother Goose	3	16	5
+Easter Egg Noodles	3	16	6
+Easy As Pie In The Sky	6	17	4
+Easy As Pie Plate	4	14	4
+Eat My Words Of Wisdom	5	18	3
+Eating A Candy Heart Of Darkness	6	27	6
+Economy Class Syllabus	3	20	7
+Eddie Murphy Brown	3	16	5
+Editorial Staff Nurse	3	19	9
+Edward Norton Antivirus	3	21	6
+Edward Norton Endeavors	3	21	6
+Egg On Your Face Value	5	18	3
+Eggs Benedict Cumberbatch	3	23	4
+Eggs Over Easy As Pie	5	17	4
+Eggs Over Easy Chair	4	17	4
+Elastic Lace Headband	3	19	7
+Elected Official Ballot	3	21	7
+Election Day Of Reckoning	4	22	8
+Electric Blanket Of Snow	4	21	8
+Electric Blanket Statement	3	24	8
+Electric Shock Jock	3	17	8
+Electrical Outlet Mall	3	20	10
+Electronic Dance Music	3	20	10
+Elephant In The Room Service	5	24	8
+Elephant In The Room Temperature	5	28	8
+Elephant Seal Of Approval	4	22	8
+Elon Musk Ox	3	10	4
+Elvis Has Left The Building Manager	6	30	5
+Emergency Kit Carson	3	18	9
+Emergency Room For Improvement	4	27	9
+Emergency Room To Breathe	4	22	9
+Emma Stone Formation	3	18	4
+Emotional Plea Bargain	3	20	9
+Emotionally Charged Battery	3	25	11
+Enchanted Forest Ranger	3	21	9
+Encouraging Words Are Just Words	5	28	11
+Energy Bar Of Soap	4	15	6
+Engagement Ring Around The Collar	5	29	10
+Engagement Ring Toss	3	18	10
+Engagement Ring-Around-The-Rosy	2	27	10
+Engagment Ring Around The Collar	5	28	9
+English Language Barrier	3	22	7
+Enough Is Enough Said	4	18	6
+Eric Church Wedding	3	17	4
+European Union Card	3	17	8
+Eventful Day In The Life	5	20	8
+Every Tom Dick & Harry Potter	5	23	5
+Exchange Student Driver	3	21	8
+Exclamation Point Me In The Right Direction	7	37	11
+Exclamation Point Of View	4	22	11
+Exclusive Look Over There	4	22	9
+Extended Family Dinner	3	20	8
+Extended Family Vacation	3	22	8
+Extended Stay As Long As You Like	7	27	8
+Extra Credit Score	3	16	5
+Eye Candy Bar	3	11	3
+Eye Contact Sport	3	15	3
+Eye Of The Needle In A Haystack	7	25	3
+Face The Facts Of Life	5	18	4
+Face The Music Video	4	17	4
+Facebook Post Office	3	18	8
+Faculty Meeting Of The Minds	5	24	7
+Fair And Square Root	4	17	4
+Fairy Dust Bunnies	3	16	5
+Faith & Bunker Hill	3	15	5
+Fall Flat Tire	3	12	4
+Falling In Love Always	4	19	7
+False Alarm Clock	3	15	5
+False Sense Of Security Measures	5	28	5
+Fame & Fortune Cookie	3	17	4
+Family Circle Of Friends	4	21	6
+Family Circle Of Life	4	18	6
+Family Dinner Plate	3	17	6
+Family Entertainment Tonight	3	26	6
+Family Guy Pearce	3	15	6
+Family Honor Guard	3	16	6
+Family Pet Carrier	3	16	6
+Family Tree Doctor	3	16	6
+Fanny Pack Rat	3	12	5
+Far & Wide Receiver	3	15	3
+Fashion Police Escort	3	19	7
+Fashion Police Precinct	3	21	7
+Fast Times At Ridgemont High-School Crush	6	35	4
+Father Figure Eight	3	17	6
+Father Knows Best In Show	5	21	6
+Father Knows Best Of Luck	5	21	6
+Father Of The Bride Of Frankenstein	6	30	6
+Fats Domino Effect	3	16	4
+Favorite Son Of A Gun	5	17	8
+Fear Of Flying Squirrels	4	21	4
+Federal Express Bus	3	17	7
+Federalist Party Animal	3	21	10
+Feeling Hot Hot Hot Fudge	5	21	7
+Felix The Cat Ellington	4	20	5
+Fence Post Office	3	15	5
+Fenway Park Your Car	4	17	6
+Ferris Wheel Of Fortune	4	20	6
+Fighting Chance Of A Lifetime	5	25	8
+Fill In The Blank Check	5	19	4
+Filthy Rich Little	3	16	6
+Final Destination Unknown	3	23	5
+Finger Painting The Town Red	5	24	6
+Finger-Painting The Town Red	4	24	14
+Finish Line-By -Line Debate	4	22	6
+Fire-Engine Red Zone	3	17	10
+First Aid Kit And Caboodle	5	22	5
+First Class Cabin Fever	4	20	5
+First Family Feud	3	15	5
+First Lady Gaga	3	13	5
+First Lady Sings The Blues	5	22	5
+First-Aid Kit And Caboodle	4	22	8
+Fish Tank Top	3	11	4
+Fish Tank Truck	3	13	4
+Fishing Net Worth	3	15	7
+Fishing Pole Vault	3	16	7
+Fit As A Fiddle-De-De	4	16	3
+Fit As Fiddle-De-De	3	15	3
+Fitness Tip Of The Iceberg	5	22	7
+Fizzled Out Of Order	4	17	7
+Flash Drive Safe	3	14	5
+Flash Drive Safely	3	16	5
+Flash Mob Boss	3	12	5
+Flat Tire Iron	3	12	4
+Flea Market Value	3	15	4
+Flipping A Coin Collector	4	22	8
+Florida Keys To The House	5	21	7
+Flower Bed Of Nails	4	16	6
+Flower Bud Bundy	3	14	6
+Fluffy Pillow Talk	3	16	6
+Flying High-And-Mighty	2	19	6
+Foam Roller Derby	3	15	4
+Focus Group Of Friends	4	19	5
+Foggy Mountain Breakdown	3	22	5
+Food Chain Reaction	3	17	4
+Food Court Of Law	4	14	4
+Food For The Thought Police	5	23	4
+Food For Thought Police	4	20	4
+Fool's Gold Creek	3	14	5
+Footloose And Fancy Free Parking	5	28	9
+Footsie Roll Over And Play Dead	6	26	7
+Founding Father Time	3	18	8
+Fraggle Rock The Boat	4	18	7
+Francis Scott Key To The City	6	24	7
+Fraternity House Of Cards	4	22	10
+Free Spin Cycle	3	13	4
+Free Spin The Bottle	4	17	4
+Freedom Of Speech Bubble	4	21	7
+Freedom Of Speech Therapist	4	24	7
+Freight Elevator Music	3	20	7
+French Quarter After	3	18	6
+French Quarter Pounder	3	20	6
+Fresh Dirt Bike	3	13	5
+Fresh Start Your Engines	4	21	5
+Fresh Wood Chips & Salsa	4	19	5
+Fried Chicken Coop	3	16	5
+Friend Of The Family Tree	5	21	6
+Friendship Ring My Bell	4	20	10
+From Russia With Love American Style	6	31	4
+Front Door Prize	3	14	5
+Frontier Strip Mall	3	17	8
+Frozen Dinner Theater	3	19	6
+Full House Of Cards	4	16	4
+Full Moon Knight	3	14	4
+Full Moon Night	3	13	4
+Full Moon Valley	3	14	4
+Full Of Wisdom Tooth	4	17	4
+Full Steam Ahead Of Schedule	5	24	4
+Fuller House Of Cards	4	18	6
+Funeral Home Sweet Home	4	20	7
+Funny Bone-Dry	2	12	5
+Fur Coat Of Paint	4	14	3
+Gag Order In The Court	5	18	3
+Game-Show Hostess Twinkies	3	23	8
+Gamma Ray Romano	3	14	5
+Garbage Can Of Beans	4	17	7
+Garden Rake Comb	3	14	6
+Garlic Breath Of Fresh Air	5	22	6
+Garth Brooks Brothers Suit	4	23	5
+Gayle King Of The Road	5	18	5
+Geek Squad Car	3	12	4
+General Public Domain	3	19	7
+Generation Gap Jeans	3	18	10
+George Washington Apples	3	22	6
+Get Off My Case Study	5	17	3
+Get Off Your Duff Goldman	5	21	3
+Get Smart Decision	3	16	3
+Get To The Point Of No Return	7	23	3
+Getting Away With Murder She Wrote	6	29	7
+Getting The Best For Your Money Belt	7	30	7
+Getting The Most For Your Money Belt	7	30	7
+Gilded & Lying About My Age	5	21	6
+Ginger & Wasabi	2	12	6
+Gingerbread Houses Of Congress	4	27	11
+Give Me A Hint Of Mint	6	17	4
+Give Me A Hug Point	5	15	4
+Gladys Knight In Shining Armor	5	26	6
+Glamour Puss In Boots	4	18	7
+Glamour-Puss In Boots	3	18	11
+Glass Case Study	3	14	5
+Glenn Close Proximity	3	19	5
+Global Impact Statement	3	21	6
+Global Village Idiot	3	18	6
+Go Ahead Make My Day Care Center	7	26	2
+Going Green Bananas	3	17	5
+Going Steady Rain	3	15	5
+Gold Tooth Fairy	3	14	4
+Golden Age Before Beauty	4	21	6
+Golden Gate Bridge Game	4	20	6
+Golden Globe Theatre	3	18	6
+Golden Triangle Of Art Supplies	5	27	6
+Goldfish Bowl Of Soup	4	18	8
+Golf Bag Of Chips	4	14	4
+Golf Bag Of Potato Chips	5	20	4
+Golf Course Of Action	4	18	4
+Golf Swing Band	3	13	4
+Good Luck Of The Draw	5	17	4
+Good Mood Ring	3	12	4
+Good Will Hunting Season	4	21	4
+Google Drive Safely	3	17	6
+Google Search Party	3	17	6
+Graduate Student Council	3	22	8
+Graduation Day Of Reckoning	4	24	10
+Grand Opening Act	3	15	5
+Grand Place Of Birth	4	17	5
+Granny Rock The Boat	4	17	6
+Granola Bar Of Soap	4	16	7
+Grateful Dead As A Doornail	5	23	8
+Graveyard Shift Into High Gear	5	26	9
+Gravy Boat Captain	3	16	5
+Gravy Train Of Thought	4	19	5
+Gray Wolf Blitzer	3	15	4
+Great Wall Of China Dolls	5	21	5
+Green Thumb A Ride	4	15	5
+Grizzly Bear Market	3	17	7
+Grover Cleveland Browns	3	21	6
+Grover Cleveland Ohio	3	19	6
+Grow Up Up And Away	5	15	4
+Guilt Trip Of A Lifetime	5	20	5
+Guinea Pig Latin	3	14	6
+Guitar Pick A Fight	4	16	6
+Hair Spray Paint	3	14	4
+Hall Of Fame & Fortune	4	17	4
+Halle Berry Gordy	3	15	5
+Halle Berry Pie	3	13	5
+Halle Berry Turnover	3	18	5
+Hamster Wheel Of Fortune	4	21	7
+Hand Cream Of The Crop	5	18	4
+Hand Cream Pitcher	3	16	4
+Hand Cream Soda	3	13	4
+Happy Birthday Suit	3	17	5
+Happy Days Of Our Lives	5	19	5
+Happy Days Of Wine And Roses	6	23	5
+Happy Father's Day Trading	4	22	5
+Hard As A Rock-And-Roll	4	18	4
+Harrison Ford Pickup Truck	4	23	8
+Harry Truman Capote	3	17	5
+Haunted House Of Cards	4	19	7
+Haunted House Salad	3	17	7
+Haunted House Sitter	3	18	7
+Having A Great Time Zone	5	20	6
+Haystack Rock Of Ages	4	18	8
+He Got Game Of Thrones	5	18	2
+He Got Games Of Thrones	5	19	2
+Heart Of Gold Bricks	4	17	5
+Heaven On Earth Angel	4	18	6
+Heavy-Metal Rock Garden	3	20	10
+Helen Of Troy Michigan	4	19	5
+Helicopter Pad & Pencil	3	19	10
+Help Wanted Dead Or Alive	5	21	4
+Helpful Tip Jar	3	13	7
+Helping Hand Sanitizer	3	20	7
+Helping Hand Soap	3	15	7
+Herbie The Love Bug Spray	5	21	6
+Herd Of Buffalo Wings	4	18	4
+Hershey's Kiss Of Death	4	19	8
+Hersheys Kiss Of Death	4	19	8
+Hidden Talent Manager	3	19	6
+High Cost Of Living Dangerously	5	27	4
+High Pitch The Ball	4	16	4
+High Surf The Web	4	14	4
+Hiking In A Cloud Forest	5	20	6
+History In The Making Ends Meet	6	26	7
+Hit Or Miss You Already	5	19	3
+Hit The Deck Of Cards	5	17	3
+Hit The Nail On The Head Of The Household	9	33	3
+Hitching Post Office	3	18	8
+Hitting The Mother Lode	4	20	7
+Holding Hands Down	3	16	7
+Hole In One Of A Kind	6	16	4
+Holiday Cheer For The Underdog	5	26	7
+Hollywood Bowl Of Cereal	4	21	9
+Hollywood Squares Of Chocolate	4	27	9
+Home Alone Together	3	17	4
+Home On The Range Rover	5	19	4
+Home Sweet Home On The Range	6	23	4
+Home Sweet Home Planet	4	19	4
+Homecoming Court Of Appeals	4	24	10
+Homecoming Queen Elizabeth	3	24	10
+Honda Civic Center	3	16	5
+Honda Civic Duty	3	14	5
+Honest Opinion Poll	3	17	6
+Honeymoon Cottage Cheese	3	22	9
+Honkey Tonk Bar Of Soap	5	19	6
+Honky-Tonk Bar Of Soap	4	18	9
+Hookah Bar Of Soap	4	15	6
+Hoover Dam Square	3	15	6
+Horse Sense Of Humor	4	17	5
+Hospital Bed In A Bag	5	17	8
+Host And Hostess	3	14	4
+Hot Dog Stand By Your Man	6	20	3
+Hot Fudge Sauce	3	13	3
+Hot Tub Of Lard	4	12	3
+House Key To Happiness	4	19	5
+How I Met Your Mother Goose	6	22	3
+Howard Stern Talking-To	3	20	6
+Hudson Bay At The Moon	5	18	6
+Huey Lewis & The News Bulletin	5	24	4
+I Can Go For Miles Straume	6	21	1
+I Don't Want To Gain A Pound Cake	8	25	1
+I Got Safe And Sound The Alarm	7	24	1
+I Hope You Dance Instructor	5	23	1
+I Love My Cat Cora	5	14	1
+I Love You With All Of My Heart Of Darkness	10	34	1
+I Need My Space Shuttle	5	19	1
+I Speak English Muffin	4	19	1
+I Speak French Onion Soup	5	21	1
+I Speak French Toast	4	17	1
+I Will Always Be True Romance	6	24	1
+I'll Try Anything Once Upon A Time	7	27	3
+I'M Done Deal	3	10	2
+I'M Losing My Mind Over Matter	6	24	2
+I'M Over The Moon Landing	5	20	2
+I've Got Your Back To The Drawing Board	8	31	3
+I've Made It Perfectly Clear Skies	6	28	3
+Ice Chest Of Drawers	4	17	3
+Ice Cream Social Security	4	22	3
+Ice Cube Steak	3	12	3
+Ice Pick Your Battles	4	18	3
+Iced Tea With Lemon & Sugar	5	21	4
+Identical Twin Peaks	3	18	9
+Iggy Pop Culture	3	14	4
+I'M Done Deal	3	10	2
+Impound Yard Sale	3	15	7
+In A Flash Gordon	4	14	2
+In A State Of Emergency	5	19	2
+In My Humble Opinion Poll	5	21	2
+In The First Place Of Origin	6	23	2
+In The Public Eye Of The Storm	7	24	2
+In The Red Square	4	14	2
+In Total Shock Absorbers	4	21	2
+Inaugural Ball Of Yarn	4	19	9
+Inclined Plane Tickets	3	20	8
+Independence Hall & Oates	3	21	12
+Individual Liberty Bell	3	21	10
+Individual Results May Vary	4	24	10
+Infinity Pool Shark	3	17	8
+Inner Beauty Pageant	3	18	5
+Inner Court Of Law	4	15	5
+Insect Bite The Bullet	4	19	6
+Insect Spray Tan	3	14	6
+Instant Cash Flow	3	15	7
+Instruction Manual Transmission	3	29	11
+Intelligence Community Effort	3	27	12
+Intelligent Community Effort	3	26	11
+Interest Rate Of Return	4	20	8
+Ironing Board Of Health	4	20	7
+Is The Food Warm Embrace	5	20	2
+Is There A Doctor In The House Of Pancakes	9	34	2
+Island Hopping Mad	3	16	6
+Island-Hopping Mad	2	16	13
+It Caught My Eye Of A Needle	7	22	2
+It Makes My Head Spin Or Solve	7	24	2
+It Slipped My Mind Your Own Business	7	30	2
+It Takes One To Know One Of A Kind	9	26	2
+It Takes Two To Tango Dancers	6	24	2
+It's A Wild World Cup	5	16	3
+It's A Wonderful Life Savings	5	24	3
+It's All Good Friday	4	16	3
+It's Good To Be The King County	7	24	3
+It's Good To Be The King Kong	7	22	3
+It's Not Easy Being Green Book	6	24	3
+It's Not Easy Being Green With Envy	7	28	3
+It's Up In The Air Fryer	6	18	3
+It's As Good As New York City	7	22	3
+It's Hip To Be Square Root	6	20	3
+It's Not Easy Being Green With Envy	7	28	3
+Itunes Library Card	3	17	6
+Jack Black Market	3	15	4
+Jack Black Olives	3	15	4
+Jack Black-Tie Affair	3	18	4
+Jack London England	3	17	4
+James Joyce Dewitt	3	16	5
+James Madison Wisconsin	3	21	5
+Japanese Tea Ceremony	3	19	8
+Jason Alexander Hamilton	3	22	5
+Jefferson Airplane Propeller	3	26	9
+Jefferson Airplane Seat	3	21	9
+Jefferson Airplane Seats	3	22	9
+Jefferson Airplane Ticket	3	23	9
+Jello Mold & Mildew	3	15	5
+Jelly Roll With The Punches	5	23	5
+Jennifer Hudson River	3	19	8
+Jennifer Lawrence Of Arabia	4	24	8
+Jeremy Irons In The Fire	5	20	6
+Jerry Lee Lewis And Clark	5	21	5
+Jimmie Walker Texas Ranger	4	23	6
+Jingle Bell Rock Paper Scissors	5	27	6
+Job Security Camera	3	17	3
+Jodie Foster Parents	3	18	5
+Joe Cocker Spaniel	3	16	3
+Joey Lawrence Of Arabia	4	20	4
+Jogging Path To Success	4	20	7
+John Candy Cane	3	13	4
+John Denver Colorado	3	18	4
+Johnny Carson Daly	3	16	6
+Johnny Cash Advance	3	17	6
+Johnny Cash Or Check?	4	17	6
+Johnny Cash Or Credit?	4	18	6
+Jolly Old Saint Nick Nolte	5	22	5
+Jon Snow Day	3	10	3
+Jon Snow Peas	3	11	3
+Jude Law & Order	3	12	4
+Jude Law Clerk	3	12	4
+Jude Law School	3	13	4
+Juicy Roasted Turkey	3	18	5
+Julius Caesar Salad	3	17	6
+Jumbo Jet Lag	3	11	5
+Jump Right In Like Flynn	5	20	4
+Jumping Up And Down Payment	5	23	7
+Jumping-Off Point Of Interest	4	25	10
+Junk Food For Thought	4	18	4
+Jurassic Park Avenue	3	18	8
+Jurassic Park Bench	3	17	8
+Jurassic Park The Car	4	18	8
+Just A Spoonful Of Sugar Magnolia	6	28	4
+Just Before Dawn Of The Dead	6	23	4
+Just In The Nick Of Time Capsule	7	26	4
+Just In The Nick Of Time Is On My Side	10	29	4
+Just The Way You Are We There Yet?	8	26	4
+Justice Of The Peace And Quiet	6	25	7
+Kangaroo Court Reporter	3	21	8
+Kanye West Coast	3	14	5
+Kanye West Hollywood	3	18	5
+Karaoke Bar Mitzvah	3	17	7
+Karaoke Bar Of Soap	4	16	7
+Karate Chop Suey	3	14	6
+Kate Hudson River	3	15	4
+Katy Perry Mason	3	14	4
+Keep In Contact Lenses	4	19	4
+Keep Off The Grass Skirt	5	20	4
+Keith Urban Legend	3	16	5
+Keith Urban Myth	3	14	5
+Kevin Bacon & Eggs	3	14	5
+Kevin Bacon And Eggs	4	17	5
+Kevin Bacon Bits	3	14	5
+Kevin Bacon Strips	3	16	5
+Kevin Durant Oklahoma	3	19	5
+Key Chain Of Events	4	16	3
+Key Lime Pie Chart	4	15	3
+Killer Shark Tank	3	15	6
+King Of The Hill Of Beans	6	20	4
+King Of The Jungle Gym	5	18	4
+King Of The Road Warrior	5	20	4
+Kiss Me I'M Irish Setter	5	19	4
+Kit Carson Daly	3	13	3
+Kitchen Sink Or Swim	4	17	7
+Kitchen Sponge Cake	3	17	7
+Knights Of The Round Table Of Contents	7	32	7
+Knowledge Is Power Brake	4	21	9
+Lab Rat On Your Friend	5	18	3
+Labor Of Love Always	4	17	5
+Labor Of Love Thy Neighbor	5	22	5
+Labour Of Love Always	4	18	6
+Lake Superior Attitude	3	20	4
+Lake Superior Intelligence	3	24	4
+Lakeside Cottage Cheese	3	21	8
+Land Down Under The Radar	5	21	4
+Landscape Artist Loft	3	19	9
+Larger Than Life Insurance	4	23	6
+Larry King Of Morocco	4	18	5
+Larry King Of The Jungle	5	20	5
+Larry Moe & Curly Fries	4	18	5
+Last Man Standing The Test Of Time	7	28	4
+Late-Night Dinner Seating	3	22	9
+Laugh Track And Field	4	18	5
+Laughing All The Way To The Bank Teller	8	32	8
+Laverne & Shirley Maclain	3	21	7
+Law & Order Form	3	12	3
+Law Degree Of Certainty	4	20	3
+Law Firm Handshake	3	16	3
+Law Firm Mattress	3	15	3
+Law School Of Fish	4	15	3
+Lay An Egg Salad Sandwich	5	21	3
+Leading Edge Of A Cliff	5	19	7
+Leading Lady Gaga	3	15	7
+Leap Of Faith Hope And Charity	6	25	4
+Learning Curve Ball	3	17	8
+Learning The Hard Way Of The Samurai	7	30	8
+Learning To Speak Chinese Chicken Salad	6	34	8
+Learning To Speak English Muffins	5	29	8
+Learning To Speak French Bistro	5	27	8
+Learning To Speak French Bulldog	5	28	8
+Learning To Speak French Dressing	5	29	8
+Learning To Speak French Manicure	5	29	8
+Learning To Speak Greek Yogurt	5	26	8
+Learning To Speak Russian Dressing	5	30	8
+Learning To Tango Alpha Bravo	5	25	8
+Leave Well Enough Alone At Last	6	26	5
+Leaving Early Retirement	3	22	7
+Lebron James Franco	3	17	6
+Lebron James Woods	3	16	6
+Lecture Circuit Breaker	3	21	7
+Left In The Dark Chocolate	5	22	4
+Legal Brief Encounter	3	19	5
+Legal Brief Message	3	17	5
+Legal Guardian Angel	3	18	5
+Lemon Pie Chart	3	13	5
+Lemon Twist My Arm	4	15	5
+Lemonade Stand By	3	15	8
+Lemonade Stand For Something	4	25	8
+Lengthy Trial Offer	3	17	7
+Let Her Rip Van Winkle	5	18	3
+Let Me Make This Clear Day	6	21	3
+Let Me Make This Clear View	6	22	3
+Let Out The Clutch Bags	5	19	3
+Let Sleeping Dogs Lie Like A Rug	7	26	3
+Let The Cat Out Of The Bag Of Groceries	9	31	3
+Let The Cat Out Of The Bag Of Tricks	9	28	3
+Let The Cat Out The Bag Of Groceries	8	29	3
+Let There Be Light Bulb	5	19	3
+Let Your Hair Down The Hatch	6	23	3
+Let's Eat Spaghetti Westerns	4	24	4
+Let's Paint The Town Red Sox	6	22	4
+Let's Play A Game Of Thrones	6	22	4
+Let's Play The Next Round Robin	6	25	4
+Let's Touch Base Camp	4	17	4
+Level The Playing Field Mouse	5	25	5
+Lewis & Clark Kent	3	14	5
+Liar Liar Pants On Fire Escape	6	25	4
+Liberty & Hall Monitor	3	18	7
+Liberty Bell Peppers	3	18	7
+Liberty Bell-Bottom Jeans	3	22	7
+Life Begins At Forty Days And Forty Nights	8	35	4
+Life Of The Party Animal	5	20	4
+Life Of The Party Crasher	5	21	4
+Life Of The Party Favor	5	19	4
+Lifeguard On Duty Calls	4	20	9
+Lifelong Friendship Park	3	22	8
+Life's Too Short Term Memory	5	23	5
+Lights Camera Action Adventure Movie	5	32	6
+Lights Camera Action Figure	4	24	6
+Lights Camera Action Figures	4	25	6
+Like A Rolling Stone Crab Claw	6	25	4
+Lime Sherbert	2	12	4
+Lime Sherbet	2	11	4
+Limited Engagement Ring	3	21	7
+Lint Roller Skating	3	17	4
+Lip Service Elevator	3	18	3
+Litter Box Of Chocolates	4	21	6
+Litter Box Turtle	3	15	6
+Litter Box Turtles	3	16	6
+Little Big Town Sheriff	4	20	6
+Little House On The Prairie Dog	6	26	6
+Live-In Maid Of Honor	4	17	6
+Living In A Fantasy Football	5	24	6
+Living Proof Of Purchase	4	21	6
+Liz Lemon Pie	3	11	3
+Lobster Claw Hammer	3	17	7
+Local Hero Sandwich	3	17	5
+Local Hot Spot Remover	4	19	5
+Local Library Card	3	16	5
+Lock Stock And Barrel-Chested	4	25	4
+Lock-Stock And Barrel Chested	4	25	9
+Log Cabin Cruiser	3	15	3
+Log Cabin Fever	3	13	3
+Log Cabin Pressure	3	16	3
+Lombard Street	2	13	7
+Lone Star State Of Confusion	5	24	4
+Long Distance Trucker Hat	4	22	4
+Long Island Sound Asleep	4	21	4
+Long Island Sound Check	4	20	4
+Long Shot In The Dark	5	17	4
+Long Stretch Of Highway Patrolman	5	29	4
+Long-Distance Trucker Hat	3	22	12
+Look Before You Leap Year	5	21	4
+Look Out Below Sea Level	5	20	4
+Look Sharp Cheddar Cheese	4	22	4
+Loretta Lynn Anderson	3	19	7
+Los Angeles California Roll	4	24	3
+Louisiana Purchase Price	3	22	9
+Love At First Sight For Sore Eyes	7	27	4
+Love Conquers All Talk No Action	6	27	4
+Love Is Essential Elements	4	23	4
+Love Is In The Air Conditioner	6	25	4
+Love Is In The Air Hockey	6	20	4
+Love Me Tender Steak	4	17	4
+Loves Me Like A Rock Lobster	6	23	5
+Luck Be A Lady Gaga	5	15	4
+Luck Of The Irish Setter	5	20	4
+Lucky Break In The Action	5	21	5
+Lucky Charm Bracelet	3	18	5
+Lucky Guess What?	3	14	5
+Lucy In The Sky With Diamonds Are Forever	8	34	4
+Lunch Break In Half	4	16	5
+Luxury Car Loan	3	13	6
+Macadamia Nuts And Bolts	4	21	9
+Mad About You Gonna Eat That?	6	23	3
+Mad Dash Of Salt	4	13	3
+Madame Butterfly Net	3	18	6
+Made From Scratch And Sniff	5	23	4
+Made From Scratch My Back	5	21	4
+Made-To-Order In The Court	4	21	11
+Madison Square Garden Hose	4	23	7
+Madison Square Garden Of Eden	5	25	7
+Mae West Virginia	3	15	3
+Magazine Cover Charge	3	19	8
+Magazine Rack Of Lamb	4	18	8
+Magnesium Sheets Of Paper	4	22	9
+Magnetic Field Of Interest	4	23	8
+Maiden Name Brand	3	15	6
+Main Course Of Action	4	18	4
+Main Event Planner	3	16	4
+Main Road Map	3	11	4
+Main Squeeze Chute	3	16	4
+Make The Grade School	4	18	4
+Makeup Bag Of Tricks	4	17	6
+Making A Judgement Call Waiting	5	27	6
+Making A Judgment Call Waiting	5	26	6
+Man About Town Hero	4	16	3
+Man Cave Dwellers	3	15	3
+Man's Best Friend Of The Family	6	25	4
+Marco Polo Pony	3	13	5
+Marco Polo Shirt	3	14	5
+Marilyn Monroe Doctrine	3	21	7
+Marlo Thomas Jefferson	3	20	5
+Marriage Oath Of Office	4	20	8
+Marsha Mason-Dixon Line	3	20	6
+Martin Lawrence Of Arabia	4	22	6
+Martin Short Order Cook	4	20	6
+Mary Had A Little Lamb Chop	6	22	4
+Mary Had A Little Lamb Stew	6	22	4
+Mary Had A Little Lamp Stew	6	22	4
+Master Bedroom Slippers	3	21	6
+Master Key Largo	3	14	6
+Match Made In Heaven On Earth	6	24	5
+Maternity Leave Of Absence	4	23	9
+Maternity Ward Cleaver	3	20	9
+Mating Call Forwarding	3	20	6
+Matt Damon Wayans	3	15	4
+May I Take Your Order In The Court	8	27	3
+Mayflower Compact Car	3	19	9
+Meanwhile Back At The Ranch Dressing	6	31	9
+Measuring Jug Of Milk	4	18	9
+Medal Of Honor Student	4	19	5
+Medieval Legends	2	15	8
+Meet The Press Secretary	4	21	4
+Meet The Press Your Pants	5	21	4
+Membership Drive Safely	3	21	10
+Memory And Thank-You Card	4	21	6
+Men At Work For A Living	6	19	3
+Men In Black Coffee	4	16	3
+Merlin The Wizard Island	4	21	6
+Metal Beam Of Light	4	16	5
+Meteor Crater Lake	3	16	6
+Meteoric Rise And Shine	4	20	8
+Meter Maid Of Honor	4	16	5
+Miami Heat Index	3	14	5
+Miami Vice President	3	18	5
+Michael Bay Leaves	3	16	7
+Michael Douglas Fairbank Jr.	4	24	7
+Michael Douglas Fairbanks Jr	4	25	7
+Michael Douglas Fairbanks Jr.	4	25	7
+Middle Initial Public Offering	4	27	6
+Mike Judge & Jury	3	13	4
+Military Academy Awards	3	21	8
+Military Base Salary	3	18	8
+Milk Shake A Leg	4	13	4
+Milky Way Candy Bar Exam	5	20	5
+Miss Piggy Bank	3	13	4
+Mission Control Switch	3	20	7
+Mississippi River Dolphin	3	23	11
+Mobile Home On The Range	5	20	6
+Modern Art Garfunkel	3	18	6
+Modern Family Reunion	3	19	6
+Modern Family Room	3	16	6
+Modified Plan Of Action	4	20	8
+Mona Lisa Simpson	3	15	4
+Money In The Bank Auditor	5	21	5
+Money Tree Doctor	3	15	5
+Monkey Bars Of Soap	4	16	6
+Monkey Business Card	3	18	6
+Monkey Business Cards	3	19	6
+Monkey Business Proposition	3	25	6
+Monopoly Money Order	3	18	8
+Monterey Bay Leaves	3	17	8
+Mood Ring Around The Collar	5	23	4
+Mood Ring The Doorbell	4	19	4
+Mood Swing Music	3	14	4
+Moon Over Miami Dolphins	4	21	4
+Moot Point Taken	3	14	4
+Mop Bucket List	3	13	3
+Moral Support Hose	3	16	5
+Mosquito Bite The Dust	4	19	8
+Mother Goose Bumps	3	16	6
+Mother Goose Egg	3	14	6
+Mother Nature Trail	3	17	6
+Mother Ship Canal	3	15	6
+Motor Oil & Vinegar	3	15	5
+Motor Oil And Vinegar	4	18	5
+Mountain Range Of Motion	4	21	8
+Moustache Wax Museum	3	18	9
+Movie Night Of The Living Dead	6	25	5
+Moving Van Morrison	3	17	6
+Mr. Potato Head Cheerleader	4	23	2
+Mr. Potato Head Of The Class	6	22	2
+Muffin Top Of The World	5	19	6
+Mumbo Jumbo Jet	3	13	5
+Museum Square Jaw	3	15	6
+Music City Center Of The Universe	6	28	5
+Musical Act Your Age	4	17	7
+Musical Ear Of Corn	4	16	7
+My Dog Spot Remover	4	16	2
+My Fair Lady Gaga	4	14	2
+My Fair Lady Godiva	4	16	2
+My Fair Lady In Waiting	5	19	2
+Nail File For Divorce	4	18	4
+Naked Eye Candy	3	13	5
+Name Your Price Of Admission	5	24	4
+Nancy Drew Barrymore	3	18	5
+Napkin Ring Of Fire	4	16	6
+Nat King Cole Porter	4	17	3
+Nat King Cole Slaw	4	15	3
+National Football League Of Legends	5	31	8
+National Football League Of Nations	5	31	8
+National Public Radio City Music Hall	6	32	8
+National Security Badge	3	21	8
+Native Tongue Twisters	3	20	6
+Natural-Born Leader Of The Pack	5	26	11
+Neighborhood Bar Of Soap	4	21	12
+Neil Diamond In The Rough	5	21	4
+Neil Diamond Pendant	3	18	4
+Neil Simon Cowell	3	15	4
+Neil Young At Heart	4	16	4
+New Clothing Line Of Thinking	5	25	3
+New Kids On The Block Of Ice	7	22	3
+New York City Ballet Flats	5	22	3
+New York Pennsylvania	3	19	3
+News Flash Mob	3	12	4
+Nicolas Cage Fighter	3	18	7
+Night On The Town Crier	5	19	5
+Night-Light As A Feather	4	20	10
+Night-Light At The End Of The Tunnel	7	29	10
+No Deposit No Return Yards	5	22	2
+No Money Down-And-Dirty	3	19	2
+No Right Turn On Red Peppers	6	23	2
+No Trespassing Sign Of The Times	6	27	2
+Nobel Prize For Medicine Chest	5	26	5
+Nobody's Perfect Stranger	3	22	7
+Nobody's Perfect Strangers	3	23	7
+Nobody's Perfect Timing	3	20	7
+North Dakota Fanning	3	18	5
+North Star Pupil	3	14	5
+Not Just Another Pretty Face In The Crowd	8	34	3
+Not Just Another Pretty Face Value	6	29	3
+Not My Cup Of Tea For Two	7	19	3
+Not On Your Life Of The Party	7	23	3
+Not Playing With A Full Deck Chair	7	28	3
+Not Playing With A Full Deck The Halls	8	31	3
+Nothing In Life Is Free Admission	6	28	7
+Oak Leaf Blower	3	13	3
+Oakland Raiders Of The Lost Ark	6	26	7
+Observation Deck Of Cards	4	22	11
+Obstacle Course Of Action	4	22	8
+Ocean Water Clock	3	15	5
+Ocean Water Cooler	3	16	5
+Off And Running On Empty	5	20	3
+Office Pool Boy	3	13	6
+Office Space Capsule	3	18	6
+Office Space Invaders	3	19	6
+Office Space Shuttle	3	18	6
+Official Rules & Regulations	3	24	8
+Oil Change Of Opinion	4	18	3
+Oil Well Thanks Anyway	4	19	3
+Old King Cole Slaw	4	15	3
+Old Navy Beans	3	12	3
+Olivia Newton-John F. Kennedy	4	24	6
+On Cloud Nine Iron	4	15	2
+On Cloud Nine-Hole Golf Course	5	25	2
+On The Cutting Edge Of Darkness	6	26	2
+On The Right Track And Field	6	23	2
+On The Right Track Meet	5	19	2
+On The Spur Of The Moment To Remember	8	30	2
+On Top Of The World Series	6	21	2
+One Of The Family Recipe	5	20	3
+One Smart Cookie Dough	4	19	3
+One Step At A Time Heals All Wounds	8	28	3
+One-Man Band Of Brothers	4	20	6
+Onion Rings Of Saturn	4	18	5
+Onion Soup Mix And Match	5	20	5
+Online Search And Rescue	4	21	6
+Open All Night Owl	4	15	4
+Open Sesame Seed Bun	4	17	4
+Open Sesame Street	3	16	4
+Orange Is The New Black Friday	6	25	6
+Orange Julius Caesar	3	18	6
+Orange Pulp Fiction	3	17	6
+Orchestra Pit Bull	3	16	9
+Orchestra Pit Stop	3	16	9
+Order In The Court Reporter	5	23	5
+Oregon Coast Trail Mix	4	19	6
+Organized Labor Of Love	4	20	9
+Orient Express Bus	3	16	6
+Other People's Money Is No Object	6	27	5
+Out Of Left Field Goal Kicker	6	24	3
+Out Of Sight Unseen	4	16	3
+Out Of Step Wisely	4	15	3
+Out Of The Blue Bloods	5	18	3
+Outer Space Heater	3	16	5
+Oval Office Cubicle	3	17	4
+Oven Rack Of Lamb	4	14	4
+Over And Out With Friends	5	21	4
+Over My Dead Body Language	5	22	4
+Over Your Shoulder Of The Road	6	25	4
+Overdue Bill Murray	3	17	7
+Overnight Stay And Let's Talk Awhile	6	30	9
+Over-The-Hill Of Beans	3	18	11
+Over-The-Hill Of Tara	3	17	11
+Overtime Pay It Forward	4	20	8
+Oysters & David Rockefeller	3	23	7
+Ozone Layer Cake	3	14	5
+Pacific Ocean Floor	3	17	7
+Paddle Wheel Of Fortune	4	20	6
+Paid In Full Moon	4	14	4
+Paid Leave Quietly	3	16	4
+Paint The Town Red Stop Sign	6	23	5
+Painting The Town Red Apples	5	24	8
+Palace Complex Sentence	3	21	6
+Panic Button Down Collar	4	21	5
+Panic Button Your Shirt	4	20	5
+Panic Button-Down Collar	3	21	5
+Pants Pocket Veto	3	15	5
+Parachute Jump For Joy	4	19	9
+Parachute Jumping On The Bandwagon	5	30	9
+Parade Path Of Destruction	4	23	6
+Parallel Parking Lot	3	18	8
+Pardon My French Fries	4	19	6
+Pardon My French Manicure	4	22	6
+Pardon My French Quarters	4	22	6
+Pardon My French Toast	4	19	6
+Park Bench Trial	3	14	4
+Park Teddy Roosevelt	3	18	4
+Parking In The Rear Window	5	22	7
+Parking Spot Remover	3	18	7
+Party Animal Planet	3	17	5
+Party Dress Pants	3	15	5
+Party Dress Rehearsal	3	19	5
+Party Punch In The Nose	5	19	5
+Passing A Math Test Kitchen	5	23	7
+Passing The Buck Stops Here	5	23	7
+Past Due Process	3	14	4
+Pasteurized Milk Of Magnesia	4	25	11
+Patent Leather And Bowling Shoes	5	28	6
+Patriotic American Cheese	3	23	9
+Pay It Forward Pass	4	16	3
+Pay Scale Back	3	12	3
+Pay Top Dollar Sign	4	16	3
+Payment Method Acting	3	19	7
+Peace Sign Of The Times	5	19	5
+Peach Pit Bull	3	12	5
+Peanut Butter Him Up	4	17	6
+Peanut-Butter-Dipped Cookies	2	25	18
+Pearl Jam Session	3	15	5
+Peer Pressure Cooker	3	18	4
+Penalty Box Of Cookies	4	19	7
+Pencil Skirt Steak	3	16	6
+Peppermint Oil Field	3	18	10
+Performing Arts And Crafts	4	23	10
+Period Piece Of Cake	4	17	6
+Perish The Thought Process	4	23	6
+Permanent Press Zero For An Operator	6	31	9
+Perseverance Trail Mix	3	20	12
+Personal Data Entry	3	17	8
+Pet Rock Concert	3	14	3
+Pet Rock Quarry	3	13	3
+Petrified Wood Spoon	3	18	9
+Petty Cash Cow	3	12	5
+Photo Finish Your Veggies	4	22	5
+Photo Shoot For The Stars	5	21	5
+Physically Fit As A Fiddle	5	22	10
+Piano Bench Press	3	15	5
+Piano Bench-Press	2	15	5
+Picnic Table Of Contents	4	21	6
+Picture Frame Of Reference	4	23	7
+Picture Window Of Opportunity	4	26	7
+Picture-Perfect Vacation	2	22	14
+Pillbox Hat In Hand	4	16	7
+Pink Floyd Mayweather	3	19	4
+Pink Slip Of The Tongue	5	19	4
+Pioneer Courthouse Square Mile	4	27	7
+Pioneer Courthouse Square Root	4	27	7
+Pirate Ship Captain	3	17	6
+Pit Bull Shark	3	12	3
+Pit Crew Socks	3	12	3
+Pit Stop Sign	3	11	3
+Pita Pocket Protector	3	19	4
+Pittsburgh Pirates Of Penzance	4	27	10
+Pittsburgh Pirates Of The Caribbean	5	31	10
+Pitty-Pat Sajak	2	13	8
+Pizza Delivery Room	3	17	5
+Pizza Wheel Of Fortune	4	19	5
+Plaster Of Paris France	4	20	7
+Plastic Surgeon General	3	21	7
+Playing The Harp Seal	4	18	7
+Plymouth Colony Of Bees	4	20	8
+Plymouth Rock Music	3	17	8
+Plymouth Rock Of Ages	4	18	8
+Plymouth Rock Of Gibraltar	4	23	8
+Plymouth Rock The Boat	4	19	8
+Plymouth Rock-Hard Abs	3	19	8
+Pocket Change Is Inevitable	4	24	6
+Pogo Stick Of Gum	4	14	4
+Point Of No Return Postage	5	22	5
+Poison Ivy Cap	3	12	6
+Poison Ivy League	3	15	6
+Poison Ivy League School	4	21	6
+Poker Chip Off The Old Block	6	23	5
+Poker Chips & Dip	3	13	5
+Poker Chips And Salsa	4	18	5
+Poker Hand Sanitizer	3	18	5
+Police Force Field	3	16	6
+Political Party Favors	3	20	9
+Politics As Usual Suspects	4	23	8
+Polly Want A Cracker Jacks	5	22	5
+Pony Express Yourself	3	19	4
+Porky Pig Latin	3	13	5
+Port Of Call Of The Wild	6	19	4
+Port Of Call Waiting	4	17	4
+Port Of Entry-Level Position	4	24	4
+Portable Fan Club	3	15	8
+Port-Of-Call Of The Wild	4	19	10
+Ports Of Call Me Sometime	5	21	5
+Postage Meter Maid	3	16	7
+Postage Stamp Your Feet	4	20	7
+Postmaster General Admission Ticket	4	32	10
+Potato Chip On Your Shoulder	5	24	6
+Pottery Wheel Of Fortune	4	21	7
+Pound Sign Of The Times	5	19	5
+Powdered Sugar Daddy	3	18	8
+Power Station Call Letters	4	23	5
+Power Suit Up	3	11	5
+Power Trip Planner	3	16	5
+Power Walk Don't Run	4	16	5
+Practice Makes Perfect Strangers	4	29	8
+Presidential Library Of Congress	4	29	12
+Pressed For Time Is On My Side	7	24	7
+Pressing Engagement Ring	3	22	8
+Pretty In Pink Lemonade	4	20	6
+Pretty In Pink Panther	4	19	6
+Pretzel Sticks Of Gum	4	18	7
+Price Per Pound Cake	4	17	5
+Price Per Pound Of Flesh	5	20	5
+Price Tag You'Re It!	4	15	5
+Price Tag-You'Re It	3	15	5
+Prime Rib Of Beef Wellington	5	24	5
+Prince William Tell	3	17	6
+Princess Peach Pit	3	16	8
+Private Cabin Fever	3	17	7
+Private Club Sandwich	3	19	7
+Private Eye Exam	3	14	7
+Private Eye Of The Storm	5	20	7
+Private First-Class Hotel	3	22	7
+Private Jet Lag	3	13	7
+Private School Of Fish	4	19	7
+Private Swim Lessons	3	18	7
+Prize Wedge Of Cheese	4	18	5
+Prize Wedge Of Pie	4	15	5
+Professor Plum Pudding	3	20	9
+Prom Dress Rehearsal	3	18	4
+Promotional Period End Of Story	5	27	11
+Public Square Root	3	16	6
+Pucker Up Up And Away	5	17	6
+Pull Tight End	3	12	4
+Pumpernickel Toast Of The Town	5	26	12
+Punch And Judy Jetson	4	18	5
+Punch Line Of Fire	4	15	5
+Punctuation Mark Ruffalo	3	22	11
+Puppet Show Of Force	4	17	6
+Puppy Love Handles	3	16	5
+Puppy Love Letter	3	15	5
+Puppy Love Me Tender	4	17	5
+Puppy Love Seat	3	13	5
+Puppy Love Story	3	14	5
+Put A Little Love In Your Heart Of Darkness	9	35	3
+Put The Pedal To The Metal Siding	7	27	3
+Put Up Your Dukes Of Hazzard	6	23	3
+Put Your Best Foot Forward March	6	27	3
+Putting Green Around The Gills	5	26	7
+Putting Green Bay Packers	4	22	7
+Quaint Cottage Cheese	3	19	6
+Quantum Leap Of Faith	4	18	7
+Quick And Easy Does It	5	18	5
+Rabbit Ears Of Corn	4	16	6
+Raccoon Dog Tricks	3	16	7
+Rachael Ray Liotta	3	16	7
+Radio City Music Hall & Oates	5	23	5
+Radio Play On Words	4	16	5
+Raging Bull Durham	3	16	6
+Raging Bull Market	3	16	6
+Raging Bull Terrier	3	17	6
+Raise The Bar Of Soap	5	17	5
+Ramble On Top Of The World	6	21	6
+Ramparts Walk Don't Run	4	19	8
+Ranch Hand Sanitizer	3	18	5
+Random House Dressing	3	19	6
+Raspberry Jam Session	3	19	9
+Razor Blades Of Grass	4	18	5
+Read My Palm Sunday	4	16	4
+Reading The Morning Paper Clip	5	26	7
+Recreational Van Gogh	3	19	12
+Red Pepper Flakes Of Snow	5	21	3
+Red Square Root	3	13	3
+Red White & Blue Moon	4	16	3
+Reflecting Pool Our Resources	4	26	10
+Re-Gifting A Gift Of Gab	5	19	9
+Regifting A Gift Tag	4	17	9
+Re-Gifting A Gift Tag	4	17	9
+Regina King Crab	3	14	6
+Registered Nurse Shark	3	20	10
+Registration Slip Of The Tongue	5	27	12
+Related By Marriage Counselor	4	26	7
+Relaxing In Comfort Food	4	21	8
+Rembrandt Square Dance	3	20	9
+Remote Access Denied	3	18	6
+Remote Control Yourself	3	21	6
+Research Paper Cut	3	16	8
+Restaurant Server Name	3	20	10
+Restricted Area Rug	3	17	10
+Rhapsody In Blue Marlin	4	20	8
+Rhode Island Red Sea Islands	5	24	5
+Rhubarb Pie In The Sky	5	18	7
+Rib Cage Fighter	3	14	3
+Ricki Lake Superior	3	17	5
+Riding My Bicycle Crunches	4	23	6
+Rifle Chamber Music	3	17	5
+Right Up Your Alley Cat	5	19	5
+Riki Chain Of Events	4	17	4
+Ring Of Fire Engine	4	16	4
+Road To Perdition	3	15	4
+Robert Young Frankenstein	3	23	6
+Robot Chicken Sandwich	3	20	5
+Rock Garden Of Eden	4	16	4
+Rock-A-Bye Baby Teeth	3	17	8
+Rock-A-Bye-Baby Teeth	2	17	12
+Rock-And Roll Up Your Sleeves	5	24	7
+Rock-And-Roll Up Your Sleeves	4	24	11
+Rocky Mountain High Society	4	24	5
+Roger Rabbit Ears	3	15	5
+Roll Call Ahead	3	13	4
+Rolling Pin The Tail On The Donkey	7	28	7
+Rolo Chain Of Events	4	17	4
+Roman Empire Ants	3	15	5
+Roman Empire State Building	4	24	5
+Romantic Novel Idea	3	17	8
+Rome Wasn't Built In A Day After Tomorrow	8	33	4
+Ron Howard University	3	19	3
+Rooftop Bar Of Soap	4	16	7
+Room And Board Of Directors	5	23	4
+Room And Board The Plane	5	20	4
+Root Beer Belly	3	13	4
+Rosanne Cash The Check	4	19	7
+Rose Garden Burger	3	16	4
+Rotten To The Core Questions	5	24	6
+Rough And Tumble Dry	4	17	5
+Rough-And-Tumble-Dry	1	17	17
+Royal Family Business	3	19	5
+Royal Wedding Planner	3	19	5
+Rubber Handle With Care	4	20	6
+Rubber Soulmate	2	14	6
+Rubber Stamp Of Approval	4	21	6
+Running Water Cooler	3	18	7
+Runway Model Airplane	3	19	6
+Runway Model Citizen	3	18	6
+Russell Brand Name	3	16	7
+Sad But True Or False	5	17	3
+Saddle Horn Of Plenty	4	18	6
+Safe And Sound Mixer	4	17	4
+Safe And Sound The Alarm	5	20	4
+Safety First One In Line	5	20	6
+Safety Pin The Tail On The Donkey	7	27	6
+Salad Bar Of Soap	4	14	5
+Salad Dressing Room	3	17	5
+Salad Fork In The Road	5	18	5
+Salad Oil Of Olay	4	14	5
+Sally Field Of Dreams	4	18	5
+Salt & Pepper Jack Cheese	4	20	4
+Salt & Pepper-Jack Cheese	3	20	4
+Salt Pork Chops	3	13	4
+Samuel French Perfume	3	19	6
+Samurai Jack & Jill	3	15	7
+San Francisco Bay Leaves	4	21	3
+San Francisco Bay Of Fundy	5	22	3
+Sand & Surf	2	8	4
+Sand Dollar Bill	3	14	4
+Santa Ana Navarro	3	15	5
+Santa Barbara Bush	3	16	5
+Satellite Dish Towel	3	18	9
+Satin Slip Of The Tongue	5	20	5
+Saturday Morning Cartoon Network	4	29	8
+Saturday Night Live Audience	4	25	8
+Save Your Soul Food	4	16	4
+Saved By The Bell Curve	5	19	5
+Saved By The Bell Pepper	5	20	5
+Saved By The Bell, Book, And Candle	7	27	5
+Saved By The Bell-Bottom Jeans	5	25	5
+Saved By The Bell-Bottoms	4	21	5
+Saving Face The Nation	4	19	6
+Saving Grace Kelly	3	16	6
+Saving Private Ryan Gosling	4	24	6
+Scared Stiff Competition	3	22	6
+School Board Game	3	15	6
+School Board Of Health	4	19	6
+School District Attorney	3	22	6
+School Of Fish And Chips	5	20	6
+School Of Law & Order	4	16	6
+Science Project Runway	3	20	7
+Scientific Model Citizen	3	22	10
+Scientific Study Buddy	3	20	10
+Scratch My Back To The Future	6	24	7
+Scrub The Floor Show	4	17	5
+Sea Monster Truck	3	15	3
+Seagrass Bed & Breakfast	3	20	8
+Seasame Street Fair	3	17	7
+Season To Taste Tester	4	19	6
+Seattle Washington Crossing The Delaware	5	36	7
+Second Act Of Kindness	4	19	6
+Second String Cheese	3	18	6
+Security Breach Of Contract	4	24	8
+Security Clearance Rack	3	21	8
+Security Clearance Sale	3	21	8
+Security Firm Handshake	3	21	8
+Security Office Manager	3	21	8
+Sedimentary Rock Around The Clock	5	29	11
+See Eye To Eye Exam	5	15	3
+See Spot Run For Office	5	19	3
+Seeing Double Agent	3	17	6
+Seeing Double Indemnity	3	21	6
+Selfie Stick In The Mud	5	19	6
+Selfie Stick- In-The Mud	4	19	6
+Selfie Stick To It	4	15	6
+Selfie Stick-In-The-Mud	2	19	6
+Sense Of Justice League	4	20	5
+Service With A Smile And Say Cheese	7	29	7
+Sesame & Easy Street	3	16	6
+Setting-Up Camp Counselor	3	22	9
+Shaking My Head Coach	4	18	7
+Shape Up Or Ship Out Of Control	7	25	5
+Share Puzzles With Friends	4	23	5
+Shark Tank Top	3	12	5
+Sharon Stone Fruit	3	16	6
+Sharp Turn Of The Screw	5	19	5
+Sharpened Pencil Skirt	3	20	9
+Shaved Head Coach	3	15	6
+Sheepish Grin & Bear It	4	18	8
+Sheer Cliff Claven	3	16	5
+Shelley Long Island Sound	4	22	7
+Shelly Long Island Sound	4	21	6
+Shepherd's Pie Chart	3	17	9
+Ship's Wheel Of Fortune	4	19	5
+Shoe & Fillet Of Sole	4	16	4
+Shoe And Fillet Of Sole	5	19	4
+Shopping Bag Of Tricks	4	19	8
+Shopping Bag Of Wind	4	17	8
+Shopping Tip Of The Iceberg	5	23	8
+Short Notice Of Completion	4	23	5
+Short Trip And Fall	4	16	5
+Shoulder Blade Of Grass	4	20	8
+Shrimp Cocktail Lounge	3	20	6
+Siamese Cat Burglar	3	17	7
+Sign On The Dotted Line Of Fire	7	25	4
+Sign On The Dotted Line Of Sight	7	26	4
+Silence Is Golden Globe Awards	5	26	7
+Sincerely Yours Truly	3	19	9
+Singin' In The Rain Barrel	5	21	6
+Single-Family Household Account	3	28	12
+Sitting Bull Market	3	17	7
+Sitting Bull Run	3	14	7
+Sitting Bull Terrier	3	18	7
+Sitting On Santa's Lap Of Luxury	6	26	7
+Six Degrees Of Separation Anxiety	5	29	3
+Sixth Sense Of Humor	4	17	5
+Skeleton Key To My Heart	5	20	8
+Ski Trip Of A Lifetime	5	18	3
+Ski Trip The Light Fantastic	5	24	3
+Sleep Like A Baby Carriage	5	22	5
+Sleep Like A Log Cabin	5	18	5
+Sleeping Bag Of Tricks	4	19	8
+Sleeping Beauty Cream	3	19	8
+Sleeping Beauty Is Only Skin Deep	6	28	8
+Sleeping Beauty Products	3	22	8
+Sleight Of Hand In Hand	5	19	7
+Sloppy Joe-Pye Weed	3	16	6
+Slumber Party Line	3	16	7
+Small Talk Radio	3	14	5
+Smash Hit Or Miss	4	14	5
+Smells Like A Wet Dog Days Of Summer	8	29	6
+Snack Bar Exam	3	12	5
+Snap Crackle Pop The Question	5	25	4
+Snow White As A Sheet	5	17	4
+Snow White Russian	3	16	4
+Snow White Sale	3	13	4
+Snow White Sox	3	12	4
+Snowcapped Mountain Lions	3	23	10
+Soaking Wet Bar	3	13	7
+Social Butterfly Net	3	18	6
+Social Call Of The Wild	5	19	6
+Social Security Camera	3	20	6
+Social Studies Test Of Strength	5	27	6
+Soda Pop Goes The Weasel	5	20	4
+Soda Pop Legend	3	13	4
+Soda Pop Quiz	3	11	4
+Soda Pop The Question	4	18	4
+Solar Panel Of Experts	4	19	5
+Solid As A Rock Paper Scissors	6	25	5
+Solid As A Rock Star	5	16	5
+Some Like It Hot Cinnamon Buns	6	25	4
+Some Like It Hot Pink	5	17	4
+Some Like It Hot Tamale	5	19	4
+Some Things Never Change Is Inevitable	6	33	4
+Something Old Something New England	5	31	9
+Something With A Little Kick Up Your Heels	8	35	9
+Somewhere Over The Rainbow Sprinkles	5	32	9
+Somewhere Over The Rainbow Trout	5	28	9
+Sonic Blast From The Past	5	21	5
+Sound Bite Of Cake	4	15	5
+Soup Of The Day Of The Dead	7	21	4
+Source Code Name	3	14	6
+Sourdough Bread Bowl Of Cherries	5	28	9
+Southern Cooking Up A Crazy Scheme	6	29	8
+Space Mountain Climbing	3	21	5
+Space Needle In A Haystack	5	22	5
+Spacecraft Mission Accomplished	3	29	10
+Spaghetti Western Hemisphere	3	26	9
+Spare Change Of Seasons	4	20	5
+Spare Key Ingredient	3	18	5
+Spare Key Lime Pie	4	15	5
+Spare Key Role	3	12	5
+Spare No Expense Report	4	20	5
+Spare Tire Shop	3	13	5
+Speaker Of The House Of Blues	6	24	7
+Speaker Of The House Of Pancakes	6	27	7
+Speaking Engagement Ring	3	22	8
+Speed Dial Tone	3	13	5
+Speed Of Light Show	4	16	5
+Spelling Bee Pollen	3	17	8
+Spelling Bee Sting	3	16	8
+Spice Rack Of Lamb	4	15	5
+Spicy Salsa Dancing	3	17	5
+Spider Monkey Business	3	20	6
+Spider Web Design	3	15	6
+Spider's Web Browser	3	17	7
+Spider's Web Designer	3	18	7
+Spin The Bottle-Nosed Dolphin	4	25	4
+Spinning Wheel Of Fortune	4	22	8
+Sports Bar Of Soap	4	15	6
+Sports Night At The Museum	5	22	6
+Sports Night Of The Living Dead	6	26	6
+Spread The Word Of The Day	6	21	6
+Spring Break A Leg	4	15	6
+Spring Break All The Rules	5	22	6
+Spring Break Your Silence	4	22	6
+Spring Is In The Air Purifier	6	24	6
+Square Root Beer Float	4	19	6
+Square Root Vegetables	3	20	6
+Squeaky Clean As A Whistle	5	22	7
+Squeaky-Clean As A Whistle	4	22	12
+Squeaky-Clean Freak	2	17	12
+Stage Right Fielder	3	17	5
+Stained-Glass Window-Shopping	2	26	12
+Stainless Steel Magnolias	3	23	9
+Stand By Your Man Of The House	7	24	5
+Stand Pat Sedgewick	3	17	5
+Stand Still Waters Run Deep	5	23	5
+Stand Your Ground Coffee	4	21	5
+Standing In Line Of Credit	5	22	8
+Standing On Shaky Ground Rules	5	26	8
+Standing Room Only Child	4	21	8
+Stand-Up Comic Genius	3	18	7
+Star Power Plug	3	13	4
+Staring Contest Rules	3	19	7
+Starring Role Of A Lifetime	5	23	8
+State Line Of Fire	4	15	5
+State Of Emergency Exit	4	20	5
+State Of The Union Address Label	6	27	5
+State Seal Of Approval	4	19	5
+State University Bridge	3	21	5
+Step Stool Pigeon	3	15	4
+Stephen Curry Chicken	3	19	7
+Stephen King Crab	3	15	7
+Stephen King Kong	3	15	7
+Steve Martin Landau	3	17	5
+Steve Martin Lawrence	3	19	5
+Stevie Wonder Bread	3	17	6
+Stevie Wonder Woman	3	17	6
+Stick Around The Bend	4	18	5
+Stick Of Butter Lettuce	4	20	5
+Stone Age Of Aquarius	4	18	5
+Stone's Throw In The Towel	5	21	6
+Stop Acting Like A Baby Boomer	6	25	4
+Stop Sign Of The Times	5	18	4
+Storage And Family Unit	4	20	7
+Stormy Weather The Storm	4	21	6
+Strangers In The Night Court	5	24	9
+Strike While The Iron Is Hot Chocolate	7	32	6
+Strip Mall Of America	4	18	5
+Stubborn As A Mule Deer	5	19	8
+Stuck In The Middle Kingdom	5	23	5
+Student Body Type	3	15	7
+Study Hall Of Fame	4	15	5
+Study Team Jersey	3	15	5
+Stuffed Animal Shelter	3	20	7
+Stumbling Block Of Ice	4	19	9
+Stunt Double Espresso	3	19	5
+Subject Line Of Defense	4	20	7
+Subsequent Event Planner	3	22	10
+Subway Grate On My Nerves	5	21	6
+Success Rate Your Date	4	19	7
+Sugar & Spice Girls	3	15	5
+Sugar And Spice Rack	4	17	5
+Sugar Rush Delivery	3	17	5
+Suggestion Box Of Candy	4	20	10
+Suggestion Box Of Doughnuts	4	24	10
+Summer Cottage Cheese	3	19	6
+Summer Of Love Note	4	16	6
+Summer School Bus	3	15	6
+Summer School Of Fish	4	18	6
+Summer School Of Hard Knocks	5	24	6
+Sunday Afternoon Football Game	4	27	6
+Sunny Forecast	2	13	5
+Super Bowl Of Cherries	4	19	5
+Superman's Cape Cod	3	16	9
+Supermarket Chain Letter	3	22	11
+Surf City Council	3	15	4
+Surfer Girl Power	3	15	6
+Susan B. Anthony Edwards	4	20	5
+Susan B. Anthony Hopkins	4	20	5
+Sushi Bar Mitzvah	3	15	5
+Sushi Bar Of Soap	4	14	5
+Swallow Your Pride And Prejudice	5	28	7
+Swallowed It Whole-Wheat Bread	4	26	9
+Swan Lake Erie	3	12	4
+Swap Meet Me In St. Louis	6	19	4
+Swashbuckling Captain Jack Sparrow	4	31	13
+Swimming In The Sea Cucumber	5	24	8
+Swing Set Of Earrings	4	18	5
+Syntagma Square Mile	3	18	8
+Syntagma Square Root	3	18	8
+Tabby Cat Burglar	3	15	5
+Table Wine Cellar	3	15	5
+Take A Deep Breath Mint	5	19	4
+Take Cover Price	3	14	4
+Take It With A Grain Of Salt & Pepper	8	28	4
+Taken By Surprise Birthday Party	5	28	5
+Taking The Lead Actor	4	18	6
+Talent Search Warrant	3	19	6
+Talk Is Cheap Thrills	4	18	4
+Talk Shop ‘Til You Drop	5	19	4
+Talk Shop 'til You Drop	5	18	4
+Talking Heads Of State	4	19	7
+Tan Line In The Sand	5	16	3
+Tap Water Park	3	12	3
+Tasmanian Devil In A Blue Dress	6	26	9
+Taste Of Your Own Medicine Cabinet	6	29	5
+Tater & Small Tot	3	13	5
+Tax Season Of Giving	4	17	3
+Tea Rose Quartz	3	13	3
+Teachers Pet Rock	3	15	8
+Technical Support Hose	3	20	9
+Teen Wolf Spiders	3	15	4
+Teething Ring Of Fire	4	18	8
+Telephone Jack And The Beanstalk	5	28	9
+Telephone Jack-In-The Box	3	21	9
+Television Commercial Truck	3	25	10
+Tennis Court Of Appeals	4	20	6
+Tennis Elbow Grease	3	17	6
+Tennis Stroke Of Luck	4	18	6
+Tess Ocean Liner	3	14	4
+Tess Ocean Waves	3	14	4
+Test Tube Of Toothpaste	4	20	4
+Test Tube Socks	3	13	4
+Text Message In A Bottle	5	20	4
+Thames River Dolphin	3	18	6
+That Was Easy As It Looks	6	20	4
+That'll Be The Day After Tomorrow	6	27	6
+That's Music To My Ears Of Corn	7	24	5
+The African Queen Of The Nile	6	24	3
+The Apple Of My Eye Exam	6	19	3
+The Artist Formerly Known As Prince Charming	7	38	3
+The Ball Is In Your Court Tv	7	22	3
+The Best Is Yet To Come Up And See Me Sometime	11	36	3
+The Best Things In Life Are Free Delivery	8	34	3
+The Big Apple Butter	4	17	3
+The Big Apple Dumpling	4	19	3
+The Big Apple Juice	4	16	3
+The Big Apple Pie	4	14	3
+The Big Apple Turnover	4	19	3
+The Big Bad Wolf Blitzer	5	20	3
+The Big Picture Perfect	4	20	3
+The Blues Brothers In Arms	5	22	3
+The Book Of Mormon Tabernacle Choir	6	30	3
+The Boy Who Cried Wolf Blitzer	6	25	3
+The Buck Stops Here You Go	6	21	3
+The Check Is In The Mail Order Catalog	8	31	3
+The Coast Is Clear As A Bell	7	22	3
+The Coast Is Clear Instructions	5	27	3
+The Color Purple Haze	4	18	3
+The Cowardly Lion Tamer	4	20	3
+The Customer Is Always Right Or Wrong	7	31	3
+The Dark Knight In Shining Armor	6	27	3
+The Dating Game Of Thrones	5	22	3
+The Doctor Will See You Now Or Never	8	29	3
+The Earth's Crust Of Bread	5	21	3
+The Elephant Man In The Moon	6	23	3
+The Empire Strikes Back To The Basics	7	31	3
+The Family Silver Sable	4	20	3
+The Feeling Is Mutual Benefit	5	25	3
+The Feeling Is Mutual Fund	5	22	3
+The Feeling Is Mutual Funds	5	23	3
+The French Quarter Dime & Nickel	5	26	3
+The Good The Bad & The Ugly Duckling	7	28	3
+The Good The Bad And The Ugly Betty	8	28	3
+The Good The Bad And The Ugly Duckling	8	31	3
+The Guest Of Honor Roll	5	19	3
+The Heart Of The Rocky Mountains	6	27	3
+The Honeymoon Is Over-The Hill	5	25	3
+The Honeymoon Is Over-The-Hill	4	25	3
+The Hunt For Red October Fest	6	24	3
+The Incredible Hulk Hogan	4	22	3
+The Invisible Man Of La Manchu	6	25	3
+The Iron Age Of Innocence	5	21	3
+The Jackson Five O'Clock Shadow	5	26	3
+The King And I Can Stay Here	7	22	3
+The Last Picture Show And Tell	6	25	3
+The Last Picture Show-And-Tell	4	25	3
+The Lincoln Tunnel Of Love	5	22	3
+The Lovin' Spoonful Of Sugar	5	23	3
+The Luck Of The Irish Setter	6	23	3
+The Luck Of The Irish Wolfhound	6	26	3
+The Moment Of Truth Or Dare	6	22	3
+The Muffin Man Of The Year	6	21	3
+The Need For Speed Racer	5	20	3
+The Need For Speed Skating	5	22	3
+The Outlaw Josey Wales Great Britain	6	31	3
+The Partridge Family Picnic	4	24	3
+The Phantom Of The Opera Glasses	6	27	3
+The Price Is Right To Remain Silent	7	29	3
+The Princess Bride Of Frankenstein	5	30	3
+The Public Square Mile	4	19	3
+The Public Square Root	4	19	3
+The Rest Is History Repeats Itself	6	29	3
+The Stanley Cup Of Tea	5	18	3
+The Statue Of Liberty Bell	5	22	3
+The Statue Of Liberty Institute	5	27	3
+The Stone Age Before Beauty	5	23	3
+The Sunshine State Of Being	5	23	3
+The Tale Of The Golden Goose Bumps	7	28	3
+The Three Little Pigs In A Blanket	7	28	3
+The Thrill Is Gone To Lunch	6	22	3
+The White House Of Blues	5	20	3
+The Wild Wild West Point	5	20	3
+The Young And The Restless Sleep	6	27	3
+There's No Place Like Home Plate	6	26	6
+There's Magic In The Air Purifier	6	27	6
+There's No Business Like Show Business As Usual	8	39	6
+These Are Fun Time Square	5	21	5
+These Are Fun Times Square	5	22	5
+Thin Air Fryer	3	12	4
+Think Fast Runner	3	15	5
+Think Outside The Box Of Junk	6	24	5
+Think Positive Charge	3	19	5
+Think Tank Of Gas	4	14	5
+Think Tank Top	3	12	5
+Thinking Outside The Box Of Doughnuts	6	32	8
+This Side Up And Running	5	20	4
+Thomas Jefferson Airplane	3	23	6
+Thomas Jefferson Davis	3	20	6
+Thompson Square Root	3	18	8
+Thousand Island Dressing Room	4	26	8
+Three-Piece Suit Of Armor	4	21	10
+Throwing A Birthday Party Animal	5	28	8
+Ticked Off The Beaten Path	5	22	6
+Ticket Window Seat	3	16	6
+Tickled Pink Cadillac	3	19	7
+Tickled Pink Floyd	3	16	7
+Tickled Pink Lemonade	3	19	7
+Tidal Wave Goodbye	3	16	5
+Tigers Tents & Tricks	3	17	6
+Tight Spot Remover	3	16	5
+Time And Time Again With The Questions	7	32	4
+Tinted Glass Slipper	3	18	6
+Tip Of The Iceberg Lettuce	5	22	3
+Tire Jack Black	3	13	4
+To Catch A Thief Ant	5	16	2
+To Have And To Hold All My Calls	8	25	2
+To The Naked Eye Doctor	5	19	2
+Toilet Water Buffalo	3	18	6
+Tom & Jerry Seinfeld	3	16	3
+Tom Cruise Control	3	16	3
+Tom Cruise Ship	3	13	3
+Tom T. Hall Of Records	5	17	3
+Tom, Dick And Harry Potter	5	21	4
+Tomorrow Is Another Day Of Reckoning	6	31	8
+Too Hot To Handle With Care	6	22	3
+Too Make A Long Story Short Of Breath	8	30	3
+Tooth Fairy Godmother	3	19	5
+Tooth Fairy Tale	3	14	5
+Tootsie Roll Call	3	15	7
+Tootsie Roll Out The Red Carpet	6	26	7
+Top Speed Limit	3	13	3
+Top Ten Lit	3	9	3
+Tough Break A Leg!	4	14	5
+Tough Love Yourself	3	17	5
+Tough Luck Of The Draw	5	18	5
+Tough Luck Of The Irish	5	19	5
+Tough Times Square	3	16	5
+Tow-Away Zone Diet	3	15	7
+Towel Rack Of Lamb	4	15	5
+Toxic Waste Of Time	4	16	5
+Tractor Pull-A-Part	2	16	7
+Traffic Jam & Jelly	3	15	7
+Traffic Jam Session	3	17	7
+Traffic Report Card	3	17	7
+Trained Seal Of Approval	4	21	7
+Transitional Job Well Done	4	23	12
+Treasure Chest Cold	3	17	8
+Tree Branch Library	3	17	4
+Tree Branches Of Government	4	24	4
+Trial By Fire Ants	4	15	5
+Triassic Period End Of Discussion	5	29	8
+Trickle-Down The Hatch	3	19	11
+Trick-Or-Treat Me Right	3	19	12
+Tricks Of The Trade School	5	22	6
+Tricks Of The Trade Secrets	5	23	6
+Trip And Fall Foliage	4	18	4
+Trophy Case History	3	17	6
+Tropical Climate Change	3	21	8
+Truck Stop! In The Name Of Love	7	24	5
+True Or False Alarm	4	16	4
+Tug Of War Of The Worlds	6	19	3
+Tuning Fork In The Road	5	19	6
+Tunnel Of Love Always	4	18	6
+Turning The Channel Islands	4	24	7
+Turtles And Toucans	3	17	7
+Tweety & Sylvester Stallone	3	23	6
+Twin Bed Of Kelp	4	13	4
+Twinkle Twinkle Little Star Jones	5	29	7
+Twist And Shout Out Loud	5	20	5
+Ty Cobb Salad	3	11	2
+Tyler Florence Henderson	3	22	5
+Ugly Betty Boop	3	13	4
+Uncle Joe Carson City Nevada	5	24	5
+Uncle Sam Diamond	3	15	5
+United States Mint Julep	4	21	6
+United States Navy Bean	4	20	6
+United States Navy Blue	4	20	6
+Universal Time To Bow Out Gracefully	6	31	9
+Unlikely Pair Of Socks	4	19	8
+Unlimited Access Denied	3	21	9
+Unlimited Space Exploration	3	25	9
+Up A Creek Without A Paddle Tennis	7	28	2
+Up In Arms And Legs	5	15	2
+Up In The Air Fryer	5	15	2
+Urban Park Bench	3	14	5
+Ursa Major League Baseball	4	23	4
+Usain Bolt Of Lightning	4	20	5
+Utah Jazz Music	3	13	4
+Utility Bill Of Rights	4	19	7
+Vanilla Ice Cream Of The Crop	6	24	7
+Vanished Into Thin Air Purifier	5	27	8
+Vanishing Act Of Kindness	4	22	9
+Vanna White Bread	3	15	5
+Vanna White Chocolate	3	19	5
+Vanna White House	3	15	5
+Vanna White Russian	3	17	5
+Vanna White Sale	3	14	5
+Vantage Point Of No Return	5	22	7
+Vegan Bean Salad	3	14	5
+Veto Power To The People	5	20	4
+Vicious Circle Of Life	4	19	7
+Victor Hugo Weaving	3	17	6
+Victory Lap Dog	3	13	7
+Video Game Bird	3	13	5
+Vin Diesel Engine	3	15	3
+Vin Diesel Fuel	3	13	3
+Vincent Price Point	3	17	7
+Vincent Price Tag	3	15	7
+Visiting Team Jersey	3	18	8
+Vocal Range Rover	3	15	5
+Voice Box Of Chocolates	4	20	5
+Volcanic Rock The Casbah	4	21	8
+Volleyball Court Of Appeals	4	24	10
+Voltaic Pile Of Junk	4	17	7
+Vorosmarty Square Mile	3	20	10
+Waffle Cone Of Silence	4	19	6
+Wagon Train Conductor	3	19	5
+Wait Your Turn Of Events	5	20	4
+Wake Me When It's Over And Out	7	23	4
+Walk It Off To The Races	6	19	4
+Walking My Pet Name	4	16	7
+Walking On Air Bubbles	4	19	7
+Walking Side-By-Side Dish	3	21	7
+Walking Stick Of Butter	4	20	7
+Wall Safe Bet	3	11	4
+Walt Disney World Peace	4	20	4
+Wash Behind Your Ears Of Corn	6	24	4
+Washington Irving Berlin	3	22	10
+Wasting Time To Leave	4	18	7
+Watch Chain Reaction	3	18	5
+Watch Your Step Lightly	4	20	5
+Water Buffalo Wings	3	17	5
+Water Fountain Pen	3	16	5
+Water Sports Massage	3	18	5
+Water's Edge Of Glory	4	17	6
+Wedding Bells Beach	3	17	7
+Wedding Cake	2	11	7
+Wedding March Madness	3	19	7
+Wedding March Of The Wooden Soldiers	6	31	7
+Wedding Ring Of Fire	4	17	7
+Wedding Ring Toss	3	15	7
+Weekend Getaway Car	3	17	7
+Welcomed Guest Ranch	3	18	8
+West Bank Teller	3	14	4
+What Are Friends For The Love Of Money	8	31	4
+What Do You Think Fast	5	18	4
+What's On Your Mind Over Matter	6	25	5
+What's Up Doc Holliday	4	18	5
+What's Up Dude Ranch	4	16	5
+Wheel Of Fortune Cookies	4	21	5
+Where There's Smoke There's Fire Insurance	6	35	5
+While You Were Sleeping Beauty	5	26	5
+Whip Into Shape Up Or Ship Out	7	24	4
+Whipping Cream Of The Crop	5	22	8
+White House Dressing	3	18	5
+Whitney Houston Texas	3	19	7
+Who's Calling Card	3	15	4
+Why Are You Here So Early Rome	7	24	3
+Wichita Kansas City Missouri	4	25	7
+Wiggle Room With A View	5	19	6
+Wild And Blue Skies	4	16	4
+Wild At Heart Of The Matter	6	22	4
+William Tell Me A Bedtime Story	6	26	7
+Win By A Nose Out Of Joint	7	20	3
+Win Place Or Showstopper	4	21	3
+Wind Power To The People	5	20	4
+Window Box Of Photographs	4	22	6
+Window Seat Of Your Pants	5	21	6
+Winner Takes All Is Well	5	20	6
+Winning Big Money Chip	4	19	7
+Winning Big Money Clip	4	19	7
+Winter Cottage Cheese	3	19	6
+Wireless Network Of Friends	4	24	8
+Wisdom Tooth Fairy	3	16	6
+Wishing Well Done	3	15	7
+Wishing Well I'll Be	4	16	7
+Witch's Hex Wrench	3	15	6
+With Tender Loving Care Bears	5	25	4
+Without A Care In The World Series	7	28	7
+Wooden Hanger Steak	3	17	6
+Wool Blanket Of Snow	4	17	4
+Work Hard Play Hard-Boiled Eggs	5	26	4
+Working On My Tan Bomber Jacket	6	26	7
+Working Stiff As A Board	5	20	7
+World Cup Of Coffee	4	16	5
+World Cup Of Joe	4	13	5
+World Cup Of Tea	4	13	5
+World Of Wonder Lake	4	17	5
+Would You Like Paper Or Plastic Surgery	7	33	5
+Would You Rather Sit Or Stand And Deliver	8	34	5
+Wrigley Field	2	12	7
+Wrigley Field Trip	3	16	7
+Writer's Block Party	3	17	7
+Xena: Warrior Princess Diaries	4	26	4
+Yacht Club Sandwich	3	17	5
+Yearly Budget	2	12	6
+Yellow Squash The Competition	4	26	6
+Yellow Submarine Sandwich	3	23	6
+Yoga & Movie Studio	3	15	4
+You Are What You Eat Three Square Meals A Day	10	36	3
+You Are What You Eat Your Heart Out	8	28	3
+You Can't Go Wrong Turn	5	18	3
+You Look Lost In Space	5	18	3
+You'D Better Believe It Or Not	6	24	4
+You'Re A Good Egg Noodles	5	20	5
+You'Re A Natural Gas	4	16	5
+You'Re An Early Bird Box	5	19	5
+Young At Heart-Shaped Cookies	4	25	5
+Young Love Is In The Air	6	19	5
+Your Wish Is My Command Post	6	23	4
+Zorba The Greek Salad	4	18	5
+Zz Top Of The World	5	15	2

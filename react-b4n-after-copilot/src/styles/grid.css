@@ -1,0 +1,80 @@
+/* Letter Box Styles */
+
+.letter-box {
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 2px solid #333;
+  border-radius: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-family: monospace;
+  margin: 0.2rem;
+  transition: background 0.2s, color 0.2s, opacity 0.2s;
+  background: #fff;
+  color: #222;
+}
+
+.letter-box.hidden {
+  background: #222;
+  color: #222;
+  opacity: 0.2;
+}
+
+.letter-box.visible {
+  background: #fff;
+  color: #222;
+}
+
+/* Keyboard Styles */
+
+.keyboard {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.keyboard-row {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.keyboard-key {
+  flex: 1 1 0;
+  padding: 1rem 0;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 0.5rem;
+  background: #eee;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+  transition: background 0.2s;
+}
+
+.keyboard-key:active {
+  background: #ccc;
+}
+
+@media (max-width: 600px) {
+  .keyboard-key {
+    font-size: 1rem;
+    padding: 0.7rem 0;
+  }
+}
+
+/* Grid Styles */
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.grid-row {
+  display: flex;
+  gap: 0.3rem;
+}
