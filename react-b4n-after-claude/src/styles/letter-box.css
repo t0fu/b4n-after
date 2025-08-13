@@ -10,3 +10,7 @@
   background-color: white;
   color: #333;
 }
+
+.letter-box.highlight {
+  background-color: lightblue;
+}

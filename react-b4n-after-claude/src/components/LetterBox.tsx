@@ -6,7 +6,7 @@ interface LetterBoxProps {
 }
 
 const LetterBox: React.FC<LetterBoxProps> = ({ letter }) => (
-  <div className="letter-box">
+  <div className={`letter-box ${letter === ' ' ? 'highlight' : ''}`}>
     {letter}
   </div>
 );

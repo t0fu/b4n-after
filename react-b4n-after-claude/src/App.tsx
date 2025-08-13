@@ -3,6 +3,7 @@ import Grid from './components/Grid';
 import Keyboard from './components/Keyboard';
 
 import './App.css';
+import { text } from 'stream/consumers';
 
 
 interface Puzzle {
@@ -67,6 +68,13 @@ const App: React.FC = () => {
     }
   };
 
+  const closeDiv = (event: React.MouseEvent<HTMLDivElement>) => {
+    const target = event.target as HTMLDivElement;
+    if (target.classList.contains('game-over') || target.classList.contains('stars')) {
+      document.getElementsByClassName('game-over')[0].setAttribute('style', 'display: none;');
+    }
+  }
+
   const checkAnswer = () => {
     const currentPuzzle = puzzles[currentPuzzleIndex];
     if (input.toLowerCase() === currentPuzzle.middle.toLowerCase()) {
@@ -91,6 +99,7 @@ const getDisplayGrid = () => {
   if (puzzles.length > 0) {
     const current = puzzles[currentPuzzleIndex];
     const firstWord = current.first.toUpperCase();
+    const secondWord = current.middle.toUpperCase();
     const lastWord = current.last.toUpperCase();
     const userInput = input.toUpperCase();
     console.log(firstWord, lastWord, userInput, current.middle);
@@ -108,6 +117,12 @@ const getDisplayGrid = () => {
     });
     let currentPos = Math.max(0, Math.floor((10 - current.middle.length) / 2));        
     
+    secondWord.split('').forEach((char, i) => {
+      if (currentPos + i < 10) {
+        grid[2][currentPos + i] = ' ';
+      }
+    });
+
     // Fill in user input (if any)
     if(!gameOver && userInput) {
       userInput.split('').forEach((char, i) => {
@@ -138,18 +153,41 @@ const getDisplayGrid = () => {
 };
 
   return (
+
     <div className={`app ${isShaking ? 'shake' : ''}`}>
       <div className="timer">{timeLeft}s</div>
       <Grid letters={getDisplayGrid()} />
       <Keyboard onKeyPress={handleKeyPress} />
       {gameOver && (
-        <div className="game-over">
+        <div 
+          className="game-over" 
+          onClick={() => {
+            ;
+          }}
+        >
           <h2>{ stars !== 5 ? 'Game Over!' : 'You won!' }</h2>
-          <div className="stars">{'⭐'.repeat(stars)}</div>
+          <div className="stars" onClick={closeDiv}>{'⭐'.repeat(stars)}</div>
           <p>Time: {30 - timeLeft}s</p>
+          <button className="restart-hint" onClick={() => {
+            const shareData = {
+              title: 'I just scored ' + stars + ' stars!',
+              text: 'Can you beat my score?',
+              url: window.location.href
+            };
+
+            // Fallback for browsers that don't support the Web Share API
+            const textArea = document.createElement('textarea');
+            textArea.value = shareData.title + '\n' + shareData.text + '\n' + shareData.url;
+            document.body.appendChild(textArea);
+            textArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textArea);
+            alert('Shareable link copied to clipboard!');                        
+          }}>Share</button>
         </div>
       )}
     </div>
+
   );
 };
 
