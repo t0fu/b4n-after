@@ -3,7 +3,6 @@ import Grid from './components/Grid';
 import Keyboard from './components/Keyboard';
 
 import './App.css';
-import { text } from 'stream/consumers';
 
 
 interface Puzzle {
@@ -65,6 +64,11 @@ const App: React.FC = () => {
       setInput(prev => prev.slice(0, -1));
     } else {
       setInput(prev => prev + key);
+      // const currentPuzzle = puzzles[currentPuzzleIndex];
+      // if (input.length === currentPuzzle.middle.length) {
+      //   console.log(input);
+      //   checkAnswer();
+      // }
     }
   };
 
@@ -102,7 +106,7 @@ const getDisplayGrid = () => {
     const secondWord = current.middle.toUpperCase();
     const lastWord = current.last.toUpperCase();
     const userInput = input.toUpperCase();
-    console.log(firstWord, lastWord, userInput, current.middle);
+    //console.log(firstWord, lastWord, userInput, current.middle);
     // Calculate total display length including spaces
     // const totalLength = firstWord.length + 1 + userInput.length + 1 + lastWord.length;
     
