@@ -1,6 +1,7 @@
 {
   "name": "react-b4n-after-claude",
   "version": "0.1.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
