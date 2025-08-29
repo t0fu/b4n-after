@@ -22,8 +22,9 @@
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   font-weight: bold;
   min-width: 30px;
+  transition: background-color 0.1s;
 }
 
-.key:active {
+.key:active, .key.active {
   background-color: #e0e0e0;
 }

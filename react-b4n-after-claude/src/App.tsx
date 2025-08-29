@@ -59,7 +59,7 @@ const App: React.FC = () => {
   const handleKeyPress = (key: string) => {
     if (gameOver) return;
 
-    if (key === 'ENTER') {
+    if (key === 'ENTER' || key === '↵') {
       checkAnswer();
     } else if (key === '⌫') {
       setInput(prev => prev.slice(0, -1));
