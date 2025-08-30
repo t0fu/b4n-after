@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Grid from './components/Grid';
 import Keyboard from './components/Keyboard';
-
+import Rand, { PRNG } from 'rand-seed';
 import './App.css';
 
 
@@ -183,7 +183,6 @@ const App: React.FC = () => {
       "Donald Duck Pond	3	14	6\n" +
       "Doris Day School	3	14	5\n" +
       "Downward Spiral Pasta	3	19	8\n" +
-      "Dream Bubble Gum	3	14	5\n" +
       "Dream Job Interview	3	17	5\n" +
       "Drinking Water Polo	3	17	8\n" +
       "Driving Test Kitchen	3	18	7\n" +
@@ -191,15 +190,22 @@ const App: React.FC = () => {
       "Dude Ranch Dressing	3	17	4\n" +
       "Dutch Treat Yourself	3	18	5\n";
     //TODO: seeded random generation
+
+    const rand  = new Rand(new Date().toDateString());
+
     const lines = wordlines.split('\n').filter(line => line.trim());
-    const randomPuzzles = lines
-      .sort(() => Math.random() - 0.5)
-      .slice(0, 5)
+    const randIdx = Array.from({length: 5}, () => Math.min(rand.next() * lines.length, lines.length - 1)|0);
+
+    const todaysPuzzles = lines
+      .filter((_, idx) => randIdx.includes(idx))
       .map(line => {
         const [first, middle, last] = line.substring(0, line.indexOf('\t')).split(' ', 3);
         return { first, middle, last };
-      });
-    setPuzzles(randomPuzzles);
+      })
+      .sort(() => rand.next());
+
+    console.log(todaysPuzzles);
+    setPuzzles(todaysPuzzles);
   }, []);
 
 
