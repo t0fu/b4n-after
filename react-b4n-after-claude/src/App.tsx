@@ -64,11 +64,11 @@ const App: React.FC = () => {
       setInput(prev => prev.slice(0, -1));
     } else {
       setInput(prev => prev + key);
-      // const currentPuzzle = puzzles[currentPuzzleIndex];
-      // if (input.length === currentPuzzle.middle.length) {
-      //   console.log(input);
-      //   checkAnswer();
-      // }
+      const currentPuzzle = puzzles[currentPuzzleIndex];
+      if (input.length + 1 === currentPuzzle.middle.length) {
+        console.log(input);
+        checkAnswer(key);
+      }
     }
   };
 
@@ -79,10 +79,11 @@ const App: React.FC = () => {
     }
   }
 
-  const checkAnswer = () => {
+  const checkAnswer = (key: string = '') => {
     const currentPuzzle = puzzles[currentPuzzleIndex];
-    if (input.toLowerCase() === currentPuzzle.middle.toLowerCase()) {
-      setStars(s => s + 1);
+    if (input.toLowerCase() === currentPuzzle.middle.toLowerCase() && key == '' ||
+      input.toLowerCase() + key.toLocaleLowerCase() === currentPuzzle.middle.toLowerCase()) {
+        setStars(s => s + 1);
       if (currentPuzzleIndex === 4) {
         setGameOver(true);
       } else {
