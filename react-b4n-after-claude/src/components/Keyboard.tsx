@@ -6,6 +6,7 @@ interface KeyboardProps {
 }
 
 const KEYS = [
+  [ 'SKIP' ],
   ['Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P'],
   ['A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L'],
   ['↵', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '⌫']
@@ -27,7 +28,7 @@ const Keyboard: React.FC<KeyboardProps> = ({ onKeyPress }) => {
         key = 'ENTER';
       } else if (key === 'BACKSPACE' || key === 'DELETE') {
         key = '⌫';
-      }
+      } 
       
       // Get the button element for this key
       const button = keyRefs.current.get(key);
@@ -56,16 +57,16 @@ const Keyboard: React.FC<KeyboardProps> = ({ onKeyPress }) => {
           {row.map((key) => (
             <button
               key={key}
-              className="key"
-              onClick={() => onKeyPress(key)}
+              className={(key === 'SKIP' ? "skip" : "key")}
+              onClick={() => {onKeyPress(key) }}
               ref={(el) => {
                 if (el) keyRefs.current.set(key, el);
               }}
             >
               {key}
             </button>
-          ))}
-        </div>
+        ))}
+      </div>
       ))}
     </div>
   );

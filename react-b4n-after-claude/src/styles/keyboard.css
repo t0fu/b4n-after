@@ -25,6 +25,20 @@
   transition: background-color 0.1s;
 }
 
+.skip {
+  width: 75%; 
+  padding: 15px;
+  border: none;
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-weight: bold;
+  transition: background-color 0.1s;
+  text-align: center; /* Center the text */
+  margin: 16px 0px; /* Add horizontal margin to match the gap */
+}
+
+
 .key:active, .key.active {
   background-color: #e0e0e0;
 }

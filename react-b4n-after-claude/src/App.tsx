@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Grid from './components/Grid';
 import Keyboard from './components/Keyboard';
 import Rand, { PRNG } from 'rand-seed';
+import LandingPage from './components/LandingPage';
 import './App.css';
 
 
@@ -11,14 +12,18 @@ interface Puzzle {
   last: string;
 }
 
+var initialTime = 30;
+
 const App: React.FC = () => {
   const [puzzles, setPuzzles] = useState<Puzzle[]>([]);
   const [currentPuzzleIndex, setCurrentPuzzleIndex] = useState(0);
   const [input, setInput] = useState('');
-  const [timeLeft, setTimeLeft] = useState(30);
+  const [timeLeft, setTimeLeft] = useState(initialTime);
   const [stars, setStars] = useState(0);
   const [gameOver, setGameOver] = useState(false);
   const [isShaking, setIsShaking] = useState(false);
+  const [showLanding, setShowLanding] = useState(true);  
+
 
   useEffect(() => {
     const wordlines = 
@@ -223,6 +228,8 @@ const App: React.FC = () => {
 
     if (key === 'ENTER' || key === '↵') {
       checkAnswer();
+    } else if (key === 'SKIP') {
+      skipPuzzle();    
     } else if (key === '⌫') {
       setInput(prev => prev.slice(0, -1));
     } else {
@@ -240,6 +247,13 @@ const App: React.FC = () => {
     if (target.classList.contains('game-over') || target.classList.contains('stars')) {
       document.getElementsByClassName('game-over')[0].setAttribute('style', 'display: none;');
     }
+  }
+
+  const skipPuzzle = () => {
+    const currentPuzzle = puzzles[currentPuzzleIndex];
+    puzzles.push(currentPuzzle);
+    puzzles.splice(currentPuzzleIndex,1);
+    setInput('')
   }
 
   const checkAnswer = (key: string = '') => {
@@ -320,43 +334,57 @@ const getDisplayGrid = () => {
   return grid;
 };
 
-  return (
+    // Only show landing page if showLanding is true
+  if (showLanding) {
+    return (
+      <LandingPage
+        onSelect={(seconds) => {
+          initialTime = seconds;
+          setTimeLeft(initialTime);
+          setShowLanding(false);
+        }}
+      />
+    );
+  } else {
 
-    <div className={`app ${isShaking ? 'shake' : ''}`}>
-      <div className="timer">{timeLeft}s</div>
-      <Grid letters={getDisplayGrid()} />
-      <Keyboard onKeyPress={handleKeyPress} />
-      {gameOver && (
-        <div 
-          className="game-over" 
-          onClick={() => {
-            ;
-          }}
-        >
-          <h2>{ stars !== 5 ? 'Game Over!' : 'You won!' }</h2>
-          <div className="stars" onClick={closeDiv}>{'⭐'.repeat(stars)}</div>
-          <p>Time: {30 - timeLeft}s</p>
-          <button className="restart-hint" onClick={() => {
-            const shareData = {
-              title: 'I just scored ' + stars + ' stars!',
-              text: 'Can you beat my score?',
-              url: window.location.href
-            };
+    return (
 
-            // Fallback for browsers that don't support the Web Share API
-            const textArea = document.createElement('textarea');
-            textArea.value = shareData.title + '\n' + shareData.text + '\n' + shareData.url;
-            document.body.appendChild(textArea);
-            textArea.select();
-            document.execCommand('copy');
-            document.body.removeChild(textArea);
-            alert('Shareable link copied to clipboard!');                        
-          }}>Share</button>
-        </div>
-      )}
-    </div>
+      <div className={`app ${isShaking ? 'shake' : ''}`}>
+        <div className="timer">{timeLeft}s</div>
+        <Grid letters={getDisplayGrid()} />
+        <Keyboard onKeyPress={handleKeyPress} />
+        {gameOver && (
+          <div 
+            className="game-over" 
+            onClick={() => {
+              ;
+            }}
+          >
+            <h2>{ stars !== 5 ? 'Game Over!' : 'You won!' }</h2>
+            <div className="stars" onClick={closeDiv}>{'⭐'.repeat(stars)}</div>
+            <p>Time: {initialTime - timeLeft}s</p>
+            <button className="restart-hint" onClick={() => {
+              const shareData = {
+                title: 'I just scored ' + stars + ' stars in ' + (initialTime - timeLeft) +'s!',
+                text: 'Can you beat my score?',
+                url: window.location.href
+              };
 
-  );
+              // Fallback for browsers that don't support the Web Share API
+              const textArea = document.createElement('textarea');
+              textArea.value = shareData.title + '\n' + shareData.text + '\n' + shareData.url;
+              document.body.appendChild(textArea);
+              textArea.select();
+              document.execCommand('copy');
+              document.body.removeChild(textArea);
+              alert('Shareable link copied to clipboard!');                        
+            }}>Share</button>
+          </div>
+        )}
+      </div>
+
+    );
+  }
 };
 
 export default App;

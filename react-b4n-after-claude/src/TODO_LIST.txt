@@ -1,0 +1,3 @@
+Game overview
+Cookie saving your history / scores
+fix css styling, probably in a lot of ways

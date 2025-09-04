@@ -1,0 +1,45 @@
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #fff;
+}
+
+.landing-title {
+  color: #000;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  letter-spacing: 1px;
+  justify-content: center;
+  text-align: center;
+}
+
+.landing-btn {
+  width: 90vw;
+  max-width: 400px;
+  margin: 0.5rem 0;
+  padding: 1.5rem 0;
+  font-size: 1.5rem;
+  border: none;
+  border-radius: 1.5rem;
+  color: #fff;
+  background: #444;
+  transition: background 0.2s;
+}
+
+.landing-btn.easy { background: #4caf50; }
+.landing-btn.medium { background: #ff9800; }
+.landing-btn.hard { background: #f44336; }
+
+.landing-btn:active {
+  background: #222;
+}
+
+@media (max-width: 600px) {
+  .landing-btn {
+    font-size: 1.2rem;
+    padding: 1.2rem 0;
+  }
+}
