@@ -28,7 +28,9 @@ const Keyboard: React.FC<KeyboardProps> = ({ onKeyPress }) => {
         key = 'ENTER';
       } else if (key === 'BACKSPACE' || key === 'DELETE') {
         key = '⌫';
-      } 
+      } else if (key === 'TAB') {
+         key = 'SKIP';
+      }
       
       // Get the button element for this key
       const button = keyRefs.current.get(key);
