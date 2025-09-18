@@ -54,7 +54,12 @@ const App: React.FC = () => {
   }, [timeLeft, gameOver]);
 
   const handleKeyPress = (key: string) => {
-    if (gameOver) return;
+    if (gameOver) {
+      if (key === 'SKIP') {
+        skipPuzzle();
+      } 
+      return;      
+    } 
 
     if (key === 'ENTER' || key === '↵') {
       checkAnswer();
@@ -66,7 +71,6 @@ const App: React.FC = () => {
       setInput(prev => prev + key);
       const currentPuzzle = puzzles[currentPuzzleIndex];
       if (input.length + 1 === currentPuzzle.middle.length) {
-        console.log(input);
         checkAnswer(key);
       }
     }
@@ -80,10 +84,14 @@ const App: React.FC = () => {
   }
 
   const skipPuzzle = () => {
-    const currentPuzzle = puzzles[currentPuzzleIndex];
-    puzzles.push(currentPuzzle);
-    puzzles.splice(currentPuzzleIndex,1);
-    setInput('')
+    if(gameOver) {
+      setCurrentPuzzleIndex(i => ((i + 1) % 5))
+    } else {
+      const currentPuzzle = puzzles[currentPuzzleIndex];
+      puzzles.push(currentPuzzle);
+      puzzles.splice(currentPuzzleIndex,1);
+      setInput('')
+    }
   }
 
   const checkAnswer = (key: string = '') => {
@@ -186,9 +194,7 @@ const getDisplayGrid = () => {
         {gameOver && (
           <div 
             className="game-over" 
-            onClick={() => {
-              ;
-            }}
+
           >
             <h2>{ stars !== 5 ? 'Game Over!' : 'You won!' }</h2>
             <div className="stars" onClick={closeDiv}>{'⭐'.repeat(stars)}</div>
