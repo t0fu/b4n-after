@@ -5,6 +5,7 @@ import Rand, { PRNG } from 'rand-seed';
 import LandingPage from './components/LandingPage';
 import './App.css';
 import { clues_3_words } from './constants/Clues'
+import Cookies from 'js-cookie';
 
 interface Puzzle {
   first: string;
@@ -27,10 +28,13 @@ const App: React.FC = () => {
 
   useEffect(() => {
 
-    //TODO: seeded random generation
+    const savedDifficulty = Cookies.get('difficulty');
+    if (savedDifficulty) {
+      initialTime = parseInt(savedDifficulty);
+      setTimeLeft(initialTime);
+    }
 
-    const rand  = new Rand(new Date().toDateString());
-    
+    const rand  = new Rand(new Date().toDateString());    
     const lines = clues_3_words.split('\n').filter(line => line.trim());
     const randIdx = Array.from({length: 5}, () => Math.min(rand.next() * lines.length, lines.length - 1)|0);
 

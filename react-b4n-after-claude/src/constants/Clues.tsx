@@ -649,8 +649,6 @@ export const clues_3_words =
 "Teen Wolf Spiders	3	15	4\n" +
 "Television Commercial Truck	3	25	10\n" +
 "Tennis Elbow Grease	3	17	6\n" +
-"Tess Ocean Liner	3	14	4\n" +
-"Tess Ocean Waves	3	14	4\n" +
 "Test Tube Socks	3	13	4\n" +
 "Thames River Dolphin	3	18	6\n" +
 "Thin Air Fryer	3	12	4\n" +
