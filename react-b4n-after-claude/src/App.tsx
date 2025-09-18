@@ -23,14 +23,11 @@ const App: React.FC = () => {
   const [gameOver, setGameOver] = useState(false);
   const [isShaking, setIsShaking] = useState(false);
   const [showLanding, setShowLanding] = useState(true);  
-
+  const today = new Date().toDateString();
 
   useEffect(() => {
 
-    //TODO: seeded random generation
-
-    const rand  = new Rand(new Date().toDateString());
-    
+    const rand  = new Rand(today);    
     const lines = clues_3_words.split('\n').filter(line => line.trim());
     const randIdx = Array.from({length: 5}, () => Math.min(rand.next() * lines.length, lines.length - 1)|0);
 
@@ -172,7 +169,7 @@ const getDisplayGrid = () => {
     return (
       <LandingPage
         onSelect={(seconds) => {
-          initialTime = seconds;
+          initialTime = seconds;          
           setTimeLeft(initialTime);
           setShowLanding(false);
         }}
@@ -198,6 +195,7 @@ const getDisplayGrid = () => {
             <p>Time: {initialTime - timeLeft}s</p>
             <button className="restart-hint" onClick={() => {
               const shareData = {
+                date: today,
                 title: 'I just scored ' + stars + ' stars in ' + (initialTime - timeLeft) +'s!',
                 text: 'Can you beat my score?',
                 url: window.location.href
@@ -205,7 +203,7 @@ const getDisplayGrid = () => {
 
               // Fallback for browsers that don't support the Web Share API
               const textArea = document.createElement('textarea');
-              textArea.value = shareData.title + '\n' + shareData.text + '\n' + shareData.url;
+              textArea.value = shareData.title + '\n' + shareData.text + '\n' + shareData.url + '\n' + shareData.date;
               document.body.appendChild(textArea);
               textArea.select();
               document.execCommand('copy');
