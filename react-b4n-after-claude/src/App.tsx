@@ -26,11 +26,17 @@ const App: React.FC = () => {
   const today = new Date().toDateString();
 
   useEffect(() => {
-
+    
     const rand  = new Rand(today);    
     const lines = clues_3_words.split('\n').filter(line => line.trim());
-    const randIdx = Array.from({length: 5}, () => Math.min(rand.next() * lines.length, lines.length - 1)|0);
+  
+    // Get 5 unique random indices
+    const randSet = new Set();
+    while (randSet.size < Math.min(5, lines.length)) {
+        randSet.add(Math.min(Math.floor(rand.next() * lines.length), lines.length-1));
+    }
 
+    const randIdx = Array.from(randSet);
     const todaysPuzzles = lines
       .filter((_, idx) => randIdx.includes(idx))
       .map(line => {
