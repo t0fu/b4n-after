@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import Grid from './components/Grid';
 import Keyboard from './components/Keyboard';
-import Rand, { PRNG } from 'rand-seed';
+import Rand from 'rand-seed';
 import LandingPage from './components/LandingPage';
 import './App.css';
 import { clues_3_words } from './constants/Clues'
+import Toast from './components/Toast';
+
 
 interface Puzzle {
   first: string;
@@ -24,6 +26,13 @@ const App: React.FC = () => {
   const [isShaking, setIsShaking] = useState(false);
   const [showLanding, setShowLanding] = useState(true);  
   const today = new Date().toDateString();
+  const [toastMessage, setToastMessage] = useState('');
+  const [showToast, setShowToast] = useState(false);
+
+  const showToastMessage = (message: string) => {
+    setToastMessage(message);
+    setShowToast(true);
+  };
 
   useEffect(() => {
     
@@ -212,18 +221,22 @@ const getDisplayGrid = () => {
                 text: 'Can you beat my score?',
                 url: window.location.href
               };
-
-              // Fallback for browsers that don't support the Web Share API
-              const textArea = document.createElement('textarea');
-              textArea.value = shareData.title + '\n' + shareData.text + '\n' + shareData.url + '\n' + shareData.date;
-              document.body.appendChild(textArea);
-              textArea.select();
-              document.execCommand('copy');
-              document.body.removeChild(textArea);
-              alert('Shareable link copied to clipboard!');                        
+              try {
+                navigator.share(shareData);
+              } catch {
+                navigator.clipboard.writeText(
+                  `${shareData.title}\n${shareData.text}\n${shareData.url}`
+                );
+                showToastMessage('Copied to clipboard!');
+              }
             }}>Share</button>
           </div>
         )}
+        <Toast 
+          message={toastMessage} 
+          isVisible={showToast} 
+          onClose={() => setShowToast(false)} 
+      />
       </div>
 
     );
@@ -231,3 +244,4 @@ const getDisplayGrid = () => {
 };
 
 export default App;
+
