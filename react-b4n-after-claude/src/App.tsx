@@ -217,7 +217,7 @@ const getDisplayGrid = () => {
             <button className="restart-hint" onClick={() => {
               const shareData = {
                 date: today,
-                title: 'I just scored ' + stars + ' stars in ' + (initialTime - timeLeft) +'s!',
+                title: 'I just scored ' + '⭐'.repeat(stars) + ' stars in ' + (initialTime - timeLeft) +'s!',
                 text: 'Can you beat my score?',
                 url: window.location.href
               };
