@@ -534,7 +534,6 @@ export const clues_3_words =
 "Rib Cage Fighter	3	14	3\n" +
 "Ricki Lake Superior	3	17	5\n" +
 "Rifle Chamber Music	3	17	5\n" +
-"Road To Perdition	3	15	4\n" +
 "Robot Chicken Sandwich	3	20	5\n" +
 "Roger Rabbit Ears	3	15	5\n" +
 "Roll Call Ahead	3	13	4\n" +
@@ -684,7 +683,6 @@ export const clues_3_words =
 "Tree Branch Library	3	17	4\n" +
 "Trophy Case History	3	17	6\n" +
 "Tropical Climate Change	3	21	8\n" +
-"Turtles And Toucans	3	17	7\n" +
 "Ty Cobb Salad	3	11	2\n" +
 "Tyler Florence Henderson	3	22	5\n" +
 "Ugly Betty Boop	3	13	4\n" +

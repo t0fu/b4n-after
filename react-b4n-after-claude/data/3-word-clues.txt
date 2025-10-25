@@ -1,801 +1,760 @@
-Abraham Lincoln Nebraska	3	22	7
-Abraham Lincoln Tunnel	3	20	7
-Achievable Goal Line	3	18	10
-Acid Test Tube	3	12	4
-Act Natural Beauty	3	16	3
-Active Duty Calls	3	15	6
-Active Military Museum	3	20	6
-Agatha Christie Brinkley	3	22	6
-Ageless Beauty Mark	3	17	7
-Aiming High Cheekbones	3	20	6
-Air Space Station	3	15	3
-Airport Runway Model	3	18	7
-Al Green Bay	3	10	2
-Al Green Onion	3	12	2
-Al Green Turtle	3	13	2
-Almond Joy Behar	3	14	6
-Alter Ego Trip	3	12	5
-Amazing Trick Knee	3	16	7
-Amazon Jungle Gym	3	15	6
-American Buffalo Wings	3	20	8
-American Express Yourself	3	23	8
-American Graffiti Artist	3	22	8
-American Pie Plate	3	16	8
-American Pie Tin	3	14	8
-Amusement Park Ranger	3	19	9
-Amy Grant Permission	3	18	3
-Ancient Times Square	3	18	7
-Apartment Complex Carbohydrates	3	29	9
-April Shower Cap	3	14	5
-Artichoke Heart Surgeon	3	21	9
-Assume Identity Crisis	3	20	6
-Assumed Identity Crisis	3	21	7
-Atomic Mass Audience	3	18	6
-Audio Clip Art	3	12	5
-Authorized Signature Song	3	23	10
-Baby Blue River	3	13	4
-Baking Powder Puff	3	16	6
-Baking Soda Fountain	3	18	6
-Baking Soda Pop	3	13	6
-Bald Eagle Scout	3	14	4
-Banana Split Decision	3	19	6
-Banana Split Ends	3	15	6
-Banana Split Infinitive	3	21	6
-Banana Split Personality	3	22	6
-Banana Split Second	3	17	6
-Bank Holiday Party	3	16	4
-Baseball Diamond Earrings	3	23	8
-Baseball Diamond Ring	3	19	8
-Basketball Hoop Skirt	3	19	10
-Basketball Player Piano	3	21	10
-Batman Villain Scarecrow	3	22	6
-Batting Cage Match	3	16	7
-Beautiful Maiden Voyage	3	21	9
-Beauty Shop Online	3	16	6
-Beef Stock Market	3	15	4
-Beer Tap Dancing	3	14	4
-Bengal Tiger Woods	3	16	6
-Beyond Belief System	3	18	6
-Big Ben Affleck	3	13	3
-Big Ben Stiller	3	13	3
-Bill Thomas Cheetah	3	17	4
-Billy Crystal Ball	3	16	5
-Billy Crystal Vase	3	16	5
-Bite Mark Ruffalo	3	15	4
-Black Cape Cod	3	12	5
-Blank Check Mark	3	14	5
-Blessed Event Planner	3	19	7
-Blood Pressure Points	3	19	5
-Blue Jay Gatsby	3	13	4
-Blue Jay Leno	3	11	4
-Board Game Changer	3	16	5
-Bob Denver Omelet	3	15	3
-Bone Dry Dock	3	11	4
-Bottled Water Polo	3	16	7
-Bow Tie Score	3	11	3
-Bowling Alley Cat	3	15	7
-Boxing Match Point	3	16	6
-Boxing Ring Toss	3	14	6
-Break Even Steven	3	15	5
-Brick Red Square	3	14	5
-Brick Wall Art	3	12	5
-Bright Sun Hat	3	12	6
-Bright Sun Kwon	3	13	6
-Broadway Musical Chairs	3	21	8
-Brokerage Firm Grip	3	17	9
-Bruce Wayne Brady	3	15	5
-Bubble Bath Bombs	3	15	6
-Bulletin Board Game	3	17	8
-Bumpy Road Construction	3	21	5
-Burn Rubber Stamp	3	15	4
-Burrito Supreme Court	3	19	7
-Burt Reynolds Wrap	3	16	4
-Butcher Block Party	3	17	7
-Cabin Pressure Cooker	3	19	5
-Cabin Pressure Gauge	3	18	5
-Cabin Pressure Point	3	18	5
-Cadbury Eggs Benedict	3	19	7
-Camera Flash Cards	3	16	6
-Camera Flash Flood	3	16	6
-Candy Cane Sugar	3	14	5
-Captain Cold Weather	3	18	7
-Caramel Apple Juice	3	17	7
-Cardiac Arrest Warrant	3	20	7
-Cartoon Character Trait	3	21	7
-Casual Dress Shop	3	15	6
-Cattle Drive Safely	3	17	6
-Ceiling Fan Club	3	14	7
-Center Stage Door	3	15	6
-Champagne Glass Menagerie	3	23	9
-Channel Surfing Lesson	3	20	7
-Charcuterie Board Game	3	20	11
-Charleston Chew Toy	3	17	10
-Charlotte Square Root	3	19	9
-Cherry Red Square	3	15	6
-Chicken Little Dipper	3	19	7
-Chicken Little Richard	3	20	7
-Chicken Stock Exchange	3	20	7
-Chicken Stock Future	3	18	7
-Chicken Stock Futures	3	19	7
-Chris Brown Sugar	3	15	5
-Chris Paul Mccartney	3	18	5
-Chris Rock Climbers	3	17	5
-Christmas Carol Burnett	3	21	9
-Christopher Columbus Ohio	3	23	11
-Christopher Robin Redbreast	3	25	11
-Cinnamon Roll Call	3	16	8
-Circular Motion Picture	3	21	8
-Circus Clown Fish	3	15	6
-Civic Duty Calls	3	14	5
-Class Act Accordingly	3	19	5
-Class Act Normal	3	14	5
-Class Clown Nose	3	14	5
-Clint Black Stallion	3	18	5
-Closet Space Invaders	3	19	6
-Closet Space Travel	3	17	6
-Coaxial Cable Stitch	3	18	7
-Coconut Water Fountain	3	20	7
-Coffee Bean Sprouts	3	17	6
-Coffee Press Credentials	3	22	6
-Coffee Press Release	3	18	6
-Coffee Table Tennis	3	17	6
-Coleslaw Dressing Room	3	20	8
-Color Blind Date	3	14	5
-Comedy Film Industry	3	18	6
-Comedy Routine Maintenance	3	24	6
-Comedy Team Player	3	16	6
-Commencement Address Unknown	3	26	12
-Computer Mouse Trap	3	17	8
-Conference Call Forward	3	21	10
-Confirmation Letter Opener	3	24	12
-Congressional Hearing Aid	3	23	13
-Continental Breakfast Burrito	3	27	11
-Conveyor Belt Buckle	3	18	8
-Corner Pocket Protector	3	21	6
-Cosmic Dust Bunnies	3	17	6
-Couch Potato Chips	3	16	5
-Couch Potato Pancake	3	18	5
-Couch Potato Peeler	3	17	5
-Couch Potato Salad	3	16	5
-Cowboy Boot Camp	3	14	6
-Crawl Space Station	3	17	5
-Creamed Corn Tortillas	3	20	7
-Critical Mass Audience	3	20	8
-Cruise Line Judge	3	15	6
-Cry Foul Ball	3	11	3
-Curling Iron Man	3	14	7
-Customer Service Charge	3	21	8
-Daffy Duck Pond	3	13	5
-Dairy Queen Victoria	3	18	5
-Dancing Queen Latifah	3	19	7
-David Letterman Jacket	3	20	5
-David Letterman Sweater	3	21	5
-David Price Tag	3	13	5
-Dead Wrong Way	3	12	4
-Death Valley Girl	3	15	5
-Debbie Reynolds Wrap	3	18	6
-Deep Space Heater	3	15	4
-Defensive Team Effort	3	19	9
-Demanding Job Offer	3	17	9
-Den Mother Nature	3	15	3
-Denzel Washington Monument	3	24	6
-Deveined Shrimp Cocktail	3	22	8
-Dialog Box Seats	3	14	6
-Diana Ross Geller	3	15	5
-Dining Table Tennis	3	17	6
-Dinner Table Saw	3	14	6
-Dirt Poor Excuse	3	14	4
-Dirt Road Map	3	11	4
-Dirty Harry Potter	3	16	5
-Disc Jockey Shorts	3	16	4
-Diving Bell Curve	3	15	6
-Diving Bell Pepper	3	16	6
-Diving Bell Tower	3	15	6
-Division Sign Language	3	20	8
-Doctor Strange Story	3	18	6
-Dog Pound Cake	3	12	3
-Dollar Bill Gates	3	15	6
-Donald Duck Pond	3	14	6
-Doris Day School	3	14	5
-Downward Spiral Pasta	3	19	8
-Dream Bubble Gum	3	14	5
-Dream Job Interview	3	17	5
-Drinking Water Polo	3	17	8
-Driving Test Kitchen	3	18	7
-Dry Sherry Darling	3	16	3
-Dude Ranch Dressing	3	17	4
-Dutch Treat Yourself	3	18	5
-Early Snow Goose	3	14	5
-Early Snow Shovel	3	15	5
-Earth Mother Goose	3	16	5
-Easter Egg Noodles	3	16	6
-Economy Class Syllabus	3	20	7
-Eddie Murphy Brown	3	16	5
-Editorial Staff Nurse	3	19	9
-Edward Norton Antivirus	3	21	6
-Edward Norton Endeavors	3	21	6
-Eggs Benedict Cumberbatch	3	23	4
-Elastic Lace Headband	3	19	7
-Elected Official Ballot	3	21	7
-Electric Blanket Statement	3	24	8
-Electric Shock Jock	3	17	8
-Electrical Outlet Mall	3	20	10
-Electronic Dance Music	3	20	10
-Elon Musk Ox	3	10	4
-Emergency Kit Carson	3	18	9
-Emma Stone Formation	3	18	4
-Emotional Plea Bargain	3	20	9
-Emotionally Charged Battery	3	25	11
-Enchanted Forest Ranger	3	21	9
-Engagement Ring Toss	3	18	10
-English Language Barrier	3	22	7
-Eric Church Wedding	3	17	4
-European Union Card	3	17	8
-Exchange Student Driver	3	21	8
-Extended Family Dinner	3	20	8
-Extended Family Vacation	3	22	8
-Extra Credit Score	3	16	5
-Eye Candy Bar	3	11	3
-Eye Contact Sport	3	15	3
-Facebook Post Office	3	18	8
-Fairy Dust Bunnies	3	16	5
-Fall Flat Tire	3	12	4
-False Alarm Clock	3	15	5
-Family Dinner Plate	3	17	6
-Family Entertainment Tonight	3	26	6
-Family Guy Pearce	3	15	6
-Family Honor Guard	3	16	6
-Family Pet Carrier	3	16	6
-Family Tree Doctor	3	16	6
-Fanny Pack Rat	3	12	5
-Fashion Police Escort	3	19	7
-Fashion Police Precinct	3	21	7
-Father Figure Eight	3	17	6
-Fats Domino Effect	3	16	4
-Federal Express Bus	3	17	7
-Federalist Party Animal	3	21	10
-Fence Post Office	3	15	5
-Filthy Rich Little	3	16	6
-Final Destination Unknown	3	23	5
-First Family Feud	3	15	5
-First Lady Gaga	3	13	5
-Fish Tank Top	3	11	4
-Fish Tank Truck	3	13	4
-Fishing Net Worth	3	15	7
-Fishing Pole Vault	3	16	7
-Flash Drive Safe	3	14	5
-Flash Drive Safely	3	16	5
-Flash Mob Boss	3	12	5
-Flat Tire Iron	3	12	4
-Flea Market Value	3	15	4
-Flower Bud Bundy	3	14	6
-Fluffy Pillow Talk	3	16	6
-Foam Roller Derby	3	15	4
-Foggy Mountain Breakdown	3	22	5
-Food Chain Reaction	3	17	4
-Founding Father Time	3	18	8
-Free Spin Cycle	3	13	4
-Freight Elevator Music	3	20	7
-French Quarter After	3	18	6
-French Quarter Pounder	3	20	6
-Fresh Dirt Bike	3	13	5
-Fried Chicken Coop	3	16	5
-Front Door Prize	3	14	5
-Frontier Strip Mall	3	17	8
-Frozen Dinner Theater	3	19	6
-Full Moon Knight	3	14	4
-Full Moon Night	3	13	4
-Full Moon Valley	3	14	4
-Gamma Ray Romano	3	14	5
-Garden Rake Comb	3	14	6
-Geek Squad Car	3	12	4
-General Public Domain	3	19	7
-Generation Gap Jeans	3	18	10
-George Washington Apples	3	22	6
-Get Smart Decision	3	16	3
-Glass Case Study	3	14	5
-Glenn Close Proximity	3	19	5
-Global Impact Statement	3	21	6
-Global Village Idiot	3	18	6
-Going Green Bananas	3	17	5
-Going Steady Rain	3	15	5
-Gold Tooth Fairy	3	14	4
-Golden Globe Theatre	3	18	6
-Golf Swing Band	3	13	4
-Good Mood Ring	3	12	4
-Google Drive Safely	3	17	6
-Google Search Party	3	17	6
-Graduate Student Council	3	22	8
-Grand Opening Act	3	15	5
-Gravy Boat Captain	3	16	5
-Gray Wolf Blitzer	3	15	4
-Grizzly Bear Market	3	17	7
-Grover Cleveland Browns	3	21	6
-Grover Cleveland Ohio	3	19	6
-Guinea Pig Latin	3	14	6
-Hair Spray Paint	3	14	4
-Halle Berry Gordy	3	15	5
-Halle Berry Pie	3	13	5
-Halle Berry Turnover	3	18	5
-Hand Cream Pitcher	3	16	4
-Hand Cream Soda	3	13	4
-Happy Birthday Suit	3	17	5
-Harry Truman Capote	3	17	5
-Haunted House Salad	3	17	7
-Haunted House Sitter	3	18	7
-Helpful Tip Jar	3	13	7
-Helping Hand Sanitizer	3	20	7
-Helping Hand Soap	3	15	7
-Hidden Talent Manager	3	19	6
-Hitching Post Office	3	18	8
-Holding Hands Down	3	16	7
-Home Alone Together	3	17	4
-Homecoming Queen Elizabeth	3	24	10
-Honda Civic Center	3	16	5
-Honda Civic Duty	3	14	5
-Honest Opinion Poll	3	17	6
-Honeymoon Cottage Cheese	3	22	9
-Hoover Dam Square	3	15	6
-Host And Hostess	3	14	4
-Hot Fudge Sauce	3	13	3
-Ice Cube Steak	3	12	3
-Identical Twin Peaks	3	18	9
-Iggy Pop Culture	3	14	4
-Impound Yard Sale	3	15	7
-Inclined Plane Tickets	3	20	8
-Individual Liberty Bell	3	21	10
-Infinity Pool Shark	3	17	8
-Inner Beauty Pageant	3	18	5
-Insect Spray Tan	3	14	6
-Instant Cash Flow	3	15	7
-Instruction Manual Transmission	3	29	11
-Intelligence Community Effort	3	27	12
-Intelligent Community Effort	3	26	11
-Island Hopping Mad	3	16	6
-Itunes Library Card	3	17	6
-Jack Black Market	3	15	4
-Jack Black Olives	3	15	4
-Jack London England	3	17	4
-James Joyce Dewitt	3	16	5
-James Madison Wisconsin	3	21	5
-Japanese Tea Ceremony	3	19	8
-Jason Alexander Hamilton	3	22	5
-Jefferson Airplane Propeller	3	26	9
-Jefferson Airplane Seat	3	21	9
-Jefferson Airplane Seats	3	22	9
-Jefferson Airplane Ticket	3	23	9
-Jennifer Hudson River	3	19	8
-Job Security Camera	3	17	3
-Jodie Foster Parents	3	18	5
-Joe Cocker Spaniel	3	16	3
-John Candy Cane	3	13	4
-John Denver Colorado	3	18	4
-Johnny Carson Daly	3	16	6
-Johnny Cash Advance	3	17	6
-Jon Snow Day	3	10	3
-Jon Snow Peas	3	11	3
-Jude Law Clerk	3	12	4
-Jude Law School	3	13	4
-Juicy Roasted Turkey	3	18	5
-Julius Caesar Salad	3	17	6
-Jumbo Jet Lag	3	11	5
-Jurassic Park Avenue	3	18	8
-Jurassic Park Bench	3	17	8
-Kangaroo Court Reporter	3	21	8
-Kanye West Coast	3	14	5
-Kanye West Hollywood	3	18	5
-Karaoke Bar Mitzvah	3	17	7
-Karate Chop Suey	3	14	6
-Kate Hudson River	3	15	4
-Katy Perry Mason	3	14	4
-Keith Urban Legend	3	16	5
-Keith Urban Myth	3	14	5
-Kevin Bacon Bits	3	14	5
-Kevin Bacon Strips	3	16	5
-Kevin Durant Oklahoma	3	19	5
-Killer Shark Tank	3	15	6
-Kit Carson Daly	3	13	3
-Kitchen Sponge Cake	3	17	7
-Lake Superior Attitude	3	20	4
-Lake Superior Intelligence	3	24	4
-Lakeside Cottage Cheese	3	21	8
-Landscape Artist Loft	3	19	9
-Law Firm Handshake	3	16	3
-Law Firm Mattress	3	15	3
-Leading Lady Gaga	3	15	7
-Learning Curve Ball	3	17	8
-Leaving Early Retirement	3	22	7
-Lebron James Franco	3	17	6
-Lebron James Woods	3	16	6
-Lecture Circuit Breaker	3	21	7
-Legal Brief Encounter	3	19	5
-Legal Brief Message	3	17	5
-Legal Guardian Angel	3	18	5
-Lemon Pie Chart	3	13	5
-Lemonade Stand By	3	15	8
-Lengthy Trial Offer	3	17	7
-Liberty Bell Peppers	3	18	7
-Lifelong Friendship Park	3	22	8
-Limited Engagement Ring	3	21	7
-Lint Roller Skating	3	17	4
-Lip Service Elevator	3	18	3
-Litter Box Turtle	3	15	6
-Litter Box Turtles	3	16	6
-Liz Lemon Pie	3	11	3
-Lobster Claw Hammer	3	17	7
-Local Hero Sandwich	3	17	5
-Local Library Card	3	16	5
-Log Cabin Cruiser	3	15	3
-Log Cabin Fever	3	13	3
-Log Cabin Pressure	3	16	3
-Loretta Lynn Anderson	3	19	7
-Louisiana Purchase Price	3	22	9
-Lucky Charm Bracelet	3	18	5
-Luxury Car Loan	3	13	6
-Madame Butterfly Net	3	18	6
-Mae West Virginia	3	15	3
-Magazine Cover Charge	3	19	8
-Maiden Name Brand	3	15	6
-Main Event Planner	3	16	4
-Main Road Map	3	11	4
-Main Squeeze Chute	3	16	4
-Man Cave Dwellers	3	15	3
-Marco Polo Pony	3	13	5
-Marco Polo Shirt	3	14	5
-Marilyn Monroe Doctrine	3	21	7
-Marlo Thomas Jefferson	3	20	5
-Master Bedroom Slippers	3	21	6
-Master Key Largo	3	14	6
-Maternity Ward Cleaver	3	20	9
-Mating Call Forwarding	3	20	6
-Matt Damon Wayans	3	15	4
-Mayflower Compact Car	3	19	9
-Membership Drive Safely	3	21	10
-Meteor Crater Lake	3	16	6
-Miami Heat Index	3	14	5
-Miami Vice President	3	18	5
-Michael Bay Leaves	3	16	7
-Military Academy Awards	3	21	8
-Military Base Salary	3	18	8
-Miss Piggy Bank	3	13	4
-Mission Control Switch	3	20	7
-Mississippi River Dolphin	3	23	11
-Modern Art Garfunkel	3	18	6
-Modern Family Reunion	3	19	6
-Modern Family Room	3	16	6
-Mona Lisa Simpson	3	15	4
-Money Tree Doctor	3	15	5
-Monkey Business Card	3	18	6
-Monkey Business Cards	3	19	6
-Monkey Business Proposition	3	25	6
-Monopoly Money Order	3	18	8
-Monterey Bay Leaves	3	17	8
-Mood Swing Music	3	14	4
-Moot Point Taken	3	14	4
-Mop Bucket List	3	13	3
-Moral Support Hose	3	16	5
-Mother Goose Bumps	3	16	6
-Mother Goose Egg	3	14	6
-Mother Nature Trail	3	17	6
-Mother Ship Canal	3	15	6
-Moustache Wax Museum	3	18	9
-Moving Van Morrison	3	17	6
-Mumbo Jumbo Jet	3	13	5
-Museum Square Jaw	3	15	6
-Naked Eye Candy	3	13	5
-Nancy Drew Barrymore	3	18	5
-National Security Badge	3	21	8
-Native Tongue Twisters	3	20	6
-Neil Diamond Pendant	3	18	4
-Neil Simon Cowell	3	15	4
-New York Pennsylvania	3	19	3
-News Flash Mob	3	12	4
-Nicolas Cage Fighter	3	18	7
-North Dakota Fanning	3	18	5
-North Star Pupil	3	14	5
-Oak Leaf Blower	3	13	3
-Ocean Water Clock	3	15	5
-Ocean Water Cooler	3	16	5
-Office Pool Boy	3	13	6
-Office Space Capsule	3	18	6
-Office Space Invaders	3	19	6
-Office Space Shuttle	3	18	6
-Old Navy Beans	3	12	3
-Open Sesame Street	3	16	4
-Orange Julius Caesar	3	18	6
-Orange Pulp Fiction	3	17	6
-Orchestra Pit Bull	3	16	9
-Orchestra Pit Stop	3	16	9
-Orient Express Bus	3	16	6
-Outer Space Heater	3	16	5
-Oval Office Cubicle	3	17	4
-Overdue Bill Murray	3	17	7
-Ozone Layer Cake	3	14	5
-Pacific Ocean Floor	3	17	7
-Paid Leave Quietly	3	16	4
-Palace Complex Sentence	3	21	6
-Pants Pocket Veto	3	15	5
-Parallel Parking Lot	3	18	8
-Park Bench Trial	3	14	4
-Park Teddy Roosevelt	3	18	4
-Parking Spot Remover	3	18	7
-Party Animal Planet	3	17	5
-Party Dress Pants	3	15	5
-Party Dress Rehearsal	3	19	5
-Past Due Process	3	14	4
-Patriotic American Cheese	3	23	9
-Pay Scale Back	3	12	3
-Payment Method Acting	3	19	7
-Peach Pit Bull	3	12	5
-Pearl Jam Session	3	15	5
-Peer Pressure Cooker	3	18	4
-Pencil Skirt Steak	3	16	6
-Peppermint Oil Field	3	18	10
-Perseverance Trail Mix	3	20	12
-Personal Data Entry	3	17	8
-Pet Rock Concert	3	14	3
-Pet Rock Quarry	3	13	3
-Petrified Wood Spoon	3	18	9
-Petty Cash Cow	3	12	5
-Piano Bench Press	3	15	5
-Pink Floyd Mayweather	3	19	4
-Pirate Ship Captain	3	17	6
-Pit Bull Shark	3	12	3
-Pit Crew Socks	3	12	3
-Pit Stop Sign	3	11	3
-Pita Pocket Protector	3	19	4
-Pizza Delivery Room	3	17	5
-Plastic Surgeon General	3	21	7
-Plymouth Rock Music	3	17	8
-Poison Ivy Cap	3	12	6
-Poison Ivy League	3	15	6
-Poker Hand Sanitizer	3	18	5
-Police Force Field	3	16	6
-Political Party Favors	3	20	9
-Pony Express Yourself	3	19	4
-Porky Pig Latin	3	13	5
-Portable Fan Club	3	15	8
-Postage Meter Maid	3	16	7
-Powdered Sugar Daddy	3	18	8
-Power Suit Up	3	11	5
-Power Trip Planner	3	16	5
-Pressing Engagement Ring	3	22	8
-Prince William Tell	3	17	6
-Princess Peach Pit	3	16	8
-Private Cabin Fever	3	17	7
-Private Club Sandwich	3	19	7
-Private Eye Exam	3	14	7
-Private Jet Lag	3	13	7
-Private Swim Lessons	3	18	7
-Professor Plum Pudding	3	20	9
-Prom Dress Rehearsal	3	18	4
-Public Square Root	3	16	6
-Pull Tight End	3	12	4
-Punctuation Mark Ruffalo	3	22	11
-Puppy Love Handles	3	16	5
-Puppy Love Letter	3	15	5
-Puppy Love Seat	3	13	5
-Puppy Love Story	3	14	5
-Quaint Cottage Cheese	3	19	6
-Raccoon Dog Tricks	3	16	7
-Rachael Ray Liotta	3	16	7
-Raging Bull Durham	3	16	6
-Raging Bull Market	3	16	6
-Raging Bull Terrier	3	17	6
-Ranch Hand Sanitizer	3	18	5
-Random House Dressing	3	19	6
-Raspberry Jam Session	3	19	9
-Recreational Van Gogh	3	19	12
-Red Square Root	3	13	3
-Regina King Crab	3	14	6
-Registered Nurse Shark	3	20	10
-Rembrandt Square Dance	3	20	9
-Remote Access Denied	3	18	6
-Remote Control Yourself	3	21	6
-Research Paper Cut	3	16	8
-Restaurant Server Name	3	20	10
-Restricted Area Rug	3	17	10
-Rib Cage Fighter	3	14	3
-Ricki Lake Superior	3	17	5
-Rifle Chamber Music	3	17	5
-Road To Perdition	3	15	4
-Robert Young Frankenstein	3	23	6
-Robot Chicken Sandwich	3	20	5
-Roger Rabbit Ears	3	15	5
-Roll Call Ahead	3	13	4
-Roman Empire Ants	3	15	5
-Romantic Novel Idea	3	17	8
-Ron Howard University	3	19	3
-Root Beer Belly	3	13	4
-Rose Garden Burger	3	16	4
-Royal Family Business	3	19	5
-Royal Wedding Planner	3	19	5
-Running Water Cooler	3	18	7
-Runway Model Airplane	3	19	6
-Runway Model Citizen	3	18	6
-Russell Brand Name	3	16	7
-Salad Dressing Room	3	17	5
-Salt Pork Chops	3	13	4
-Samuel French Perfume	3	19	6
-Sand Dollar Bill	3	14	4
-Santa Ana Navarro	3	15	5
-Santa Barbara Bush	3	16	5
-Satellite Dish Towel	3	18	9
-Saving Grace Kelly	3	16	6
-Scared Stiff Competition	3	22	6
-School Board Game	3	15	6
-School District Attorney	3	22	6
-Science Project Runway	3	20	7
-Scientific Model Citizen	3	22	10
-Scientific Study Buddy	3	20	10
-Sea Monster Truck	3	15	3
-Seasame Street Fair	3	17	7
-Second String Cheese	3	18	6
-Security Clearance Rack	3	21	8
-Security Clearance Sale	3	21	8
-Security Firm Handshake	3	21	8
-Security Office Manager	3	21	8
-Seeing Double Agent	3	17	6
-Seeing Double Indemnity	3	21	6
-Shark Tank Top	3	12	5
-Sharon Stone Fruit	3	16	6
-Sharpened Pencil Skirt	3	20	9
-Shaved Head Coach	3	15	6
-Sheer Cliff Claven	3	16	5
-Shrimp Cocktail Lounge	3	20	6
-Siamese Cat Burglar	3	17	7
-Sincerely Yours Truly	3	19	9
-Sitting Bull Market	3	17	7
-Sitting Bull Run	3	14	7
-Sitting Bull Terrier	3	18	7
-Sleeping Beauty Cream	3	19	8
-Sleeping Beauty Products	3	22	8
-Slumber Party Line	3	16	7
-Small Talk Radio	3	14	5
-Snack Bar Exam	3	12	5
-Snow White Russian	3	16	4
-Snow White Sale	3	13	4
-Snow White Sox	3	12	4
-Snowcapped Mountain Lions	3	23	10
-Soaking Wet Bar	3	13	7
-Social Butterfly Net	3	18	6
-Social Security Camera	3	20	6
-Soda Pop Legend	3	13	4
-Soda Pop Quiz	3	11	4
-Source Code Name	3	14	6
-Space Mountain Climbing	3	21	5
-Spacecraft Mission Accomplished	3	29	10
-Spaghetti Western Hemisphere	3	26	9
-Spare Key Ingredient	3	18	5
-Spare Key Role	3	12	5
-Spare Tire Shop	3	13	5
-Speaking Engagement Ring	3	22	8
-Speed Dial Tone	3	13	5
-Spelling Bee Pollen	3	17	8
-Spelling Bee Sting	3	16	8
-Spicy Salsa Dancing	3	17	5
-Spider Monkey Business	3	20	6
-Spider Web Design	3	15	6
-Square Root Vegetables	3	20	6
-Stage Right Fielder	3	17	5
-Stainless Steel Magnolias	3	23	9
-Stand Pat Sedgewick	3	17	5
-Star Power Plug	3	13	4
-Staring Contest Rules	3	19	7
-State University Bridge	3	21	5
-Step Stool Pigeon	3	15	4
-Stephen Curry Chicken	3	19	7
-Stephen King Crab	3	15	7
-Stephen King Kong	3	15	7
-Steve Martin Landau	3	17	5
-Steve Martin Lawrence	3	19	5
-Stevie Wonder Bread	3	17	6
-Stevie Wonder Woman	3	17	6
-Student Body Type	3	15	7
-Study Team Jersey	3	15	5
-Stuffed Animal Shelter	3	20	7
-Stunt Double Espresso	3	19	5
-Subsequent Event Planner	3	22	10
-Sugar Rush Delivery	3	17	5
-Summer Cottage Cheese	3	19	6
-Summer School Bus	3	15	6
-Supermarket Chain Letter	3	22	11
-Surf City Council	3	15	4
-Surfer Girl Power	3	15	6
-Sushi Bar Mitzvah	3	15	5
-Swan Lake Erie	3	12	4
-Syntagma Square Mile	3	18	8
-Syntagma Square Root	3	18	8
-Tabby Cat Burglar	3	15	5
-Table Wine Cellar	3	15	5
-Take Cover Price	3	14	4
-Talent Search Warrant	3	19	6
-Tap Water Park	3	12	3
-Tea Rose Quartz	3	13	3
-Teachers Pet Rock	3	15	8
-Technical Support Hose	3	20	9
-Teen Wolf Spiders	3	15	4
-Television Commercial Truck	3	25	10
-Tennis Elbow Grease	3	17	6
-Tess Ocean Liner	3	14	4
-Tess Ocean Waves	3	14	4
-Test Tube Socks	3	13	4
-Thames River Dolphin	3	18	6
-Thin Air Fryer	3	12	4
-Think Fast Runner	3	15	5
-Think Positive Charge	3	19	5
-Think Tank Top	3	12	5
-Thomas Jefferson Airplane	3	23	6
-Thomas Jefferson Davis	3	20	6
-Thompson Square Root	3	18	8
-Ticket Window Seat	3	16	6
-Tickled Pink Cadillac	3	19	7
-Tickled Pink Floyd	3	16	7
-Tickled Pink Lemonade	3	19	7
-Tidal Wave Goodbye	3	16	5
-Tight Spot Remover	3	16	5
-Tinted Glass Slipper	3	18	6
-Tire Jack Black	3	13	4
-Toilet Water Buffalo	3	18	6
-Tom Cruise Control	3	16	3
-Tom Cruise Ship	3	13	3
-Tooth Fairy Godmother	3	19	5
-Tooth Fairy Tale	3	14	5
-Tootsie Roll Call	3	15	7
-Top Speed Limit	3	13	3
-Top Ten Lit	3	9	3
-Tough Love Yourself	3	17	5
-Tough Times Square	3	16	5
-Traffic Jam Session	3	17	7
-Traffic Report Card	3	17	7
-Treasure Chest Cold	3	17	8
-Tree Branch Library	3	17	4
-Trophy Case History	3	17	6
-Tropical Climate Change	3	21	8
-Turtles And Toucans	3	17	7
-Ty Cobb Salad	3	11	2
-Tyler Florence Henderson	3	22	5
-Ugly Betty Boop	3	13	4
-Uncle Sam Diamond	3	15	5
-Unlimited Access Denied	3	21	9
-Unlimited Space Exploration	3	25	9
-Urban Park Bench	3	14	5
-Utah Jazz Music	3	13	4
-Vanna White Bread	3	15	5
-Vanna White Chocolate	3	19	5
-Vanna White House	3	15	5
-Vanna White Russian	3	17	5
-Vanna White Sale	3	14	5
-Vegan Bean Salad	3	14	5
-Victor Hugo Weaving	3	17	6
-Victory Lap Dog	3	13	7
-Video Game Bird	3	13	5
-Vin Diesel Engine	3	15	3
-Vin Diesel Fuel	3	13	3
-Vincent Price Point	3	17	7
-Vincent Price Tag	3	15	7
-Visiting Team Jersey	3	18	8
-Vocal Range Rover	3	15	5
-Vorosmarty Square Mile	3	20	10
-Wagon Train Conductor	3	19	5
-Wall Safe Bet	3	11	4
-Washington Irving Berlin	3	22	10
-Watch Chain Reaction	3	18	5
-Water Buffalo Wings	3	17	5
-Water Fountain Pen	3	16	5
-Water Sports Massage	3	18	5
-Wedding Bells Beach	3	17	7
-Wedding March Madness	3	19	7
-Wedding Ring Toss	3	15	7
-Weekend Getaway Car	3	17	7
-Welcomed Guest Ranch	3	18	8
-West Bank Teller	3	14	4
-White House Dressing	3	18	5
-Whitney Houston Texas	3	19	7
-Winter Cottage Cheese	3	19	6
-Wisdom Tooth Fairy	3	16	6
-Wishing Well Done	3	15	7
-Wooden Hanger Steak	3	17	6
-Wrigley Field Trip	3	16	7
-Yacht Club Sandwich	3	17	5
-Yellow Submarine Sandwich	3	23	6
+Abraham Lincoln Nebraska	3	22	7\n"
+"Acid Test Tube	3	12	4\n"
+"Act Natural Beauty	3	16	3\n"
+"Active Duty Calls	3	15	6\n"
+"Active Military Museum	3	20	6\n"
+"Agatha Christie Brinkley	3	22	6\n"
+"Ageless Beauty Mark	3	17	7\n"
+"Aiming High Cheekbones	3	20	6\n"
+"Air Space Station	3	15	3\n"
+"Airport Runway Model	3	18	7\n"
+"Al Green Bay	3	10	2\n"
+"Alter Ego Trip	3	12	5\n"
+"Amazon Jungle Gym	3	15	6\n"
+"American Buffalo Wings	3	20	8\n"
+"American Pie Plate	3	16	8\n"
+"Ancient Times Square	3	18	7\n"
+"April Shower Cap	3	14	5\n"
+"Artichoke Heart Surgeon	3	21	9\n"
+"Assumed Identity Crisis	3	21	7\n"
+"Atomic Mass Audience	3	18	6\n"
+"Audio Clip Art	3	12	5\n"
+"Authorized Signature Song	3	23	10\n"
+"Baby Blue River	3	13	4\n"
+"Baking Powder Puff	3	16	6\n"
+"Baking Soda Pop	3	13	6\n"
+"Bald Eagle Scout	3	14	4\n"
+"Banana Split Decision	3	19	6\n"
+"Banana Split Second	3	17	6\n"
+"Bank Holiday Party	3	16	4\n"
+"Baseball Diamond Ring	3	19	8\n"
+"Basketball Hoop Skirt	3	19	10\n"
+"Basketball Player Piano	3	21	10\n"
+"Batting Cage Match	3	16	7\n"
+"Beautiful Maiden Voyage	3	21	9\n"
+"Beauty Shop Online	3	16	6\n"
+"Beef Stock Market	3	15	4\n"
+"Beer Tap Dancing	3	14	4\n"
+"Bengal Tiger Woods	3	16	6\n"
+"Beyond Belief System	3	18	6\n"
+"Big Ben Affleck	3	13	3\n"
+"Big Ben Stiller	3	13	3\n"
+"Bill Thomas Cheetah	3	17	4\n"
+"Billy Crystal Ball	3	16	5\n"
+"Billy Crystal Vase	3	16	5\n"
+"Bite Mark Ruffalo	3	15	4\n"
+"Black Cape Cod	3	12	5\n"
+"Blank Check Mark	3	14	5\n"
+"Blessed Event Planner	3	19	7\n"
+"Blood Pressure Points	3	19	5\n"
+"Blue Jay Leno	3	11	4\n"
+
+"Board Game Changer	3	16	5\n" +
+"Bone Dry Dock	3	11	4\n" +
+"Bottled Water Polo	3	16	7\n" +
+"Bow Tie Score	3	11	3\n" +
+"Bowling Alley Cat	3	15	7\n" +
+"Boxing Match Point	3	16	6\n" +
+"Boxing Ring Toss	3	14	6\n" +
+"Break Even Steven	3	15	5\n" +
+"Brick Red Square	3	14	5\n" +
+"Brick Wall Art	3	12	5\n" +
+"Broadway Musical Chairs	3	21	8\n" +
+"Brokerage Firm Grip	3	17	9\n" +
+"Bruce Wayne Brady	3	15	5\n" +
+"Bubble Bath Bombs	3	15	6\n" +
+"Bulletin Board Game	3	17	8\n" +
+"Burn Rubber Stamp	3	15	4\n" +
+"Burrito Supreme Court	3	19	7\n" +
+"Burt Reynolds Wrap	3	16	4\n" +
+"Butcher Block Party	3	17	7\n" +
+"Cabin Pressure Cooker	3	19	5\n" +
+"Cabin Pressure Gauge	3	18	5\n" +
+"Cabin Pressure Point	3	18	5\n" +
+"Cadbury Eggs Benedict	3	19	7\n" +
+"Camera Flash Cards	3	16	6\n" +
+"Camera Flash Flood	3	16	6\n" +
+"Candy Cane Sugar	3	14	5\n" +
+"Caramel Apple Juice	3	17	7\n" +
+"Cardiac Arrest Warrant	3	20	7\n" +
+"Cartoon Character Trait	3	21	7\n" +
+"Casual Dress Shop	3	15	6\n" +
+"Cattle Drive Safely	3	17	6\n" +
+"Ceiling Fan Club	3	14	7\n" +
+"Center Stage Door	3	15	6\n" +
+"Champagne Glass Menagerie	3	23	9\n" +
+"Channel Surfing Lesson	3	20	7\n" +
+"Charleston Chew Toy	3	17	10\n" +
+"Cherry Red Square	3	15	6\n" +
+"Chicken Little Dipper	3	19	7\n" +
+"Chicken Little Richard	3	20	7\n" +
+"Chicken Stock Exchange	3	20	7\n" +
+"Chicken Stock Futures	3	19	7\n" +
+"Chris Brown Sugar	3	15	5\n" +
+"Chris Rock Climbers	3	17	5\n" +
+"Christmas Carol Burnett	3	21	9\n" +
+"Cinnamon Roll Call	3	16	8\n" +
+"Circular Motion Picture	3	21	8\n" +
+"Circus Clown Fish	3	15	6\n" +
+"Civic Duty Calls	3	14	5\n" +
+"Class Act Accordingly	3	19	5\n" +
+"Class Act Normal	3	14	5\n" +
+"Class Clown Nose	3	14	5\n" +
+"Clint Black Stallion	3	18	5\n" +
+"Closet Space Invaders	3	19	6\n" +
+"Closet Space Travel	3	17	6\n" +
+"Coaxial Cable Stitch	3	18	7\n" +
+"Coconut Water Fountain	3	20	7\n" +
+"Coffee Bean Sprouts	3	17	6\n" +
+"Coffee Press Release	3	18	6\n" +
+"Coffee Table Tennis	3	17	6\n" +
+"Coleslaw Dressing Room	3	20	8\n" +
+"Color Blind Date	3	14	5\n" +
+"Comedy Film Industry	3	18	6\n" +
+"Comedy Team Player	3	16	6\n" +
+"Computer Mouse Trap	3	17	8\n" +
+"Conference Call Forward	3	21	10\n" +
+"Conveyor Belt Buckle	3	18	8\n" +
+"Corner Pocket Protector	3	21	6\n" +
+"Cosmic Dust Bunnies	3	17	6\n" +
+"Couch Potato Chips	3	16	5\n" +
+"Couch Potato Pancake	3	18	5\n" +
+"Couch Potato Peeler	3	17	5\n" +
+"Couch Potato Salad	3	16	5\n" +
+"Cowboy Boot Camp	3	14	6\n" +
+"Crawl Space Station	3	17	5\n" +
+"Creamed Corn Tortillas	3	20	7\n" +
+"Critical Mass Audience	3	20	8\n" +
+"Cruise Line Judge	3	15	6\n" +
+"Cry Foul Ball	3	11	3\n" +
+"Curling Iron Man	3	14	7\n" +
+"Customer Service Charge	3	21	8\n" +
+"Daffy Duck Pond	3	13	5\n" +
+"Dairy Queen Victoria	3	18	5\n" +
+"Dancing Queen Latifah	3	19	7\n" +
+"David Letterman Jacket	3	20	5\n" +
+"David Price Tag	3	13	5\n" +
+"Dead Wrong Way	3	12	4\n" +
+"Death Valley Girl	3	15	5\n" +
+"Debbie Reynolds Wrap	3	18	6\n" +
+"Deep Space Heater	3	15	4\n" +
+"Defensive Team Effort	3	19	9\n" +
+"Demanding Job Offer	3	17	9\n" +
+"Den Mother Nature	3	15	3\n" +
+"Deveined Shrimp Cocktail	3	22	8\n" +
+"Dialog Box Seats	3	14	6\n" +
+"Diana Ross Geller	3	15	5\n" +
+"Dining Table Tennis	3	17	6\n" +
+"Dinner Table Saw	3	14	6\n" +
+"Dirt Poor Excuse	3	14	4\n" +
+"Dirt Road Map	3	11	4\n" +
+"Dirty Harry Potter	3	16	5\n" +
+"Disc Jockey Shorts	3	16	4\n" +
+"Diving Bell Curve	3	15	6\n" +
+"Diving Bell Pepper	3	16	6\n" +
+"Diving Bell Tower	3	15	6\n" +
+"Division Sign Language	3	20	8\n" +
+"Doctor Strange Story	3	18	6\n" +
+"Dog Pound Cake	3	12	3\n" +
+"Dollar Bill Gates	3	15	6\n" +
+"Donald Duck Pond	3	14	6\n" +
+"Doris Day School	3	14	5\n" +
+"Downward Spiral Pasta	3	19	8\n" +
+"Dream Bubble Gum	3	14	5\n" +
+"Dream Job Interview	3	17	5\n" +
+"Drinking Water Polo	3	17	8\n" +
+"Driving Test Kitchen	3	18	7\n" +
+"Dry Sherry Darling	3	16	3\n" +
+"Dude Ranch Dressing	3	17	4\n" +
+"Dutch Treat Yourself	3	18	5\n" +
+"Early Snow Goose	3	14	5\n" +
+"Early Snow Shovel	3	15	5\n" +
+"Earth Mother Goose	3	16	5\n" +
+"Easter Egg Noodles	3	16	6\n" +
+"Economy Class Syllabus	3	20	7\n" +
+"Eddie Murphy Brown	3	16	5\n" +
+"Editorial Staff Nurse	3	19	9\n" +
+"Edward Norton Antivirus	3	21	6\n" +
+"Edward Norton Endeavors	3	21	6\n" +
+"Eggs Benedict Cumberbatch	3	23	4\n" +
+"Elastic Lace Headband	3	19	7\n" +
+"Elected Official Ballot	3	21	7\n" +
+"Electric Blanket Statement	3	24	8\n" +
+"Electric Shock Jock	3	17	8\n" +
+"Electrical Outlet Mall	3	20	10\n" +
+"Electronic Dance Music	3	20	10\n" +
+"Elon Musk Ox	3	10	4\n" +
+"Emergency Kit Carson	3	18	9\n" +
+"Emma Stone Formation	3	18	4\n" +
+"Emotional Plea Bargain	3	20	9\n" +
+"Emotionally Charged Battery	3	25	11\n" +
+"Enchanted Forest Ranger	3	21	9\n" +
+"Engagement Ring Toss	3	18	10\n" +
+"English Language Barrier	3	22	7\n" +
+"Eric Church Wedding	3	17	4\n" +
+"European Union Card	3	17	8\n" +
+"Exchange Student Driver	3	21	8\n" +
+"Extended Family Dinner	3	20	8\n" +
+"Extended Family Vacation	3	22	8\n" +
+"Extra Credit Score	3	16	5\n" +
+"Eye Candy Bar	3	11	3\n" +
+"Eye Contact Sport	3	15	3\n" +
+"Facebook Post Office	3	18	8\n" +
+"Fairy Dust Bunnies	3	16	5\n" +
+"Fall Flat Tire	3	12	4\n" +
+"False Alarm Clock	3	15	5\n" +
+"Family Dinner Plate	3	17	6\n" +
+"Family Entertainment Tonight	3	26	6\n" +
+"Family Guy Pearce	3	15	6\n" +
+"Family Honor Guard	3	16	6\n" +
+"Family Pet Carrier	3	16	6\n" +
+"Family Tree Doctor	3	16	6\n" +
+"Fanny Pack Rat	3	12	5\n" +
+"Fashion Police Escort	3	19	7\n" +
+"Fashion Police Precinct	3	21	7\n" +
+"Father Figure Eight	3	17	6\n" +
+"Fats Domino Effect	3	16	4\n" +
+"Federal Express Bus	3	17	7\n" +
+"Federalist Party Animal	3	21	10\n" +
+"Fence Post Office	3	15	5\n" +
+"Filthy Rich Little	3	16	6\n" +
+"Final Destination Unknown	3	23	5\n" +
+"First Family Feud	3	15	5\n" +
+"First Lady Gaga	3	13	5\n" +
+"Fish Tank Top	3	11	4\n" +
+"Fish Tank Truck	3	13	4\n" +
+"Fishing Net Worth	3	15	7\n" +
+"Fishing Pole Vault	3	16	7\n" +
+"Flash Drive Safe	3	14	5\n" +
+"Flash Drive Safely	3	16	5\n" +
+"Flash Mob Boss	3	12	5\n" +
+"Flat Tire Iron	3	12	4\n" +
+"Flea Market Value	3	15	4\n" +
+"Flower Bud Bundy	3	14	6\n" +
+"Fluffy Pillow Talk	3	16	6\n" +
+"Foam Roller Derby	3	15	4\n" +
+"Foggy Mountain Breakdown	3	22	5\n" +
+"Food Chain Reaction	3	17	4\n" +
+"Founding Father Time	3	18	8\n" +
+"Free Spin Cycle	3	13	4\n" +
+"Freight Elevator Music	3	20	7\n" +
+"French Quarter After	3	18	6\n" +
+"French Quarter Pounder	3	20	6\n" +
+"Fresh Dirt Bike	3	13	5\n" +
+"Fried Chicken Coop	3	16	5\n" +
+"Front Door Prize	3	14	5\n" +
+"Frontier Strip Mall	3	17	8\n" +
+"Frozen Dinner Theater	3	19	6\n" +
+"Full Moon Knight	3	14	4\n" +
+"Full Moon Night	3	13	4\n" +
+"Full Moon Valley	3	14	4\n" +
+"Gamma Ray Romano	3	14	5\n" +
+"Garden Rake Comb	3	14	6\n" +
+"Geek Squad Car	3	12	4\n" +
+"General Public Domain	3	19	7\n" +
+"Generation Gap Jeans	3	18	10\n" +
+"George Washington Apples	3	22	6\n" +
+"Get Smart Decision	3	16	3\n" +
+"Glass Case Study	3	14	5\n" +
+"Glenn Close Proximity	3	19	5\n" +
+"Global Impact Statement	3	21	6\n" +
+"Global Village Idiot	3	18	6\n" +
+"Going Green Bananas	3	17	5\n" +
+"Going Steady Rain	3	15	5\n" +
+"Gold Tooth Fairy	3	14	4\n" +
+"Golden Globe Theatre	3	18	6\n" +
+"Golf Swing Band	3	13	4\n" +
+"Good Mood Ring	3	12	4\n" +
+"Google Drive Safely	3	17	6\n" +
+"Google Search Party	3	17	6\n" +
+"Graduate Student Council	3	22	8\n" +
+"Grand Opening Act	3	15	5\n" +
+"Gravy Boat Captain	3	16	5\n" +
+"Gray Wolf Blitzer	3	15	4\n" +
+"Grizzly Bear Market	3	17	7\n" +
+"Grover Cleveland Browns	3	21	6\n" +
+"Grover Cleveland Ohio	3	19	6\n" +
+"Guinea Pig Latin	3	14	6\n" +
+"Hair Spray Paint	3	14	4\n" +
+"Halle Berry Gordy	3	15	5\n" +
+"Halle Berry Pie	3	13	5\n" +
+"Halle Berry Turnover	3	18	5\n" +
+"Hand Cream Pitcher	3	16	4\n" +
+"Hand Cream Soda	3	13	4\n" +
+"Happy Birthday Suit	3	17	5\n" +
+"Harry Truman Capote	3	17	5\n" +
+"Haunted House Salad	3	17	7\n" +
+"Haunted House Sitter	3	18	7\n" +
+"Helpful Tip Jar	3	13	7\n" +
+"Helping Hand Sanitizer	3	20	7\n" +
+"Helping Hand Soap	3	15	7\n" +
+"Hidden Talent Manager	3	19	6\n" +
+"Hitching Post Office	3	18	8\n" +
+"Holding Hands Down	3	16	7\n" +
+"Home Alone Together	3	17	4\n" +
+"Homecoming Queen Elizabeth	3	24	10\n" +
+"Honda Civic Center	3	16	5\n" +
+"Honda Civic Duty	3	14	5\n" +
+"Honest Opinion Poll	3	17	6\n" +
+"Honeymoon Cottage Cheese	3	22	9\n" +
+"Hoover Dam Square	3	15	6\n" +
+"Hot Fudge Sauce	3	13	3\n" +
+"Ice Cube Steak	3	12	3\n" +
+"Identical Twin Peaks	3	18	9\n" +
+"Iggy Pop Culture	3	14	4\n" +
+"Impound Yard Sale	3	15	7\n" +
+"Inclined Plane Tickets	3	20	8\n" +
+"Individual Liberty Bell	3	21	10\n" +
+"Infinity Pool Shark	3	17	8\n" +
+"Inner Beauty Pageant	3	18	5\n" +
+"Insect Spray Tan	3	14	6\n" +
+"Instant Cash Flow	3	15	7\n" +
+"Instruction Manual Transmission	3	29	11\n" +
+"Intelligence Community Effort	3	27	12\n" +
+"Intelligent Community Effort	3	26	11\n" +
+"Island Hopping Mad	3	16	6\n" +
+"Itunes Library Card	3	17	6\n" +
+"Jack Black Market	3	15	4\n" +
+"Jack Black Olives	3	15	4\n" +
+"Jack London England	3	17	4\n" +
+"James Joyce Dewitt	3	16	5\n" +
+"James Madison Wisconsin	3	21	5\n" +
+"Japanese Tea Ceremony	3	19	8\n" +
+"Jason Alexander Hamilton	3	22	5\n" +
+"Jefferson Airplane Propeller	3	26	9\n" +
+"Jefferson Airplane Seat	3	21	9\n" +
+"Jefferson Airplane Seats	3	22	9\n" +
+"Jefferson Airplane Ticket	3	23	9\n" +
+"Jennifer Hudson River	3	19	8\n" +
+"Job Security Camera	3	17	3\n" +
+"Jodie Foster Parents	3	18	5\n" +
+"Joe Cocker Spaniel	3	16	3\n" +
+"John Candy Cane	3	13	4\n" +
+"John Denver Colorado	3	18	4\n" +
+"Johnny Carson Daly	3	16	6\n" +
+"Johnny Cash Advance	3	17	6\n" +
+"Jon Snow Day	3	10	3\n" +
+"Jon Snow Peas	3	11	3\n" +
+"Jude Law Clerk	3	12	4\n" +
+"Jude Law School	3	13	4\n" +
+"Juicy Roasted Turkey	3	18	5\n" +
+"Julius Caesar Salad	3	17	6\n" +
+"Jumbo Jet Lag	3	11	5\n" +
+"Jurassic Park Avenue	3	18	8\n" +
+"Jurassic Park Bench	3	17	8\n" +
+"Kangaroo Court Reporter	3	21	8\n" +
+"Kanye West Coast	3	14	5\n" +
+"Kanye West Hollywood	3	18	5\n" +
+"Karaoke Bar Mitzvah	3	17	7\n" +
+"Karate Chop Suey	3	14	6\n" +
+"Kate Hudson River	3	15	4\n" +
+"Katy Perry Mason	3	14	4\n" +
+"Keith Urban Legend	3	16	5\n" +
+"Keith Urban Myth	3	14	5\n" +
+"Kevin Bacon Bits	3	14	5\n" +
+"Kevin Bacon Strips	3	16	5\n" +
+"Kevin Durant Oklahoma	3	19	5\n" +
+"Killer Shark Tank	3	15	6\n" +
+"Kit Carson Daly	3	13	3\n" +
+"Kitchen Sponge Cake	3	17	7\n" +
+"Lake Superior Attitude	3	20	4\n" +
+"Lake Superior Intelligence	3	24	4\n" +
+"Lakeside Cottage Cheese	3	21	8\n" +
+"Landscape Artist Loft	3	19	9\n" +
+"Law Firm Handshake	3	16	3\n" +
+"Law Firm Mattress	3	15	3\n" +
+"Leading Lady Gaga	3	15	7\n" +
+"Learning Curve Ball	3	17	8\n" +
+"Leaving Early Retirement	3	22	7\n" +
+"Lebron James Franco	3	17	6\n" +
+"Lebron James Woods	3	16	6\n" +
+"Lecture Circuit Breaker	3	21	7\n" +
+"Legal Brief Encounter	3	19	5\n" +
+"Legal Brief Message	3	17	5\n" +
+"Legal Guardian Angel	3	18	5\n" +
+"Lemon Pie Chart	3	13	5\n" +
+"Lemonade Stand By	3	15	8\n" +
+"Lengthy Trial Offer	3	17	7\n" +
+"Liberty Bell Peppers	3	18	7\n" +
+"Lifelong Friendship Park	3	22	8\n" +
+"Limited Engagement Ring	3	21	7\n" +
+"Lint Roller Skating	3	17	4\n" +
+"Lip Service Elevator	3	18	3\n" +
+"Litter Box Turtle	3	15	6\n" +
+"Litter Box Turtles	3	16	6\n" +
+"Liz Lemon Pie	3	11	3\n" +
+"Lobster Claw Hammer	3	17	7\n" +
+"Local Hero Sandwich	3	17	5\n" +
+"Local Library Card	3	16	5\n" +
+"Log Cabin Cruiser	3	15	3\n" +
+"Log Cabin Fever	3	13	3\n" +
+"Log Cabin Pressure	3	16	3\n" +
+"Loretta Lynn Anderson	3	19	7\n" +
+"Louisiana Purchase Price	3	22	9\n" +
+"Lucky Charm Bracelet	3	18	5\n" +
+"Luxury Car Loan	3	13	6\n" +
+"Madame Butterfly Net	3	18	6\n" +
+"Mae West Virginia	3	15	3\n" +
+"Magazine Cover Charge	3	19	8\n" +
+"Maiden Name Brand	3	15	6\n" +
+"Main Event Planner	3	16	4\n" +
+"Main Road Map	3	11	4\n" +
+"Main Squeeze Chute	3	16	4\n" +
+"Man Cave Dwellers	3	15	3\n" +
+"Marco Polo Pony	3	13	5\n" +
+"Marco Polo Shirt	3	14	5\n" +
+"Marilyn Monroe Doctrine	3	21	7\n" +
+"Marlo Thomas Jefferson	3	20	5\n" +
+"Master Bedroom Slippers	3	21	6\n" +
+"Master Key Largo	3	14	6\n" +
+"Maternity Ward Cleaver	3	20	9\n" +
+"Mating Call Forwarding	3	20	6\n" +
+"Matt Damon Wayans	3	15	4\n" +
+"Mayflower Compact Car	3	19	9\n" +
+"Membership Drive Safely	3	21	10\n" +
+"Meteor Crater Lake	3	16	6\n" +
+"Miami Heat Index	3	14	5\n" +
+"Miami Vice President	3	18	5\n" +
+"Michael Bay Leaves	3	16	7\n" +
+"Military Academy Awards	3	21	8\n" +
+"Military Base Salary	3	18	8\n" +
+"Miss Piggy Bank	3	13	4\n" +
+"Mission Control Switch	3	20	7\n" +
+"Mississippi River Dolphin	3	23	11\n" +
+"Modern Art Garfunkel	3	18	6\n" +
+"Modern Family Reunion	3	19	6\n" +
+"Modern Family Room	3	16	6\n" +
+"Mona Lisa Simpson	3	15	4\n" +
+"Money Tree Doctor	3	15	5\n" +
+"Monkey Business Card	3	18	6\n" +
+"Monkey Business Cards	3	19	6\n" +
+"Monkey Business Proposition	3	25	6\n" +
+"Monopoly Money Order	3	18	8\n" +
+"Monterey Bay Leaves	3	17	8\n" +
+"Mood Swing Music	3	14	4\n" +
+"Moot Point Taken	3	14	4\n" +
+"Mop Bucket List	3	13	3\n" +
+"Moral Support Hose	3	16	5\n" +
+"Mother Goose Bumps	3	16	6\n" +
+"Mother Goose Egg	3	14	6\n" +
+"Mother Nature Trail	3	17	6\n" +
+"Mother Ship Canal	3	15	6\n" +
+"Moustache Wax Museum	3	18	9\n" +
+"Moving Van Morrison	3	17	6\n" +
+"Mumbo Jumbo Jet	3	13	5\n" +
+"Museum Square Jaw	3	15	6\n" +
+"Naked Eye Candy	3	13	5\n" +
+"Nancy Drew Barrymore	3	18	5\n" +
+"National Security Badge	3	21	8\n" +
+"Native Tongue Twisters	3	20	6\n" +
+"Neil Diamond Pendant	3	18	4\n" +
+"Neil Simon Cowell	3	15	4\n" +
+"New York Pennsylvania	3	19	3\n" +
+"News Flash Mob	3	12	4\n" +
+"Nicolas Cage Fighter	3	18	7\n" +
+"North Dakota Fanning	3	18	5\n" +
+"North Star Pupil	3	14	5\n" +
+"Oak Leaf Blower	3	13	3\n" +
+"Ocean Water Clock	3	15	5\n" +
+"Ocean Water Cooler	3	16	5\n" +
+"Office Pool Boy	3	13	6\n" +
+"Office Space Capsule	3	18	6\n" +
+"Office Space Invaders	3	19	6\n" +
+"Office Space Shuttle	3	18	6\n" +
+"Old Navy Beans	3	12	3\n" +
+"Open Sesame Street	3	16	4\n" +
+"Orange Julius Caesar	3	18	6\n" +
+"Orange Pulp Fiction	3	17	6\n" +
+"Orchestra Pit Bull	3	16	9\n" +
+"Orchestra Pit Stop	3	16	9\n" +
+"Orient Express Bus	3	16	6\n" +
+"Outer Space Heater	3	16	5\n" +
+"Oval Office Cubicle	3	17	4\n" +
+"Overdue Bill Murray	3	17	7\n" +
+"Ozone Layer Cake	3	14	5\n" +
+"Pacific Ocean Floor	3	17	7\n" +
+"Paid Leave Quietly	3	16	4\n" +
+"Palace Complex Sentence	3	21	6\n" +
+"Pants Pocket Veto	3	15	5\n" +
+"Parallel Parking Lot	3	18	8\n" +
+"Park Bench Trial	3	14	4\n" +
+"Park Teddy Roosevelt	3	18	4\n" +
+"Parking Spot Remover	3	18	7\n" +
+"Party Animal Planet	3	17	5\n" +
+"Party Dress Pants	3	15	5\n" +
+"Party Dress Rehearsal	3	19	5\n" +
+"Past Due Process	3	14	4\n" +
+"Patriotic American Cheese	3	23	9\n" +
+"Pay Scale Back	3	12	3\n" +
+"Payment Method Acting	3	19	7\n" +
+"Peach Pit Bull	3	12	5\n" +
+"Pearl Jam Session	3	15	5\n" +
+"Peer Pressure Cooker	3	18	4\n" +
+"Pencil Skirt Steak	3	16	6\n" +
+"Peppermint Oil Field	3	18	10\n" +
+"Perseverance Trail Mix	3	20	12\n" +
+"Personal Data Entry	3	17	8\n" +
+"Pet Rock Concert	3	14	3\n" +
+"Pet Rock Quarry	3	13	3\n" +
+"Petrified Wood Spoon	3	18	9\n" +
+"Petty Cash Cow	3	12	5\n" +
+"Piano Bench Press	3	15	5\n" +
+"Pink Floyd Mayweather	3	19	4\n" +
+"Pirate Ship Captain	3	17	6\n" +
+"Pit Bull Shark	3	12	3\n" +
+"Pit Crew Socks	3	12	3\n" +
+"Pit Stop Sign	3	11	3\n" +
+"Pita Pocket Protector	3	19	4\n" +
+"Pizza Delivery Room	3	17	5\n" +
+"Plastic Surgeon General	3	21	7\n" +
+"Plymouth Rock Music	3	17	8\n" +
+"Poison Ivy Cap	3	12	6\n" +
+"Poison Ivy League	3	15	6\n" +
+"Poker Hand Sanitizer	3	18	5\n" +
+"Police Force Field	3	16	6\n" +
+"Political Party Favors	3	20	9\n" +
+"Pony Express Yourself	3	19	4\n" +
+"Porky Pig Latin	3	13	5\n" +
+"Portable Fan Club	3	15	8\n" +
+"Postage Meter Maid	3	16	7\n" +
+"Powdered Sugar Daddy	3	18	8\n" +
+"Power Suit Up	3	11	5\n" +
+"Power Trip Planner	3	16	5\n" +
+"Pressing Engagement Ring	3	22	8\n" +
+"Prince William Tell	3	17	6\n" +
+"Princess Peach Pit	3	16	8\n" +
+"Private Cabin Fever	3	17	7\n" +
+"Private Club Sandwich	3	19	7\n" +
+"Private Eye Exam	3	14	7\n" +
+"Private Jet Lag	3	13	7\n" +
+"Private Swim Lessons	3	18	7\n" +
+"Professor Plum Pudding	3	20	9\n" +
+"Prom Dress Rehearsal	3	18	4\n" +
+"Public Square Root	3	16	6\n" +
+"Pull Tight End	3	12	4\n" +
+"Punctuation Mark Ruffalo	3	22	11\n" +
+"Puppy Love Handles	3	16	5\n" +
+"Puppy Love Letter	3	15	5\n" +
+"Puppy Love Seat	3	13	5\n" +
+"Puppy Love Story	3	14	5\n" +
+"Quaint Cottage Cheese	3	19	6\n" +
+"Raccoon Dog Tricks	3	16	7\n" +
+"Rachael Ray Liotta	3	16	7\n" +
+"Raging Bull Durham	3	16	6\n" +
+"Raging Bull Market	3	16	6\n" +
+"Raging Bull Terrier	3	17	6\n" +
+"Ranch Hand Sanitizer	3	18	5\n" +
+"Random House Dressing	3	19	6\n" +
+"Raspberry Jam Session	3	19	9\n" +
+"Recreational Van Gogh	3	19	12\n" +
+"Red Square Root	3	13	3\n" +
+"Regina King Crab	3	14	6\n" +
+"Registered Nurse Shark	3	20	10\n" +
+"Rembrandt Square Dance	3	20	9\n" +
+"Remote Access Denied	3	18	6\n" +
+"Remote Control Yourself	3	21	6\n" +
+"Research Paper Cut	3	16	8\n" +
+"Restaurant Server Name	3	20	10\n" +
+"Restricted Area Rug	3	17	10\n" +
+"Rib Cage Fighter	3	14	3\n" +
+"Ricki Lake Superior	3	17	5\n" +
+"Rifle Chamber Music	3	17	5\n" +
+"Robert Young Frankenstein	3	23	6\n" +
+"Robot Chicken Sandwich	3	20	5\n" +
+"Roger Rabbit Ears	3	15	5\n" +
+"Roll Call Ahead	3	13	4\n" +
+"Roman Empire Ants	3	15	5\n" +
+"Romantic Novel Idea	3	17	8\n" +
+"Ron Howard University	3	19	3\n" +
+"Root Beer Belly	3	13	4\n" +
+"Rose Garden Burger	3	16	4\n" +
+"Royal Family Business	3	19	5\n" +
+"Royal Wedding Planner	3	19	5\n" +
+"Running Water Cooler	3	18	7\n" +
+"Runway Model Airplane	3	19	6\n" +
+"Runway Model Citizen	3	18	6\n" +
+"Russell Brand Name	3	16	7\n" +
+"Salad Dressing Room	3	17	5\n" +
+"Salt Pork Chops	3	13	4\n" +
+"Samuel French Perfume	3	19	6\n" +
+"Sand Dollar Bill	3	14	4\n" +
+"Santa Ana Navarro	3	15	5\n" +
+"Santa Barbara Bush	3	16	5\n" +
+"Satellite Dish Towel	3	18	9\n" +
+"Saving Grace Kelly	3	16	6\n" +
+"Scared Stiff Competition	3	22	6\n" +
+"School Board Game	3	15	6\n" +
+"School District Attorney	3	22	6\n" +
+"Science Project Runway	3	20	7\n" +
+"Scientific Model Citizen	3	22	10\n" +
+"Scientific Study Buddy	3	20	10\n" +
+"Sea Monster Truck	3	15	3\n" +
+"Seasame Street Fair	3	17	7\n" +
+"Second String Cheese	3	18	6\n" +
+"Security Clearance Rack	3	21	8\n" +
+"Security Clearance Sale	3	21	8\n" +
+"Security Firm Handshake	3	21	8\n" +
+"Security Office Manager	3	21	8\n" +
+"Seeing Double Agent	3	17	6\n" +
+"Seeing Double Indemnity	3	21	6\n" +
+"Shark Tank Top	3	12	5\n" +
+"Sharon Stone Fruit	3	16	6\n" +
+"Sharpened Pencil Skirt	3	20	9\n" +
+"Shaved Head Coach	3	15	6\n" +
+"Sheer Cliff Claven	3	16	5\n" +
+"Shrimp Cocktail Lounge	3	20	6\n" +
+"Siamese Cat Burglar	3	17	7\n" +
+"Sincerely Yours Truly	3	19	9\n" +
+"Sitting Bull Market	3	17	7\n" +
+"Sitting Bull Run	3	14	7\n" +
+"Sitting Bull Terrier	3	18	7\n" +
+"Sleeping Beauty Cream	3	19	8\n" +
+"Sleeping Beauty Products	3	22	8\n" +
+"Slumber Party Line	3	16	7\n" +
+"Small Talk Radio	3	14	5\n" +
+"Snack Bar Exam	3	12	5\n" +
+"Snow White Russian	3	16	4\n" +
+"Snow White Sale	3	13	4\n" +
+"Snow White Sox	3	12	4\n" +
+"Snowcapped Mountain Lions	3	23	10\n" +
+"Soaking Wet Bar	3	13	7\n" +
+"Social Butterfly Net	3	18	6\n" +
+"Social Security Camera	3	20	6\n" +
+"Soda Pop Legend	3	13	4\n" +
+"Soda Pop Quiz	3	11	4\n" +
+"Source Code Name	3	14	6\n" +
+"Space Mountain Climbing	3	21	5\n" +
+"Spacecraft Mission Accomplished	3	29	10\n" +
+"Spaghetti Western Hemisphere	3	26	9\n" +
+"Spare Key Ingredient	3	18	5\n" +
+"Spare Key Role	3	12	5\n" +
+"Spare Tire Shop	3	13	5\n" +
+"Speaking Engagement Ring	3	22	8\n" +
+"Speed Dial Tone	3	13	5\n" +
+"Spelling Bee Pollen	3	17	8\n" +
+"Spelling Bee Sting	3	16	8\n" +
+"Spicy Salsa Dancing	3	17	5\n" +
+"Spider Monkey Business	3	20	6\n" +
+"Spider Web Design	3	15	6\n" +
+"Square Root Vegetables	3	20	6\n" +
+"Stage Right Fielder	3	17	5\n" +
+"Stainless Steel Magnolias	3	23	9\n" +
+"Stand Pat Sedgewick	3	17	5\n" +
+"Star Power Plug	3	13	4\n" +
+"Staring Contest Rules	3	19	7\n" +
+"State University Bridge	3	21	5\n" +
+"Step Stool Pigeon	3	15	4\n" +
+"Stephen Curry Chicken	3	19	7\n" +
+"Stephen King Crab	3	15	7\n" +
+"Stephen King Kong	3	15	7\n" +
+"Steve Martin Landau	3	17	5\n" +
+"Steve Martin Lawrence	3	19	5\n" +
+"Stevie Wonder Bread	3	17	6\n" +
+"Stevie Wonder Woman	3	17	6\n" +
+"Student Body Type	3	15	7\n" +
+"Study Team Jersey	3	15	5\n" +
+"Stuffed Animal Shelter	3	20	7\n" +
+"Stunt Double Espresso	3	19	5\n" +
+"Subsequent Event Planner	3	22	10\n" +
+"Sugar Rush Delivery	3	17	5\n" +
+"Summer Cottage Cheese	3	19	6\n" +
+"Summer School Bus	3	15	6\n" +
+"Supermarket Chain Letter	3	22	11\n" +
+"Surf City Council	3	15	4\n" +
+"Surfer Girl Power	3	15	6\n" +
+"Sushi Bar Mitzvah	3	15	5\n" +
+"Swan Lake Erie	3	12	4\n" +
+"Syntagma Square Mile	3	18	8\n" +
+"Syntagma Square Root	3	18	8\n" +
+"Tabby Cat Burglar	3	15	5\n" +
+"Table Wine Cellar	3	15	5\n" +
+"Take Cover Price	3	14	4\n" +
+"Talent Search Warrant	3	19	6\n" +
+"Tap Water Park	3	12	3\n" +
+"Tea Rose Quartz	3	13	3\n" +
+"Teachers Pet Rock	3	15	8\n" +
+"Technical Support Hose	3	20	9\n" +
+"Teen Wolf Spiders	3	15	4\n" +
+"Television Commercial Truck	3	25	10\n" +
+"Tennis Elbow Grease	3	17	6\n" +
+"Tess Ocean Liner	3	14	4\n" +
+"Tess Ocean Waves	3	14	4\n" +
+"Test Tube Socks	3	13	4\n" +
+"Thames River Dolphin	3	18	6\n" +
+"Thin Air Fryer	3	12	4\n" +
+"Think Fast Runner	3	15	5\n" +
+"Think Positive Charge	3	19	5\n" +
+"Think Tank Top	3	12	5\n" +
+"Thomas Jefferson Airplane	3	23	6\n" +
+"Thomas Jefferson Davis	3	20	6\n" +
+"Thompson Square Root	3	18	8\n" +
+"Ticket Window Seat	3	16	6\n" +
+"Tickled Pink Cadillac	3	19	7\n" +
+"Tickled Pink Floyd	3	16	7\n" +
+"Tickled Pink Lemonade	3	19	7\n" +
+"Tidal Wave Goodbye	3	16	5\n" +
+"Tight Spot Remover	3	16	5\n" +
+"Tinted Glass Slipper	3	18	6\n" +
+"Tire Jack Black	3	13	4\n" +
+"Toilet Water Buffalo	3	18	6\n" +
+"Tom Cruise Control	3	16	3\n" +
+"Tom Cruise Ship	3	13	3\n" +
+"Tooth Fairy Godmother	3	19	5\n" +
+"Tooth Fairy Tale	3	14	5\n" +
+"Tootsie Roll Call	3	15	7\n" +
+"Top Speed Limit	3	13	3\n" +
+"Top Ten Lit	3	9	3\n" +
+"Tough Love Yourself	3	17	5\n" +
+"Tough Times Square	3	16	5\n" +
+"Traffic Jam Session	3	17	7\n" +
+"Traffic Report Card	3	17	7\n" +
+"Treasure Chest Cold	3	17	8\n" +
+"Tree Branch Library	3	17	4\n" +
+"Trophy Case History	3	17	6\n" +
+"Tropical Climate Change	3	21	8\n" +
+"Ty Cobb Salad	3	11	2\n" +
+"Tyler Florence Henderson	3	22	5\n" +
+"Ugly Betty Boop	3	13	4\n" +
+"Uncle Sam Diamond	3	15	5\n" +
+"Unlimited Access Denied	3	21	9\n" +
+"Unlimited Space Exploration	3	25	9\n" +
+"Urban Park Bench	3	14	5\n" +
+"Utah Jazz Music	3	13	4\n" +
+"Vanna White Bread	3	15	5\n" +
+"Vanna White Chocolate	3	19	5\n" +
+"Vanna White House	3	15	5\n" +
+"Vanna White Russian	3	17	5\n" +
+"Vanna White Sale	3	14	5\n" +
+"Vegan Bean Salad	3	14	5\n" +
+"Victor Hugo Weaving	3	17	6\n" +
+"Victory Lap Dog	3	13	7\n" +
+"Video Game Bird	3	13	5\n" +
+"Vin Diesel Engine	3	15	3\n" +
+"Vin Diesel Fuel	3	13	3\n" +
+"Vincent Price Point	3	17	7\n" +
+"Vincent Price Tag	3	15	7\n" +
+"Visiting Team Jersey	3	18	8\n" +
+"Vocal Range Rover	3	15	5\n" +
+"Vorosmarty Square Mile	3	20	10\n" +
+"Wagon Train Conductor	3	19	5\n" +
+"Wall Safe Bet	3	11	4\n" +
+"Washington Irving Berlin	3	22	10\n" +
+"Watch Chain Reaction	3	18	5\n" +
+"Water Buffalo Wings	3	17	5\n" +
+"Water Fountain Pen	3	16	5\n" +
+"Water Sports Massage	3	18	5\n" +
+"Wedding Bells Beach	3	17	7\n" +
+"Wedding March Madness	3	19	7\n" +
+"Wedding Ring Toss	3	15	7\n" +
+"Weekend Getaway Car	3	17	7\n" +
+"Welcomed Guest Ranch	3	18	8\n" +
+"West Bank Teller	3	14	4\n" +
+"White House Dressing	3	18	5\n" +
+"Whitney Houston Texas	3	19	7\n" +
+"Winter Cottage Cheese	3	19	6\n" +
+"Wisdom Tooth Fairy	3	16	6\n" +
+"Wishing Well Done	3	15	7\n" +
+"Wooden Hanger Steak	3	17	6\n" +
+"Wrigley Field Trip	3	16	7\n" +
+"Yacht Club Sandwich	3	17	5\n" +
+"Yellow Submarine Sandwich	3	23	6\n" +

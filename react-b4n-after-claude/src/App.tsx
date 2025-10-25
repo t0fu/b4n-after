@@ -225,7 +225,7 @@ const getDisplayGrid = () => {
                 navigator.share(shareData);
               } catch {
                 navigator.clipboard.writeText(
-                  `${shareData.title}\n${shareData.text}\n${shareData.url}`
+                  `${shareData.title}\n${shareData.text}\n${shareData.url}\n${shareData.date}`
                 );
                 showToastMessage('Copied to clipboard!');
               }
