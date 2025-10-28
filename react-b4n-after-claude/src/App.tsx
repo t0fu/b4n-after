@@ -215,17 +215,21 @@ const getDisplayGrid = () => {
             <div className="stars" onClick={closeDiv}>{'⭐'.repeat(stars)}</div>
             <p>Time: {initialTime - timeLeft}s</p>
             <button className="restart-hint" onClick={() => {
+              const date = today;
+              const title = 'I just scored ' + '⭐'.repeat(stars) + ' stars in ' + (initialTime - timeLeft) +'s!';
+              const text = 'Can you beat my score?';
+              const url =  window.location.href;
               const shareData = {
-                date: today,
-                title: 'I just scored ' + '⭐'.repeat(stars) + ' stars in ' + (initialTime - timeLeft) +'s!',
-                text: 'Can you beat my score?',
-                url: window.location.href
+                date: date,
+                title: title,
+                text: `${title}\n${text}\n${url}\n${date}`,
+                url: url
               };
               try {
                 navigator.share(shareData);
               } catch {
                 navigator.clipboard.writeText(
-                  `${shareData.title}\n${shareData.text}\n${shareData.url}\n${shareData.date}`
+                  `${title}\n${text}\n${url}\n${date}`,
                 );
                 showToastMessage('Copied to clipboard!');
               }
