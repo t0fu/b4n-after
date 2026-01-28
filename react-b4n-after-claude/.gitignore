@@ -1,23 +1,69 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-package-lock.json*
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules
+.pnpm-store
+.DS_Store
+.yarnrc.yml
 
 # testing
 /coverage
 
-# production
+# Builds or Temporary
 /build
+dist
+dist-ssr
+*.local
+.dccache
 
-# misc
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+.idea
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# certificates
+*.cer
+*.crt
+*.key
+*.p12
+*.pem
+*.pfx
+
+# local env files
+*.local
+.env.local
+.env.*.local
+configs/app/*.json
+!/configs/app/environment.json
+packages/**/public/config/*.json
+.devcontainer/.env
+dict
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# tsconfig cache
+tsconfig.tsbuildinfo
