@@ -187,6 +187,52 @@ const getDisplayGrid = () => {
   return grid;
 };
 
+const shareScore = async () => {
+  const date = today;
+  const title = 'I just scored ' + '⭐'.repeat(stars) + ' stars in ' + (initialTime - timeLeft) + 's!';
+  const prompt = 'Can you beat my score?';
+  const url = window.location.href;
+  const text = `${title}\n${prompt}\n${url}\n${date}`;
+  const shareData = { date, title, text, url };
+
+  if (navigator.share) {
+    try {
+      await (navigator as any).share(shareData);
+      return;
+    } catch {
+      // share failed or was cancelled — fall back to clipboard
+    }
+  }
+
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    try {
+      await navigator.clipboard.writeText(text);
+      showToastMessage('Copied to clipboard!');
+      return;
+    } catch {
+      // clipboard API failed
+    }
+  }
+
+  // Absolute worst case fallback
+  const textarea = document.createElement('textarea');
+  textarea.value = text;
+  textarea.setAttribute('readonly', '');
+  textarea.style.position = 'absolute';
+  textarea.style.left = '-9999px';
+  document.body.appendChild(textarea);
+  textarea.select();
+  try {
+    document.execCommand('copy');
+  } catch {
+    // ignore
+  }
+  document.body.removeChild(textarea);
+
+  // Let user know sharing is unavailable
+  showToastMessage('Sharing unavailable on this browser.');
+};
+
     // Only show landing page if showLanding is true
   if (showLanding) {
     return (
@@ -214,26 +260,7 @@ const getDisplayGrid = () => {
             <h2>{ stars !== 5 ? 'Game Over!' : 'You won!' }</h2>
             <div className="stars" onClick={closeDiv}>{'⭐'.repeat(stars)}</div>
             <p>Time: {initialTime - timeLeft}s</p>
-            <button className="restart-hint" onClick={() => {
-              const date = today;
-              const title = 'I just scored ' + '⭐'.repeat(stars) + ' stars in ' + (initialTime - timeLeft) +'s!';
-              const text = 'Can you beat my score?';
-              const url =  window.location.href;
-              const shareData = {
-                date: date,
-                title: title,
-                text: `${title}\n${text}\n${url}\n${date}`,
-                url: url
-              };
-              try {
-                navigator.share(shareData);
-              } catch {
-                navigator.clipboard.writeText(
-                  `${title}\n${text}\n${url}\n${date}`,
-                );
-                showToastMessage('Copied to clipboard!');
-              }
-            }}>Share</button>
+            <button className="restart-hint" onClick={shareScore}>Share</button>
           </div>
         )}
         <Toast 
