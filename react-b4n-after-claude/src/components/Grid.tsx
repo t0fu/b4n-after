@@ -8,8 +8,8 @@ interface GridProps {
 
 const Grid: React.FC<GridProps> = ({ letters }) => (
   <div className="grid">
-    {letters.map((row) => {
-      const rowKey = row.join('');
+    {letters.map((row, i) => {
+      const rowKey = `${row.join('')}-${i}`;
       return (
         <div key={rowKey} className="grid-row">
           {row.map((letter, j) => {
