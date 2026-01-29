@@ -35,7 +35,7 @@
   font-weight: bold;
   transition: background-color 0.1s;
   text-align: center; /* Center the text */
-  margin: 16px 0px; /* Add horizontal margin to match the gap */
+  margin: 16px 0; /* Add horizontal margin to match the gap */
 }
 
 .key:active,
