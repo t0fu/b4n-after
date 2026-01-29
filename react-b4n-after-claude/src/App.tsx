@@ -17,24 +17,8 @@ interface Puzzle {
 let initialTime = 30;
 
 const App: React.FC = () => {
-  const [puzzles, setPuzzles] = useState<Puzzle[]>([]);
-  const [currentPuzzleIndex, setCurrentPuzzleIndex] = useState(0);
-  const [input, setInput] = useState('');
-  const [timeLeft, setTimeLeft] = useState(initialTime);
-  const [stars, setStars] = useState(0);
-  const [gameOver, setGameOver] = useState(false);
-  const [isShaking, setIsShaking] = useState(false);
-  const [showLanding, setShowLanding] = useState(true);
   const today = new Date().toDateString();
-  const [toastMessage, setToastMessage] = useState('');
-  const [showToast, setShowToast] = useState(false);
-
-  const showToastMessage = (message: string) => {
-    setToastMessage(message);
-    setShowToast(true);
-  };
-
-  useEffect(() => {
+  const [puzzles, setPuzzles] = useState<Puzzle[]>(() => {
     const rand = new Rand(today);
     const lines = clues_3_words.split('\n').filter(line => line.trim());
 
@@ -52,20 +36,70 @@ const App: React.FC = () => {
         return { first, middle, last };
       })
       .sort(() => rand.next());
+    // console.log(todaysPuzzles);
+    return todaysPuzzles;
+  });
+  const [currentPuzzleIndex, setCurrentPuzzleIndex] = useState(0);
+  const [input, setInput] = useState('');
+  const [stars, setStars] = useState(0);
+  const [timeLeft, setTimeLeft] = useState(initialTime);
+  const [manualGameOver, setManualGameOver] = useState(false);
+  const gameOver = manualGameOver || timeLeft === 0;
+  const [isShaking, setIsShaking] = useState(false);
+  const [showLanding, setShowLanding] = useState(true);
+  const [toastMessage, setToastMessage] = useState('');
+  const [showToast, setShowToast] = useState(false);
 
-    console.log(todaysPuzzles);
-    setPuzzles(todaysPuzzles);
-  }, []);
+  const showToastMessage = (message: string) => {
+    setToastMessage(message);
+    setShowToast(true);
+  };
 
   useEffect(() => {
     if (timeLeft > 0 && !gameOver) {
       const timer = setInterval(() => setTimeLeft(t => t - 1), 1000);
       return () => clearInterval(timer);
     }
-    else if (timeLeft === 0) {
-      setGameOver(true);
-    }
   }, [timeLeft, gameOver]);
+
+  const skipPuzzle = () => {
+    if (gameOver) {
+      setCurrentPuzzleIndex(i => ((i + 1) % 5));
+      return;
+    }
+
+    setPuzzles((prev) => {
+      if (prev.length === 0 || currentPuzzleIndex < 0 || currentPuzzleIndex >= prev.length) {
+        return prev;
+      }
+      const next = prev.slice();
+      const [removed] = next.splice(currentPuzzleIndex, 1);
+      next.push(removed);
+      return next;
+    });
+
+    setInput('');
+  };
+
+  const checkAnswer = (key: string = '') => {
+    const currentPuzzle = puzzles[currentPuzzleIndex];
+    if ((input.toLowerCase() === currentPuzzle.middle.toLowerCase() && key === '')
+      || (input.toLowerCase() + key.toLocaleLowerCase() === currentPuzzle.middle.toLowerCase())) {
+      setStars(s => s + 1);
+      if (currentPuzzleIndex === 4) {
+        setManualGameOver(true);
+      }
+      else {
+        setCurrentPuzzleIndex(i => i + 1);
+      }
+      setInput('');
+    }
+    else {
+      setInput('');
+      setIsShaking(true);
+      setTimeout(() => setIsShaking(false), 500);
+    }
+  };
 
   const handleKeyPress = (key: string) => {
     if (gameOver) {
@@ -100,41 +134,9 @@ const App: React.FC = () => {
     }
   };
 
-  const skipPuzzle = () => {
-    if (gameOver) {
-      setCurrentPuzzleIndex(i => ((i + 1) % 5));
-    }
-    else {
-      const currentPuzzle = puzzles[currentPuzzleIndex];
-      puzzles.push(currentPuzzle);
-      puzzles.splice(currentPuzzleIndex, 1);
-      setInput('');
-    }
-  };
-
-  const checkAnswer = (key: string = '') => {
-    const currentPuzzle = puzzles[currentPuzzleIndex];
-    if ((input.toLowerCase() === currentPuzzle.middle.toLowerCase() && key === '')
-      || (input.toLowerCase() + key.toLocaleLowerCase() === currentPuzzle.middle.toLowerCase())) {
-      setStars(s => s + 1);
-      if (currentPuzzleIndex === 4) {
-        setGameOver(true);
-      }
-      else {
-        setCurrentPuzzleIndex(i => i + 1);
-      }
-      setInput('');
-    }
-    else {
-      setInput('');
-      setIsShaking(true);
-      setTimeout(() => setIsShaking(false), 500);
-    }
-  };
-
   const getDisplayGrid = () => {
   // Create a new array for each row to avoid reference issues
-    const grid = Array.from({ length: 5 }).fill(null).map(() => Array.from({ length: 10 }).fill(''));
+    const grid = Array.from({ length: 5 }).fill(null).map(() => Array.from({ length: 10 }).fill('')) as string[][];
 
     if (puzzles.length > 0) {
       const current = puzzles[currentPuzzleIndex];
@@ -157,7 +159,7 @@ const App: React.FC = () => {
       });
       const currentPos = Math.max(0, Math.floor((10 - current.middle.length) / 2));
 
-      secondWord.split('').forEach((char, i) => {
+      secondWord.split('').forEach((_char, i) => {
         if (currentPos + i < 10) {
           grid[2][currentPos + i] = ' ';
         }
@@ -201,7 +203,7 @@ const App: React.FC = () => {
     const text = `${title}\n${prompt}\n${url}\n${date}`;
     const shareData = { date, title, text, url };
 
-    if (navigator.share) {
+    if (typeof navigator.share === 'function') {
       try {
         await (navigator as any).share(shareData);
         return;
