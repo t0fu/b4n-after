@@ -202,29 +202,11 @@ const App: React.FC = () => {
     const url = window.location.href;
     const text = `${title}\n${prompt}\n${url}\n${date}`;
     const shareData = { date, title, text, url };
+    const errors = [];
+    // GECKO IS A LIAR
+    const isGeckoDesktop = navigator.userAgent.includes('Gecko/') && !/Android|Mobile|Tablet/.test(navigator.userAgent);
 
-    if (typeof navigator.share === 'function') {
-      try {
-        await (navigator as any).share(shareData);
-        return;
-      }
-      catch {
-      // share failed or was cancelled — fall back to clipboard
-      }
-    }
-
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      try {
-        await navigator.clipboard.writeText(text);
-        showToastMessage('Copied to clipboard!');
-        return;
-      }
-      catch {
-      // clipboard API failed
-      }
-    }
-
-    // Absolute worst case fallback
+    // Absolute worst case baseline: use execCommand to copy to clipboard
     const textarea = document.createElement('textarea');
     textarea.value = text;
     textarea.setAttribute('readonly', '');
@@ -234,12 +216,43 @@ const App: React.FC = () => {
     textarea.select();
     try {
       document.execCommand('copy');
+      // success = true;
     }
-    catch {
-    // ignore
+    catch (e) {
+      errors.push(e);
     }
     document.body.removeChild(textarea);
 
+    // Because any `await` expires the user gesture context, we can only try ONE of the async APIs below
+
+    // Try Web Share API first (if not on Gecko desktop)
+    if (!isGeckoDesktop && typeof navigator.canShare === 'function' && navigator.canShare?.(shareData)) {
+      try {
+        await (navigator as any).share(shareData);
+      }
+      catch (e) {
+      // share failed or was cancelled — fall back to clipboard
+        errors.push(e);
+      }
+    }
+    // Otherwise, try Clipboard API
+    else if (navigator.clipboard && navigator.clipboard.writeText) {
+      try {
+        await navigator.clipboard.writeText(text);
+      }
+      catch (e) {
+      // clipboard API failed
+        errors.push(e);
+      }
+    }
+
+    if (errors.length === 0) {
+      // Let user know score was shared / copied
+      showToastMessage('Score shared to clipboard!');
+      return;
+    }
+
+    console.error('Share failed:', errors);
     // Let user know sharing is unavailable
     showToastMessage('Sharing unavailable on this browser.');
   };
