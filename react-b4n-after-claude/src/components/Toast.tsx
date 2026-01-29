@@ -1,4 +1,5 @@
-import React, { useEffect } from 'react';
+import * as React from 'react';
+import { useEffect } from 'react';
 import '../styles/toast.css';
 
 interface ToastProps {
@@ -17,11 +18,13 @@ const Toast: React.FC<ToastProps> = ({ message, isVisible, onClose }) => {
     }
   }, [isVisible, onClose]);
 
-  return isVisible ? (
-    <div className="toast">
-      {message}
-    </div>
-  ) : null;
+  return isVisible
+    ? (
+        <div className="toast">
+          {message}
+        </div>
+      )
+    : null;
 };
 
 export default Toast;

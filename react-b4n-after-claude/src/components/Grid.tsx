@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import LetterBox from './LetterBox';
 import '../styles/grid.css';
 
@@ -8,13 +8,17 @@ interface GridProps {
 
 const Grid: React.FC<GridProps> = ({ letters }) => (
   <div className="grid">
-    {letters.map((row, i) => (
-      <div key={i} className="grid-row">
-        {row.map((letter, j) => (
-          <LetterBox key={`${i}-${j}`} letter={letter} />
-        ))}
-      </div>
-    ))}
+    {letters.map((row, i) => {
+      const rowKey = `${row.join('')}-${i}`;
+      return (
+        <div key={rowKey} className="grid-row">
+          {row.map((letter, j) => {
+            const letterKey = `${rowKey}-${letter}-${j}`;
+            return <LetterBox key={letterKey} letter={letter} />;
+          })}
+        </div>
+      );
+    })}
   </div>
 );
 
