@@ -16,29 +16,29 @@ interface Puzzle {
 
 let initialTime = 30;
 
+const today = new Date().toDateString();
+const todaysPuzzlesSeed: Puzzle[] = (() => {
+  const rand = new Rand(today);
+  const lines = clues_3_words.split('\n').filter(l => l.trim());
+  const randSet = new Set<number>();
+  while (randSet.size < Math.min(5, lines.length)) {
+    randSet.add(Math.min(Math.floor(rand.next() * lines.length), lines.length - 1));
+  }
+  const randIdx = Array.from(randSet);
+  const todaysPuzzles = lines
+    .filter((_, i) => randIdx.includes(i))
+    .map((line) => {
+      const [first, middle, last] = line.substring(0, line.indexOf('\t')).split(' ', 3);
+      return { first, middle, last };
+    })
+    .sort(() => rand.next());
+  // eslint-disable-next-line no-console
+  console.log(todaysPuzzles); // Should be removed during build
+  return todaysPuzzles;
+})();
+
 const App: React.FC = () => {
-  const today = new Date().toDateString();
-  const [puzzles, setPuzzles] = useState<Puzzle[]>(() => {
-    const rand = new Rand(today);
-    const lines = clues_3_words.split('\n').filter(line => line.trim());
-
-    // Get 5 unique random indices
-    const randSet = new Set();
-    while (randSet.size < Math.min(5, lines.length)) {
-      randSet.add(Math.min(Math.floor(rand.next() * lines.length), lines.length - 1));
-    }
-
-    const randIdx = Array.from(randSet);
-    const todaysPuzzles = lines
-      .filter((_, idx) => randIdx.includes(idx))
-      .map((line) => {
-        const [first, middle, last] = line.substring(0, line.indexOf('\t')).split(' ', 3);
-        return { first, middle, last };
-      })
-      .sort(() => rand.next());
-    // console.log(todaysPuzzles);
-    return todaysPuzzles;
-  });
+  const [puzzles, setPuzzles] = useState<Puzzle[]>(() => todaysPuzzlesSeed);
   const [currentPuzzleIndex, setCurrentPuzzleIndex] = useState(0);
   const [input, setInput] = useState('');
   const [stars, setStars] = useState(0);
