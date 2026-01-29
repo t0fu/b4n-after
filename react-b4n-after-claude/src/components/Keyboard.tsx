@@ -41,6 +41,7 @@ const Keyboard: React.FC<KeyboardProps> = ({ onKeyPress }) => {
       if (button) {
         // Add visual feedback
         button.classList.add('active');
+        // eslint-disable-next-line react-web-api/no-leaked-timeout
         setTimeout(() => button.classList.remove('active'), 100);
 
         // Trigger the onKeyPress
@@ -57,8 +58,8 @@ const Keyboard: React.FC<KeyboardProps> = ({ onKeyPress }) => {
 
   return (
     <div className="keyboard">
-      {KEYS.map((row, i) => (
-        <div key={i} className="keyboard-row">
+      {KEYS.map(row => (
+        <div key={row.join('')} className="keyboard-row">
           {row.map(key => (
             <button
               key={key}
