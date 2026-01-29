@@ -16,6 +16,16 @@ interface Puzzle {
 
 let initialTime = 30;
 
+// replace the .sort(() => rand.next()) call with this deterministic shuffle:
+function shuffleWithRand<T,>(arr: T[], rand: Rand) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(rand.next() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 const today = new Date().toDateString();
 const todaysPuzzlesSeed: Puzzle[] = (() => {
   const rand = new Rand(today);
@@ -25,13 +35,15 @@ const todaysPuzzlesSeed: Puzzle[] = (() => {
     randSet.add(Math.min(Math.floor(rand.next() * lines.length), lines.length - 1));
   }
   const randIdx = Array.from(randSet);
-  const todaysPuzzles = lines
-    .filter((_, i) => randIdx.includes(i))
-    .map((line) => {
-      const [first, middle, last] = line.substring(0, line.indexOf('\t')).split(' ', 3);
-      return { first, middle, last };
-    })
-    .sort(() => rand.next());
+  const todaysPuzzles = shuffleWithRand(
+    lines
+      .filter((_, i) => randIdx.includes(i))
+      .map((line) => {
+        const [first, middle, last] = line.substring(0, line.indexOf('\t')).split(' ', 3);
+        return { first, middle, last };
+      }),
+    rand,
+  );
   // eslint-disable-next-line no-console
   console.log(todaysPuzzles); // Should be removed during build
   return todaysPuzzles;
